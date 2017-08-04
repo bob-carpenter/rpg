@@ -1,0 +1,133 @@
+BASE ABILITY POINT BUY
+STR: 10  DEX: 13  CON: 12  WIS: 13  INT: 14  CHA: 12
+
+HALF ELF
+STR: 10  DEX: 14  CON: 12  WIS: 14  INT: 14  CHA: 14
+
+[any multiclass other than barbarian and paladin]
+
+ack, no:  only get two +1s  can't have that --- half elf
+
+ROGUE 1
+Sneak Attack: d6
+Skills (4):
+  - Acrobatics
+  - Athletics
+  - Stealth
+  - Perception
+Tools
+  - Thieves Tools
+Expertise (2):
+  - Stealth x 2
+  - Perception x 2
+
+Background: NOBLE
+  - History
+  - Persuasion
+
+proficiency +3
+
++5 Acrobatics (rogue 1)
++2 x Animal Handling
++8 Arcana (bard 1, expert bard 3)
++3 Athletics (rogue 1)
++8 Deception (skilled, expert rogue 6)
++5 History (noble)
++5 Insight (skilled)
++2 x Intimidation
++5 Investigation (skilled)
++5 Medicine (bard 3)
++5 Nature (bard 3)
++8 Perception (rogue 1, expert rogue 1)
++2 x Performance
++5 Persuasion (noble, expert rogue 6)
++8 Religion (bard 3, expert bard 3)
++2 x Sleight of Hand
++8 Stealth (rogue 1, expert rogue 1)
++5 Survival (ranger 1)
+
+NOBLE (finishing school)
+  - history
+  - persuasion
+
+SKILLED (detective)
+  - deception
+  - insight
+  - investigation
+
+HALF-ELF (+1)              [ 1]
+BACKGROUND (+2)            [ 3]
+-------------------------------
+ROGUE 1 (+4)               [ 7]
+CLERIC KNOWLEDGE 1 (+2)    [ 9]
+BARD 1 (+1)                [10]
+RANGER 1 (+1)              [11]
+BARD 2
+BARD 3 (+3)                [14]
+BARD 4 (+3 skilled feat)   [17]
+-----------------------
+17 skills in 7 levels
+
+ROGUE 11
+  +++ Reliable Talent: min roll 10 +++
+
+ROGUE 1 (the physical aspects)
+  - acrobatics
+  - atheltics
+  - perception * 2
+  - stealth * 2
+  - (thieves tools)
+
+ROGUE (ASSASSIN) 3
+  - poisoners kit
+  - disguise kit
+
+ROGUE 4
+SKILLED (3 skills)  [flavor: detective]
+  - Deception
+  - Insight
+  - Investigation
+
+ROGUE 6
+  - (deception * 2)
+  - (persuasion * 2)
+
+BARD 1
+  - arcana
+  - (musical instrument)
+
+BARD 3
+  - (arcana * 2)
+  - medicine
+  - nature
+  - religion * 2
+
+BARD 4
+  Feat: ALERT
+        or OBSERVANT (+5 passive wisdom & int [percept, investigate])
+
+RANGER 1
+  - survival
+
+CLERIC (NATURE) 1
+  - one of (animal handling, nature, survival)
+
+CLERIC (KNOWLEDGE DOMAIN) 1
+  - two of (arcana, history, nature, religion)
+
+CLERIC (KNOWLEDGE DOMAIN) 2
+  - proficiency with chosen skill or tool for 10m (channel divinity)
+
+
+
+
+
+============================
+
+Brawler Urban Barbarian
+
+BEST SYNERGY---TAG TEAM
+=======================
+Buffer and Striker?
+Reaction Causer back-to-back?
+

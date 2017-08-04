@@ -1,0 +1,298 @@
+
+
+ABILITY    STRENGTH  AGILITY  FORTITUDE  ACUITY
+--------------------------------------------------------
+PHYSICAL     str       dex      con      (perception)
+  MENTAL     cha       int      wis      (insight)
+
+
+sprint speed:    str >> dex
+marathon speed:  dex >> con
+
+4e: fortitude (str + con), reflex (dex + int), will (wis + cha)
+
+CHECKS:
+UNIFORM RESOLUTION STRATEGY
+  3d6 > ability - difficulty
+* uncontested:  fixed passive difficulty
+* contested: rolled mod (+/-
+
+ACTIONS
+* attack and defense for any action involve contributions
+  from multiple attributes and training
+
+SKILLS
+specialized abilities in particular activities
+* d&d skills: animal handling, tracking, history, arcana (?), etc.
+* fighting skills: weapons, maneuvers, grappling, brawling, charging
+* magic skills:  power boosts (slots), learned spells, modifiers
+
+SAVING THROWS
+nope, just contested attacks;  should be able to set it up so that the player always rolls if they want to
+
+PRACTICE AND TRAINING
+* skills can be improved by practice and training
+* abilities can be improved by intensive practice and training
+
+COMBAT ATTACKS
+
+           ATTACK    DEFEND
+HIT       dex, str     dex
+DAMAGE    dex, str     armor
+\
+(for ranged hits, include perception)
+Journal: FLEX -> { Avail, Ward}
+           Avail -> {offense, damage}
+           Ward -> {defense, proof}(defense/proof)
+
+TO HIT
+finesse:  dex >> str
+ordinary:  str & dex  (equally weighted)
+brute: str >> dex
+missile: dex >> perc (add str damage if bow)
+
+proficiencies in weapons:  just all foes into foex
+
+
+SCALE
+* everyting on log_{sqrt 2} scale (1, 1.4, 2, 2.8, ...)
+* use 4dF (fudge), giving -4 to +4 without much swinginess
+
+* makes combinations of skills multiplicative
+* general rule:  random + (attack - defense) > 0
+  [tie goes to defender here---could change that to >= 0]
+
+DESIDERATA
+* easy to learn
+* bounded accuracy
+* uniform approach to proficiency that is more specific
+  than D&D (e.g., not all martial weapons)
+* more consequences than just HPs
+* crunchy squad-leader combat mini-game
+* crunchy character optimization mini-game
+* magic not overpowered
+* consequences to continuing to press on (exhaustion,
+  permanent injury, etc.)
+* flexible skills and training
+* grid or tabletop experience (distance vs. squares;  string)
+  --- different size bases (within 5' to attack)
+  --- string has to have center to edge plus some gap to clear
+  --- line of sight as given
+* magic pool tied to exhaustion and replenishing (zero to one,
+  otherwise double existing qi pool)---spells have different
+  costs
+* cantrips and rituals
+* source of magic (fiendish pacts, elemental sorcery, divine
+  boons, innate psionics, far realm,
+* range of simple to complex character creation with baskets
+  of skills (replaces notion of class)
+* easy to automate in a character sheet and online game tracker
+  with dice (this keys off simple resolution mechanic and knowing
+  weights of each roll e.g., dex >> str == 2:1 dex to strength, so
+  that +1 in dex is same as +2 in strength (or 3:2 where a +3 is
+  equal to a +2 and the scaling is 3/5 * dex + 2/5 * str)
+  --- only keep quarters!  e.g. sword: str/2, dex/4, int/4)
+
+MEH
+* classes
+* clerical vs. arcane magic
+* talents (saves, abilities and combos) vs. knowedge (history,
+  nature) vs. skills (picklock, performance)
+   vs. fighting (sword, bow, grapple)
+* short, long rest quantizing the adventuring day
+
+NEGATIVES
+* swingy results
+* save throws (keep mechanics uniform)---> replace w. contested
+
+
+==============================================================
+
+FUDGE DICE (http://members.dsl-only.net/~bing/frp/fudge/dice.html)
+
+4dF
+   n                   P(n)    P(n-)   P(n+)
+  ---                ------- ------- -------
+  -4       1/81        1.235   1.235 100.000
+  -3       4/81        4.938   6.173  98.765
+  -2      10/81       12.346  18.519  93.827
+  -1      16/81       19.753  38.272  81.481
+   0      19/81       23.457  61.728  61.728
+   1      16/81       19.753  81.481  38.272
+   2      10/81       12.346  93.827  18.519
+   3       4/81        4.938  98.765   6.173
+   4       1/81        1.235 100.000   1.235
+
+  Chance of very low/high result ..........  18.519
+  Chance of acceptable result (+/-1) ......  62.963
+
+3dF
+   n                   P(n)    P(n-)   P(n+)
+  ---                ------- ------- -------
+  -3       1/27        3.704   3.704 100.000
+  -2       3/27       11.111  14.815  96.296
+  -1       6/27       22.222  37.037  85.185
+   0       7/27       25.926  62.963  62.963
+   1       6/27       22.222  85.185  37.037
+   2       3/27       11.111  96.296  14.815
+   3       1/27        3.704 100.000   3.704
+
+  Chance of very low/high result ..........  14.815
+  Chance of acceptable result (+/-1) ......  70.370
+
+2dF
+   n                   P(n)    P(n-)   P(n+)
+  ---                ------- ------- -------
+  -2       1/9        11.111  11.111 100.000
+  -1       2/9        22.222  33.333  88.889
+   0       3/9        33.333  66.667  66.667
+   1       2/9        22.222  88.889  33.333
+   2       1/9        11.111 100.000  11.111
+
+  Chance of very low/high result ..........  11.111
+  Chance of acceptable result (+/-1) ......  77.778
+
+
+3d6
+Dice    pmf      cdf     ccdf
+3       0.46    0.46    100
+4       1.38    1.85    99.53
+5       2.77    4.62    98.14
+6       4.62    9.25    95.37
+7       6.94    16.20   90.74
+8       9.72    25.92   83.79
+9       11.57   37.50   74.07
+10      12.50   50.00   62.50
+11      12.50   62.50   50
+12      11.57   74.07   37.50
+13      9.72    83.79   25.92
+14      6.94    90.74   16.20
+15      4.62    95.37   9.25
+16      2.77    98.14   4.62
+17      1.38    99.53   1.85
+18      0.46    100     0.46
+
+pmf3d6 <- c(0, 0, 0.46, 1.38, 2.77, 4.62, 6.94, 9.72, 11.57, 12.5,
+            12.5, 11.57, 9.72, 6.94, 4.62, 2.77, 1.38, 0.46, 0, 0) / 100
+ccdf3d6 <- c(0, 0, 0.46, 1.85, 4.62, 9.25, 16.20, 25.92, 37.50,
+            50, 62.5, 74.07, 83.79, 90.74, 95.37, 98.14, 99.53, 100,
+            100, 100) / 100
+cdf3d6 <- rev(ccdf3d6)
+
+as_well <- function(pmf, cdf, diff) {
+  return(sum(pmf[1:(20-diff)] * cdf[(1 + diff):20]))
+}
+
+The following table gives you percent chance to hit
+the given AC with no mods (+0) and shows why 3d6
+is so much less swingy and why a +1 near DC 11 is more
+than twice as big a boost as with a d20:
+
+AC       3d6     1d20
+-----------------------------
+1      100.0     100
+2      100.0      95
+3      100.0      90
+4       99.5      85
+5       98.1      80
+6       95.4      75
+7       90.8      70
+8       83.7      65
+9       74.0      60
+10      62.5      55
+---------------------
+11      50.0      50
+---------------------
+12      37.5      45
+13      25.9      40
+14      16.2      35
+15       9.3      30
+16       4.7      25
+17       1.9      20
+18       0.5      15
+19       0.0      10
+20       0.0       5
+21       0.0       0
+
+You'll see the d20 is flat, whereas the 3d6 is tapered
+in gaps between chances at the end.  The point is that when
+you have AC 15 and a peasant with +0, there's only a 10%
+chance of hitting rather than a 30% chance.
+
+Suppose we have a peasant with a +0 to hit and
+a decent fighter with a +5 to hit;  here are there chances
+
+3d6
+vs. AC 11  fighter: 95.4     peasant: 50.0
+vs. AC 15  fighter: 62.5     peasant:  9.3
+vs. AC 20  fighter:  9.3     peasant:  0.0
+
+d20
+vs. AC 11  fighter: 75     peasant: 50
+vs. AC 15  fighter: 55     peasant: 30
+vs. AC 20  fighter: 30     peasant:  5
+
+It makes that AC 20 really really hard to hit with 3d6
+butit makes AC 11 way easier---the numbers matter a lot
+more.  And here's one more way to look at it:
+
+probability attack with +0 mod is as good as one with +2
+3d6: 36%
+d20: 43%
+
+probability attack with +0 mod is as good as one with +5
+3d6: 14%
+d20: 30%
+
+probability attack with +0 mod is as good as one with +10
+3d6:   1%
+d20:  14%
+
+probability attack with +0 mod is as good as one with +15
+3d6:  0.5%
+d20:  3.8%
+
+
+
+
+If you're hitting
+AC 11, a +5 with 3d6 converts that into hitting AC 6, or
+a 95% chance, whereas with a 1d20 you only have a 75%
+chance.
+
+
+
+
+If you need to roll 3 or higher, you automatically make it.
+If you need to roll 5 or higher, that's a 98% chance.
+If you need to roll an 11 or higher, that's a 50% chance.
+If you have to roll 15 or higher, that's a 9.3% chance.
+If you have to roll 19 or higher, you're shit out of luck.
+
+
+Contrast this with the d20:
+      d20
+      %>=
+1     100
+2      95
+3      90
+4      85
+5      80
+...
+11     50
+...
+15     30
+16     25
+17     20
+18     15
+19     10
+20      5
+
+Need to roll 3 or higher?  Still a 10% chance of failure.
+Roll 5 or higher?  Only 80% chance.
+Roll 11, now that's 50%, same as with 3d6.
+Roll 15 or higher, that's a 30% chance.
+
+That means someone with a +0 modifier, has a 20% chance of
+hitting a difficulty 17 challenge and a 5% chance of hitting
+a difficulty 20 challenge.

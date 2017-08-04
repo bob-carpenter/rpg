@@ -1,0 +1,811 @@
+Ehawk: Tuning Songblade +2:  daily (free): trigger hit: ongoing 5
+  thunder; -2 penalty on first save vs. ongoing thunder; +2 to hit
+  target while taking ongoing thunder
+
+Thit: Duelists Weapon +2: daily (minor): combat advantage vs. next creature
+  attacked; +2d6 on crit, +2d8 with combat advantage
+
+Djarum:  Infectious flame: +2; daily (free): ongoing 5 fire (save
+  ends); aftereffect: one enemy within 2 squares of original target -- 
+  ongoing 5 fire
+
+DJARUM:  exsciccating weapon +2: crit +2d6 fire and necrotic;
+  vulnerable to fire or necrotic, treat as fire and necrotic
+  daily (free): trigger: hit enemy with this weapon
+      effect: +4 extra fire and necrotic damaage and target
+        is dazed until end of your next turn
+
+DJARUM: Flaming: +2 [* +3];  all untyped damage is fire (free to change);
+   crit +2d6 fire;
+  power (fire) daily (free)
+   trigger: hit with weapon
+   effect: attack deals extra 1d6 [* 2d6]fire and 
+           target takes ongoing 5 [* 10] fire (save ends)
+
++2 just 2d6 fire and ongoing 5
+
+
+  
+
+
+-----------------------------
+
+Kretek 
+Cure serious
+Harbinger of rebirth
+
+Djarum 
+Walk it off
+Dark vision 2 squares
+
+
+
+
+Djarum
+@@ DISCIPLE OF MADNESS
+
+Kretek:
+@@ WARDING MASTERY
+
+Thit:
+@@ ALERTNESS
+
+Ethanhawk:
+@@ DISCIPLE OF FREEDOM
+
+
+KRETEK
+==================================================
+
+Power (6th Level Warpriest Utility)
+--------------------------------------------------
+
+# CURE SERIOUS
+daily / std
+Range: Touch
+Target: self or one creature.
+Effect: target regains HPs as if it had spent 2 healing
+surges
+
+### LIGHT OF REVELATION
+daily / *minor*
+Range: Close burst 1
+Target: you and each ally in burst
+Effect: until end of your next turn
+  * creates bright light
+  * each target gets +5 Insight and Perception
+  * any enemy attacking in zone takes 5 radiant
+Sustain (Minor):  effect lasts unitl end of next turn
+
+MARK OF VICTORY 
+daily / *minor*
+Range: Close burst 5
+Target: 1 enemy in burst
+Effect: Until end of encounter, you and allies
+get +2 power bonus to attack and damage rolls against
+target.
+
+BLADES OF HOLY FIRE
+daily / *minor*
+Close burst 5
+Each ally in burst
+next time target hits , attack deals +1d6 fire and radiant
+
+DIVINE FAVOR 
+daily/std
+Touch -- you or one ally.
+Effect: Until end of encounter, +2 attack and damage and when
+first bloodied can spend a healing surge.
+
+DIVINE VIGOR 
+daily / *minor*
+Close burst 5 --- you and each ally in burst
+Effect: Each target regains second wind
+
+## SEIZED DESTINY 
+daily / std
+Close burst 5 --- you and each ally
+Target: you and each ally in burst
+Effect: target gains 
+  * 5 + your Wisdom mod temp HPs,
+  * +2 Will until until end of encounter
+
+STREAM OF LIFE
+daily / *minor*
+Effect:
+  * you take 5 ongoing damage (save ends, may choose not to save)
+  * an ally within 5 squares regains 15 HPs
+
+CENSURE UNHOLY
+*encounter* / *minor*
+Range: close burst 1
+Effect: creates a zone that lasts until end of your next turn
+  * when you move, zone moves with you
+  * within zone, allies gain +2 to all defenses (AC/Fort/Reflex/Will)
+    against undead
+  * if undead ends turn in zone, push it 1 square as free action
+
+CONCEAL PSYCHE
+*encounter* / *minor*
+Range: Personal
++4 bonus to will and +4 save vs. charm and psychic until end of next turn
+special:  can use to enable save vs. dominated at beginning of turn
+
+# EMPATHIC READ
+*encounter* / *immediate interrupt*
+close burst 5 --- triggering ally in burst
+Trigger: ally fails bluff, diplomacy or intimidate and dislikes result
+Effect: target rerolls and uses either result
+
+PEER THROUGH VOID
+*encounter* / *minor*
+effect: assume peer-through-the-void stance, 
+  * gain blindsight 3
+  * -2 attack vs. creatures outside blindsight range
+  * aberrant creatures grant combat advantage to you
+
+PRESCIENT MANEUVER
+*encounter* / *immediate interrupt*
+Trigger: enemy within 5 squares moves willingly
+Effect: shift number of squares equal to half your speed
+
+WARP IN THE WEAVE
+*encounter* / *immediate interrupt*
+Trigger: creature uses burst or blast that includes you
+Effect: spend a healing surge, regain no HPs, but 
+triggering burst or blast does not target your square.
+
+STEP TOGETHER
+*encounter* / *move*
+close burst 1 --- you and one ally in burst
+Each target teleports up to 5 squares and
+must end adjacent
+*Channel Divinity* --- only one channel per encounter
+
+(###) STONE SPEAK
+*encounter* / *minor*
+Personal
+Effect: make perception check with +5 to detect secret
+doors, hidden objects, and hidden creatures within 10 squares
+
+TRUE STRIKE
+*AT WILL* / standard
+Close burst 5 -- one ally in burst
+Effect: Target gains +4 to next attack roll before end
+of your next turn
+
+FEY SIGHT
+Daily / *minor*
+Personal
+Effect: Activate aura 5, you and allies in aura get
+  * low-light vision
+  * +2 perception checks
+
+
+
+FEAT
+--------------------------------------------------
+
+QUICK STEPS
++1 to speed
+
+(###) STONE CUNNING
++2 dungeoneering and +2 to any skill check to detect trap, hazard
+or secret door
+
+SOLID FOOTING
+Gain earthwalk ability --- ignore difficult terrain that
+is the result of rubble, uneven stone, or earthen construction
+
+AMOTH'S GRACE (power as feat)
+encounter / immediate *reaction*
+*channel divinity*
+Trigger:  ally takes critical hit or is bloodied
+Effect: Ally can spend healing surge
+
+## HARBINGER OF REBIRTH:
++2 bonus to heal checks
+allies within 5 squares gain +5 death saves
+
+DISCIPLE OF STONE
+When spend healing surge, get 5 temp HPs
+
+DISCIPLE OF LIGHT
+when spend a healing surge while bloodied, each
+ally within 5 squares gains 3 temp HPs (5 at 11th level)
+
+DURABLE
++2 surges
+
+@@ ## BATTLE HARDENED
++5 feat bonus to saves vs. fear
++2 initiative
+
+@@ PEER THROUGH VOID
+(see above)
+
+FROZEN SOUL
+resist 5 cold
++1 bonus to Will
+
+SUPERIOR FORTITUDE
++2 feat bonus to fortitude (+3 at 11th level)
+resist 3 ongoing damage (resist 6 at 11th level)
+
+TOUGHNESS
++5 HPs (+10 at 11th level)
+
+WINTER WALKER
+you gain ice walk:  
+  * ignore difficult terrain from ice and snow
+  * +5 feat bonus to checks vs. cold weather
+  * +5 feat bonus to acrobatics to balance on icy surfaces
+
+IMPLEMENT FOCUS
++1 damage for attacks made with holy symbol
+
+ALERTNESS
+* can't be surprised (!!!)
+* +2 feat bonus to perception checks
+
+@@ BORN OF ELEMENTS (taught by Djarum because you have arcana)
++2 feat bonus to endurance and intimidate
+* you can speak, read, and write Primordial (so can Djarum)
+
+## WASTELAND WANDERER
++2 feat bonus to nature, perception, and initiative (!!!)
+
+@@ ## (##) WARDING MASTERY
+* +2 feat bonus to perception for traps, hazards
+* +2 feat bonus to disable traps or hazards with arcana or thievery
+* +2 bonus to warding rituals
+* once per day ignore component cost of warding ritual
+
+SKILL FOCUS (arcana, heal, insight, religion, n
++3 to skill 
+
+ASTRAL HOLY SYMBOL
++2 damage for radiant attacks
++2 range on holy symbol attacks
+
+WARDING HOLY SYMBOL
++1 shield bonus to AC and reflex if you hit with a holy symbol attack power
++1 attacks vs. fortitude
+
+
+=================================================================
+=================================================================
+
+DJARUM
+
+1 power, 1 feat
+
+POWER (6th Level Elementalist)
+--------------------------------------------------
+
+BURNING BRIGHT (Firecrafter spell)
+daily / *minor*
+Personal
+Effect: aura 2 until end of encounter
+  * enemies in aura vulnerable 5 fire, and 
+    -2 save to ongoing fire saves
+  * nonmagical fires in aura can only be extinguished
+    if you allow them to be
+
+RAPID MOVE
+daily / *minor*
+Effect: take a move action
+
+# ARCANE EMPOWERMENT
+daily / *minor*
+Effect: until end of turn, increase size of your blasts and 
+bursts by 1
+
+CHAOTIC DEFENSE
+daily / *minor*
+Effect: roll d4
+  1:  2d6 + charisma mod temp HPs
+  2.  +2 to all defenses until end of encounter
+  3.  each creature attacking you takes 2d6 damage
+  4.  all of the above (!!!)
+
+EXTINGUISHING RAIN
+daily / std
+burst 10 --- you and allies in burst
+effect: until end of encounter, each target gets resistance to
+fire equal to your charisma mod (+5)
+target: one conjuration or zone that has fire keyword
+attack: +2 vs. will of targets creator (22 if that's you!)
+hit: target is destroyed and all effects end
+
+FIRE STRIDE
+*at-will* / *move*
+personal
+requirement: adjacent to campfire or larger fire
+effect: tepeport up to 10 squares to a square
+  adjacent to a campfire or larger fire
+
+LIGHTNING SHIFT
+encounter / *move*
+personal
+effect: shift your speed and ignore difficult terrain
+
+SUBTLETY OF THE GREEN WYRM
+daily / *minor*
+personal
+effect:  +5 power bonus to diplomacy, insight, intimidate until
+  end of encounter
+
+### SWIFT ESCAPE
+*encounter* / *immediate interrupt*
+trigger: hit by area or close attack
+effect: teleport 3 squares
+
+# WATER TO ICE
+*encounter* / standard
+burst 3 within 10 squares
+Effect: nonliving water in burst freezes to 6 inches
+mud or swamp freezes and becomes normal terriain
+wet floors change to slick ice becoming difficult
+water freezes and can be walked on
+ice remains until melts naturally
+
+EVERYBODY MOVE (intimidate)
+*encounter* / *minor*
+effect: push each target 1 square, but *not* into
+  hindering terrain
+
+HISTORICAL REVELATION
+encounter / immediate reaction
+close burst 5
+ally within 5 makes knowledge check and dislikes result
+effect: rerolls and uses either result
+
+INSIGHTFUL WARNING
+(see above)
+
+INTERNAL RESERVES
+trigger: required to roll saving throw
+effect: +4 power bonus on save
+  
+THIRD WIND
+*daily* / *minor*
+effect: spend healing surge
+
+WALK IT OFF
+encounter / no-action
+trigger: turn starts with ongoing
+effect: make save before taking damage
+
+WARP IN THE WEAVE
+(see above)
+
+DRAGONFLAME MANTLE
+*encounter* / *immediate interrupt*
+trigger: hit by attack
+effect: until end of next turn, +1 to all defenses
+ and any creature hitting with melee takes d6 fire damage
+
+## ROOT UNDERSTANDING
+daily/ *free action*
+trigger: see or hear language you don't understand
+effect: understand, read, speak, and write until end of
+  encounter
+
+FEAT
+--------------------------------------------------
+
+** PEER THROUGH VOID
+(see above)
+
+## FOCUSING SPELLFURY
+when you use sorceror at will attack and hit two or more enemeies,
+gain +2 damage with ranged and melee attack powers (including spells)
+until end of your next turn
+
+CHAMPION OF THE BLOODY CIRCLE
+training in streetwise, +2 intimidate, +2 streetwise checks
+
+DISCIPLE OF SHADOW
+darkvision with range of 2 squares
+
+DISTANT ADVANTAGE
+gain combat advantage for ranged or area attacks against
+any enemy flanked by your allies
+
+HIDDEN SNIPER
+if you have partial concealment against a target, you
+gain combat advantage with ranged attacks
+
+LOW LIGHT ADAPTATION
+gain low light vision
+
+FROZEN SOUL
+(see above)
+
+SWIFT RECOVERY
++3 to healing surge value
+
+UNFAILING VIGOR
+(see above)
+
+WINTER WALKER
+(see above)
+
+IMPLEMENT FOCUS
++1 damage with implement dagger attacks (all of your attacks)
+
+ALERTNESS
+(see above)
+
+## BORN OF ELEMENT
++2 endurance and intimidate
+(see above -- you'd get even better in Primordial :-)
+
+SKILL FOCUS
+(+3 in any skill --- see above)
+
+WEAPON PROFICIENCY
+parrying dagger (it'd give you +1 AC)
+
+
+=================================================================
+=================================================================
+
+ETHANHAWK
+(1 power, 1 feat)
+
+POWER (Level 6 paladin utility)
+--------------------------------------------------
+
+RAPID MOVE
+(see above)
+
+ASPECT OF DOMINATION
+daily / *minor*
+effect: until end of encounter, when you hit any enemy with
+an at will attack, you also push the target a number of squares
+equal to your charisma mod (+3)
+
+
+## ASPECT OF FEROCITY
+daily / *minor*
+effect: until end of encounter, your melee weapon deals +1W
+  damage when you are adjacent to at least on bloodied creature (ally
+  or enemy)
+
+BOND OF PROTECTION
+daily / *minor*
+close burst 5 --- one ally in burst
+effect: until end of encounter, target gets +2 power to all defenses
+(AC,fort, reflex, will);  whenever target takes damage, you
+can reduce it by 5 and take it yourself
+
+FLARE OF DIVINE VENGENCE
+daily / *immediate interrupt*
+trigger: target of your divine challenge hits you
+effect: you spend a healing surge and get a +2 power bonus
+  to attack triggering enemy until end of your next turn
+
+PURE DEVOTION
+encounter / immediate interrupt
+trigger: enemy attacks you (announce before roll to hit)
+effect: gain +4 power bonus to fortitude and will until end
+   of your next turn (including against triggering attack)
+
+VALIANT RUSH
+encounter / *move*
+effect:  move twice your speed to square adjacent to enemy
+  that is within line of sight at start of move
+
+WRATH OF THE GODS
+daily / *minor*
+close burst 1 --- you and each ally
+effect: until end of encounter, each target gains power
+bonus to damage equal to your charisma mod (+3)
+
+CENSURE THE UNHOLY
+(see above)
+
+EVERYBODY MOVE
+(see above)
+
+HAGGLE
+encounter/free
+trigger: roll diplomacy and dislike result
+effect: reroll diplomacy and take either result
+
+THIRD WIND
+(see above)
+
+
+FEAT
+--------------------------------------------------
+
+ZOMBIE VETERAN
++2 athletics to escape grab
+valiant strike (don't know if you have it): +1 damage
+  for each adjacent undead
+
+BATTLE SONG EXPERTISE
+  +1 feat bonus to attack rolls
+  +1 pull, push, or slide with bard attacks (you don't have any)
+
+BITTER CHALLENGE
+  whenever enemy takes damage from divine challenge, it is
+  also slowed until end of your next turn
+
+## COMMANDING VOW
+  whenever you subject an adjacent enemy to your divine
+  sanction, you can slide enemy one square as a free action
+
+DIVINE APPROVAL
+  when using channel divinity, make a saving throw
+
+KNIGHTLY BEARING
+  +2 diplomacy and intimidate
+
+MIGHTY CHALLENGE
+  + strength mod damage to divine challenge damage (+4)
+
+ROSE KING's LUNGE
++2 athletics;  once per turn when you hit with valiant strike or
+righteous brand (do you have either?), you can move 2 squares even if
+you are restrained or immobilized
+
+ARMOR FINESSE
+ignore skill check penalty for wearing armor
+
+BATTERING SHIELD
+when you wield heavy sheidl and push or slide target,
+move target 1 extra square
+
+### DEVOUT PROTECTOR
++1 attack rolls with 1-handed melee weapon and 
++1 implement attacks with holy symbol
+adjacent allies get +1 shield bonus (house ruled by me)
+
+HEAVY ARMOR AGILITY
+ignore speed penalty for wearing heavy armor
+
+DISCIPLE OF STONE
+(see above)
+
+BATTLE HARDENED
+(see above)
+
+@@ ## DISCIPLE OF MADNESS (aren't you all after Hampstead?)
++2 feat bonus to saves vs. daze, stun, or dominate and
+   ongoing psychic damage.
+plus, whenever you save against one of these effects, you
+can shift 1 square as a free action and gain +2 bonus to all
+defenses until the start of your next turn
+
+DURABLE
+(see above)
+
+RADIANT SOUL
++2 charisma
+bonuses with bolstering strike, hellish rebuke, or righteous brand
+
+RESILIENT FOCUS
++2 to all saving throws
+
+ZOMBIE VETERAN
+(see above)
+
+## HEAVY BLADE EXPERTISE (includes longsword)
++1 attack rolls (+2 at 11th level)
++2 bonus to all defenses vs. opportunity attacks
+
+BUILDING CAMARADERIE
+successful diplomacy check gives +1 bonus to diplomacy
+until end of encounter;  effects are cumulative using
+multiple times
+
+IMPROVED INITIATIVE
++4 initiative
+
+SKILL FOCUS
++3 to any skill
+
+SKILL TRAINING
++5 to skill and training in it if you don't have it
+
+BARD OF ALL TRADES
++3 to all untrained skill checks
+
+BARDIC KNOWLEDGE
++2 in arcana, dungeoneering, history, nature, religion, streetwise
+
+ROUSING VOICE
+ally within 10 uses second wind, gets temp HPs equal
+to your charisma mod (+3)
+
+
+=================================================================
+=================================================================
+THIT
+
+Power (level 6 rogue utility)
+--------------------------------------------------
+
+MINOR THREAT (halfling utility)
+encounter / *minor*
+you assume minor threat stance;  +2 power bonus to all
+defenses (AC, fortitude, reflex, will) and +2 stealth checks
+
+PAY ATTENTION (treasure hunter utility)
+daily / free
+close burst 3 --- you and each ally in burst
+effect: +2 power bonus to initiative, and +2 defense in first round
+
+BLIND SPOT
+encounter / minor
+effect: gain concealment against enemy you can see until end of
+  next turn
+
+CHAMELEON
+*at-will* / *immediate interrupt*
+trigger: you are hidden and lose cover or concealment
+effect: make a stealth check to remain hidden and until
+  end of next turn can remain hidden without cover/concealment
+
+HIDDEN BLADE
+*encounter* / *minor*
+effect: gain combat advantage for next attack with an off-hand weapon
+  (only your x-bow is off hand;  a dagger would be, too)
+
+IGNOBLE ESCAPE
+*encounter* / *move*
+if marked, that ends;  shift up to your speed
+
+PERFECT FEINT
+*encounter* / *minor*
+close burst 1 --- each enemy in blast you can see
+effect: each target grants combat advantage to you until
+   end of your *next turn*
+
+SIDESTEP STANCE
+daily / *minor*
+effect: choose enemy within 5 squares and gain +2 bonus to AC;
+  choose new enemy as minor action
+
+SLIP ASIDE
+*encounter* / *immediate interrupt*
+trigger: hit by attack against AC or reflex
+effect: take half damage
+
+SWIFT PARRY
+*encounter* / *immediate interrupt*
+trigger: hit by melee attack
+effect: gain bonus to defense against attack equal to charisma mod (+3)
+  + you gain combat advantage against attacker until end of your next turn
+
+VEXING FLANKER
+encounter / immediate *reaction* (reactions go after trigger)
+trigger: ally engers a square adjacent to an enemy adjacent to you
+effect: you can shift to *any other* square adjacent to the enemy
+
+DODGE STEP
+encounter / immediate *reaction*
+trigger: enemy ends it turn adjacent to you
+effect: you shift 1 squre
+
+HASTY RETREAT
+encounter / free action
+trigger: thievery check triggers a trap
+effect: shift half your dex mod (2 squares)
+
+SLOW PURSUIT
+encounter / move action
+requirement: urban environ
+effect: move your speed, at one point during movement,
+  create close blast 3 of difficult terrain which lasts
+  until end of encounter 
+
+TIMELY DODGE
+encounter / *mmediate interrupt*
+trigger: enemy targets you with attack
+effect: shift up to half speed;  triggering enemy 
+  can choose a new target if you are out of range
+
+HAPPY FEET
+encounter / immediate reaction
+trigger: creature you can see starts its turn
+effect: shift up to 2 squares
+
+LURKER'S CLOAK
+encounter / *minor*
+effect: until end of next turn, get +2 defnese with any concealment
+  or cover
+
+FAST HANDS
+at-will / free action (but only once per round)
+effect: you draw or sheathe a weapon, pick up an item
+in your space or adjacent to it, or retrieve or stow
+an item (like a potion)
+
+AGILE RECOVERY
+at-will / minor
+effect: stand up (usually takes a move action)
+
+
+FEAT
+--------------------------------------------------
+
+NIMBLE DODGE
+-5 penalty to new attack with second chance and can't score crit
+
+DUELIST'S PANACHE
+charisma mod bonus (+3) to acrobatics and athletics (!!!)
+
+SLAYING ACTION
+can do a second sneak attack on attack with action point
+
+BENEATH NOTICE
+automatically gain combat advantage against large or greater sized enemies
+
+CONNECTED
+roll any streetwise check twice and take highest result
+
+CROSSBOW EXPERTISE
++1 attack bonus with xbow (+2 at 11th level)
+and ignore partial cover and superior cover versus your xbow attacks
+
+CUNNING STALKER
+auto combat advantage against creature if you're only adjacent creature
+
+HIDDEN SNIPER
+if you have partial concealment against target, gain combat advantage
+with ranged attacks
+
+INNER COMPASS
+always know which way is north;  when making dungeoneering or nature
+checks to find way, roll twice and take either result
+
+LIGHT BLADE EXPERTISE
++1 attacks with light blade (short sword)
++1 damage with light blade against creature granting combat advantage
+(both are +2 at level 11)
+
+DURABLE
+(see above)
+
+BATTLE HARDENED
+(see above)
+
+UNFAILING VIGOR
+rolling 18 or higher on death saves lets you spend surge as if rolled a 20
+
+WINTER WALKER
+get ice walk (see above)
+
+@@ ALERTNESS
+can't be surprised; +2 perception
+
+ANIMAL EMPATHY
++2 bonus to nature echecks;  insight vs. natural beast can be
+rolled as nature
+
+ESCAPE ARTIST
++2 bonus to acrobatics;  escape grab becomes minor action instead
+of move action
+
+SUPERIOR REFLEXES
++2 feat bonus to reflex (+3 at 11th level)
+gain combat advantage against all enemies during your first turn in
+an encounter
+
+SKILL FOCUS
++3 skill checks
+
+SKILL TRAINING
++5 skill check and training (only available if not already trained)
+
+PARRYING DAGGER
++1 AC (but then you couldn't use xbow at same time without strapping it on)
+
+
+
+

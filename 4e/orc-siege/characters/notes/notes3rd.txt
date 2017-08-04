@@ -1,0 +1,212 @@
+Kretek
+--------------------------------------------------
+Warpriest "guide":  http://community.wizards.com/content/forum-topic/3349691
+There's only one 3rd level storm domain "prayer" on the list for you
+to choose, so here you go:
+
+Hammering Wind:
+  Encounter Standard
+  Melee Weapon
+  Wisdom vs. AC
+  Hit: 1W + Wisdom thunder damage
+       push target 1 square
+       knock target prone
+  Effect: allies within 3 squares slide up to 2 squares
+
+I'd also let you take one of the lower-level powers instead, or one 
+of the standard 3rd level cleric encounter prayers, but the build
+guide recommends the Hammering Wind (above).
+
+Command
+  Encounter / Standard
+  Range 10 (implement - holy symbol)
+  Wisdom vs. Will
+  Hit: target dazed until end of your next turn, and knocked prone
+       OR slid 3 + Charisma mod squares
+
+Daunting Light
+  Encounter / Standard
+  Ranged 10 (implement - holy symbol)
+  Wisdom vs. Reflex
+  Hit:  2d10 + Wisdom radiant damage
+  Effect:  one ally you can see gains combat
+           advantage against target until end of your
+           next turn
+
+Split the Sky
+  Encounter / Standard
+  Melee (weapon)
+  Str vs. Fort
+  Hit: 1W + Str damage, push target 2 squares and knock prone
+  
+
+
+Djarum
+--------------------------------------------------
+All you get is the ability to use elemental escalation twice 
+per encounter.  Did you note the extra d10 in the fine print?
+Djarum may be a one trick mage, but it's a nice trick!
+
+I studied your sheet more closely and realized I gave you an
+elemental origin "Firecaster", which yields:
+
+   * Blazing Corona
+   * 5 square dim light (25 feet) [minor to suppress/resume]
+   * Primordial language skill
+   * elemental "origin"
+
+As if you needed more firepower, so to speak. 
+
+
+Thit
+--------------------------------------------------
+You get a Level 3 Scoundrel power
+
+Brutal Trick:
+  Encounter Standard
+  Rattling (not relevant as you're not trained in Intimidate)
+  Dex vs. AC
+  provokes opportunity attack, if opp attack against you misses, 
+    you may target reflex if lower than AC
+  Hit: 3W + Dex damage
+
+Flamboyant Strike:
+  Encounter Standard (light blade)
+  Dex vs AC
+  2W + Dex + Cha damage
+  after attack: artful dodger bonus: shift 1 square
+
+* Fleeting Spirit Strike
+  Encounter / Standard
+  *xbow* or light blade
+  Dex vs. AC
+  before attack: shift 3 squares
+  Hit: 2W + Dex damage
+       shift 3 additional squares
+
+* Jumping Blade Assault
+  Encounter / Standard
+  light blade
+  Dex vs. AC
+    (artful dodger bonus: if charge, may use reflex instead of AC)
+  Effect: knock target prone (! automatic)
+  Hit: 2W + dex
+  special: when charging, use in place of melee basic
+
+Maneuvering Strike
+  Encounter /Std
+  Dex vs. Reflex
+  Hit: 2W + Dex amage
+       slide target 1 square & grant combat advantage to ally, or
+       don't slide & grant combat advantage to you until 
+         end of next turn
+
+* Nasty Backswing
+  Encounter / Free 
+  light blade
+  Trigger: miss with melee attack
+  Get combat advantage
+  Attack: Dex vs. AC (with combat advantage)
+  Hit: 1W + Dex damage (+ backstab) + shift 1 square
+
+* Shadow Steel Roll
+  Encounter / Standard
+  Melee OR ranged (light xbow, light blade)
+  before attack, shift your speed and make stealth check to hide
+    * if you hide before attack, you remain hidden after attack *
+  Dex vs. AC
+  1W + Dex damage
+
+* Startling Offensive
+  Encounter / Immediate Reaction
+  Light blade
+  Trigger: enemy enters square within 3 of you
+  Effect: shift up to 2 squares to adjacent
+          and attack with combat advantage
+  Dex vs. AC (+2 with combat advantage)
+  Hit: 1W + Dex damage (+ backstab)
+       + target takes -2 attack until end of your next turn
+
+** Strike and Move
+  Encounter / Standard
+  light blade
+  Shift 5 (!! CHA modifier 3, artful dodger bonus: + 2)
+  At any point during shift, make attack:
+    Dex vs. AC
+    2W + Dex damage
+
+Or another level 1 encounter power:
+
+* Acrobat's Blade
+  Encounter / Standard
+  Light blade
+  Target: each enemy in burst (i.e., all adjacent targets)
+  Dex vs. AC
+  1W + Dex damage 
+  Effect: after attack, shift number of squares equal
+          to number of enemies hit --- you can move
+          through squares of enemies you hit
+
+* Impact shot
+  Encounter / Standard
+  ** ranged **
+  Dex vs. AC
+  Hit: 2W + Dex, push target 1 square
+
+* Positioning Strike
+  Encounter / Standard
+  light blade
+  Dex vs. Will
+  Hit: 1W + Dex, and slide target 3 (includes artful dodger bonus)
+
+
+
+
+Ethanhawk
+--------------------------------------------------
+get level 3 paladin encounter power:
+
+* Avenging Smite
+  Encounter / Immediate Reaction
+  Trigger: enemy adjacent to you hits an ally
+  Charisma vs. AC
+  2W + Cha damage, target immobilized until end of your next turn
+
+* Invigorating Smite
+  Encounter / Standard
+  Melee weapon
+  Cha vs. Will
+  Hit: 2W + Cha damage, you and allies within 5 squares regain
+       5 + wisdom modifier hit points (not temp) if bloodied
+
+* Righteous Smite
+  Encounter / Standard
+  Melee weapon
+  Cha vs. AC
+  2W + Cha damage, you and allies within 5 squares get
+      temp HPs equal to 5 + wisdom mod
+
+** Strength from Valor
+  Encounter / Standard
+  Close burst 1 (all adjacent enemies)
+  Str vs. Fortitude
+  Hit: 1W + Str damage
+  Effect: 5 temp HPs for each target hit by attack 
+  
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+  

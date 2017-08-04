@@ -1,0 +1,312 @@
+8TH FRIGGIN' LEVEL
+============================================================
+
+Ethanhawk
+------------------------------------------------------------
+1 feat
+2 level ups in abilities
+
+HUMAN PERSEVERENCE
++1 saving throws
+
+ACTION SURGE
++3 attacks made with action point
+
+AMOTH'S GRACE
+encounter/immediate reaction (channel divinity)
+you or ally is bloodied or hit critically, you can spend
+a healing surge
+
+BARD OF ALL TRADES
++3 on all untrained skill checks
+
+BARDIC KNOWLEDGE
++2 arcana, dungeoneering, history, nature, streetwise
+
+BITTER CHALLENGE
+any enemy taking damage from divine challenge is slowed until
+end of your next turn
+
+CLEANSING CHALLENGE
+when marking undead createure, deal 2 radiant
+
+COMMANDING VOW
+whenever you subject enemy to divine sanction,
+slide it 1 square as a free action
+
+DIVINE PERSEVERENCE
+whenever you succeed on a saving throw, you get +2 bonus
+on next attack before end of next turn
+
+HEALING HANDS
+lay on hands give extra HPS equal to charisma mod (3 or soon to be 4)
+
+IN SHINING ARMOR
+if in plate with shield, adjacent allies get +1 AC
+
+KNIGHTLY BEARING
++2 diplomacy and intimidate
+
+MERCY's REWARD
+when you score critical, reduce to normal and you or adjacent
+may spend healing surge with +10 extra healing
+
+MIGHTY CHALLENGE
+divine challenge damage adds +4 radiant
+
+ROUSING VOICE
+when using second wind, allies within 10 get temp HPS equal
+to your charisma (3 soon 4) 
+
+HEAVY ARMOR AGILITY
+ignore speed penalty from heavy armor
+
+HEAVY BLADE EXPERTISE
++1 attack, +2 defense vs. opportunity attacks
+
+SKILL FOCUS (DIPLOMACY)
++3 diplomacy
+
+BUILDING CAMERADERIE
+when succeed on diplomacy, get +1 to next check;
+these are cumulative until a fail (or a failed
+bluff, or any intimidate)
+
+BASTARD SWORD
+just like longsword, only 1d10 instead of 1d8.  
+I'd let you rework the sunblade longsword into
+a bastard sword (on average equal to +1 damage only
+with more variability --- see WEAPON FOCUS)
+
+HEADSMAN'S CHOP
+whenever you hit a prone target with heavy blade,
+it takes +5 damage
+
+EXECUTIONER OF UNDEATH
+reroll any damage die vs. undead, but must take second roll
+
+WEAPON FOCUS (HEAVY BLADE)
++1 damage with heavy blade
+
+BATTERING SHIELD
++1 push or slide with melee attacks that slide or push
+(I don't even know if you have any)
+
+POWERFUL CHARGE
++2 damage on charge attacks
+
+FAST RUNNER
++2 speed when charging or running
+
+
+
+
+
+Thit
+------------------------------------------------------------
+1 feat
+2 level ups in abilities
+
+
+HALFLING AGILITY
+-2 on second chance rolls from attacker
+
+LOST IN CROWD
++2 bonus to AC when adjacent to two or more enemies
+larger than you (which is medium or larger, to you)
+
+RIGGED CHANCE
+regain second chance if the attack hits you (once per encounter)
+
+SECOND STEP
+when you use second chance and attacker is larger
+than you, shift half your speed (3) as a free action after
+the attack
+
+DUELIST PANACHE
+add charisma to acrobatics and athletics (+3)
+
+INTO FRAY
+get +1 speed and +1 attacks in surprise and first round of encounter
+
+SLAYING ACTION
+get to re-use sneak attack with an action point
+
+SWIFT FOOTWORK
+when you use martial encounter or daily power that allows shift,
+shift +2 squares
+
+CROSSBOW EXPERTISE
++1 attacks with xbow (+2 at 11th);  ignore partial and
+superior cover to xbow attacks (!!!)
+
+LIGHT BLADE EXPERTISE
++1 attacks with light blade; +1 damage with combat advantage
+
+HIDDEN SNIPER
+partial concealment gives you combat advantage with range (no
+need to succeed on stealth)
+
+WEAPON FOCUS (XBOW or LIGHT BLADE)
++1 damage
+
+INNER COMPASS
+always know which way is north; when rolling to find way,
+roll twice and use either result
+
+WILD SAGE
++5 checks to identify natural creatures;  get choice
+of ritual: dowsing rod, portend weather, traveler's camouflage
+(no material or ritual book required)
+
+WASTELAND WANDERER
++2 nature, +2 perception, +2 initiative
+
+
+
+Djarum
+------------------------------------------------------------
+1 feat
+2 level ups in abilities
+
+I'm tired of you getting cheesed, so I'm going to turn on
+
+BLAZING CLOUD
+at-will/standard
+close burst 1 --- each creature in burst
+Charisma vs. Reflex
+1d8 + Charisma mod fire damage
+EFFECT: +2 power bonus to AC and reflex until start of next turn
+
+Here are the feat selections I thought made most sense:
+
+ARCANE RESERVES
+if all your encounter attack powers expended, get +2 damage
+with at-wills
+
+HUMAN RESOLVE
+when spending action point to attack, get 3 + charmisma mod
+temp HPS (that's going to be 9 total when you go to 22 CHA)
+
+ARCANE SPELLFURY
+when you hit an enemy with an at-will attack, get +1 to next
+attack against same enemy until end of your next turn
+
+CHAMPION OF BLOODY CIRCLE (sorceror feat)
+training in streetwise, +2 intimidate, +2 streetwise
+
+FOCUSING SPELLFURY
+when hit two or more enemies, get +2 damage rolls with ranged and
+melee attack powers until end of next turn
+
+WHITE LOTUS DEFENSE
+when you hit enemy with arcane at will, 
+get +1 to all defenses (AC/fort/refl/will) until start of your
+next turn [mostly dominated by IMPROVED DEFENSES, except this
+one gives AC]
+
+WHITE LOTUS DUELING
++1 attacks with proficient implements and weapons
+
+IMPROVED DEFENSES
++1 fort/refl/will
+
+LIGHTNING REFLEXES
++2 reflex
+
+ALCHEMIST
+seems a bit nerdy for Djarum, really
+
+IMPLEMENT FOCUS (dagger)
++1 damage to implement attacks
+
+WEAPON PROFICIENCY (PARRYING DAGGER)
++1 AC when wielding parrying dagger in off hand
+
+
+
+
+Foobhopper
+------------------------------------------------------------
+1 Feat
+2 level ups in abilities
+
+Mountain Ki:
+  forceful:  push, pull, slide are increased by 1 square
+  shielding: if you hit at least one target, +1 shield
+             bonus to AC and reflex until start of next turn
+
+AMOTH'S GRACE (cleric)
+encounter/immediate reaction (channel divinity)
+you or ally is bloodied or hit critically, you can spend
+a healing surge
+
+DODGE GIANTS (dwarf)
++1 AC and Reflex vs. large or larger enemies
+
+STONE CUNNING (dwarf)
++2 dungeonnering, +2 trap/hazard/door detection
+
+HARBINGER OF REBIRTH (cleric)
++2 heal, ally within 5 gets +5 death saves
+
+INTERNALIZE BASIC KATA
+use dex instead of strength for melee basics (that'd
+net you +5 to hit and +5 damage)
+
+UNFAILING VIGOR
+18 and 19 count as 20 on death saves
+
+ALCHEMIST
+make alchemical items of your level or lower
+
+LANGUAGES
+speak and read 2 other languages
+
+FROZEN SOUL
+resist 5 cold, +1 Will;  cold resistance 10 at 11th level
+
+IMPROVED DEFENSES
++1 fort, reflex, will
+
+RESILIENT FOCUS
++2 saving throws
+
+SUPERIOR FORTITUDE
++2 fort (+3 at 11th level);  resist 3 ongoing (6 at 11th)
+
+SWIFT RECOVERY
++3 healing surge value
+
+TOUGHNESS
++5 HPS (+10 at 11th level)
+
+BLINDFIGHTING SENTINEL
+do not grant combat advantage to invisible enemies;
+while blinded, not -10 perception;  
++2 feat bonus to perception checks
+
+UNDERDARK CLIMBER
+use acrobatics instead of athletics to climb;
++2 acrobatics
+
+BLOODIED FLEETNESS
++1 speed when bloodied
+
+DEFENSIVE MOBILITY
++2 defense vs. opportunity attacks
+
+FAST RUNNER
++2 speed when charging or running
+
+NIMBLE RUNNER
++2 reflex when running, running doesn't grant
+combat advantage
+
+SUPERIOR WILL
++2 will (+3 at 11th);  if dazed or stunned,
+make a save at the start of your turn to end
+that effect even if it doesn't normally end on
+a save
+
+

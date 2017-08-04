@@ -1,0 +1,113 @@
+BASE ABILITY
+STR: 8  DEX: 15  CON: 10  WIS: 12  INT: 13  CHA: 14
+HALF-ELF
+STR: 8  DEX: 16  CON: 10  WIS: 12  INT: 14  CHA: 16
+Speed: 30'
+Darkvision
+Fey Ancestry (adv. vs. charm, not slept)
+Skill (1):  INVESTIGATION
+Skill (2):  INSIGHT
+Languages: common, elvish, GIANT
+
+SAGE: LIBRARIAN
+Skill(1): Arcana
+Skill(2): History
+Language(1): GOBLIN
+Language(2): ORC
+Personality: SOCIALLY AWKWARD
+Ideal: BEAUTY POINTS TO TRUTH
+Bond: PRESERVE THE LIBRARY
+Flaw: SPEAKS W/O THINKING
+
+Faction: HARPERS
+
+ROGUE 1
+Sneak Attack (d6)
+Thieves' Cant
+Skill (1): ACROBATICS
+Skill (2): DECEPTION
+Skill (3): PERCEPTION
+Skill (4): STEALTH
+Expertise (1): PERCEPTION
+Expertise (2): STEALTH
+Save (1): int
+Save (2): dex
+
+Adventurer's League Start: 160 gp
+
+STUDDED LEATHER (AC 12)   45 gp
+SHORT SWORD * 2           20 gp
+DAGGER * 4                 8 gp
+SLING + BULLETS            1 gp
+THIEVES' TOOLS            25 gp
+SIGNAL WHISTLE
+WATERSKIN
+ROPE, SILK 50'            10 gp
+PARCHMENT, PEN, INK        1 gp
+SCROLL CASE                1 gp
+SEALING WAX                1 gp
+CALTROPS (20)              2 gp
+CLOTHES, FINE             15 gp
+BEDROLL                    1 gp
+BACKPACK                   2 gp
+MANACLES                   2 gp
+SIGNET RING                5 gp
+WHETSTONE
+CHALK
+                       --------
+                         140 gp
+
+Init: +3
+HPs: 8
+AC: 15
+Short swords, main: +5 to hit, d6 + 3 damage
+            gauche: +5 to hit, d6     damage
+Dagger, main:       +5 to hit, d4 + 3 damage
+      gauche:       +5 to hit, d4     damage
+  thrown (20'/60')  +5 to hit, d4 + 3 damage
+Sling (30/120'):    +5 to hit, d4 + 3 damage
+
+ROGUE 2
+Cunning Action (dash or disengage as bonus)
+
+ROGUE 3
+Archetype: SWASHBUCKLER
+  - Fancy footwork: melee attack prevents oppty attacks
+  - Rakish audacity:  +cha to initiative, don't need advantage
+                      to sneak mano a mano
+  - awesome at 9th level
+
+Archetype: ASSASSIN
+  - Proficiency (1): Disguise Kit
+  - Proficiency (2): Poisoner's Kit
+  - Assassinate (advantage if first in combat, auto-crit)
+  - Sucks at 9th level
+
+Archetype: MASTERMIND
+  - Proficiency (1): Disguise Kit
+  - Proficiency (2): Forgery Kit
+  - Master of Tactics (help as bonus!)
+  - Sucks at 9th level
+
+Archetype: THIEF
+  - Fast Hands (bonus sleight of hand, thievery, *use an object*)
+  - Second-Story Work (climb normal speed, run jump +dex ft)
+  - Awesome at 9th level (supreme sneak advantage on stealth!)
+
+
+FIGHTER (1)
+Style: ARCHERY (+2 hit archery)
+       DEFENSE (+1 AC)
+       DUELING (+2 damage one-handed)
+       TWO WEAPON FIGHTING (add bonus to second)
+
+MOBILE (+10' move, dash ignore terrain, melee prevents oppty)
+DUAL WIELDER (+1 AC, heavy 2 weapon fighting, draw/stow * 2)
+DEFENSIVE DUELIST (interrupt +proficiency AC as reaction)
+OBSERVANT (+1 int | wis, read lips, +5 passive wis & int)
+KEEN MIND (+1 int, recall last month, north, time of day)
+MODERATELY ARMORED (+1 dex, medium armor, shields)
+
+
+Need fighter 2 for action surge and two-weapon fighting
+

@@ -1,0 +1,526 @@
+Welcome to 4th level.  You all have 4000 XPs;  see Appendix I.  The 4e
+levels are kind of like half levels in the old system, except for HPs.
+And the Encounters Program adventures dole them out generously for skill
+challenges and quests.
+
+* You each get to add 1 point to two abilities (Strength, Dex, etc.); this won't
+  help much because the bonus formula is (Ability - 10) / 2, and the round
+  down rules mean you only get a plus on even numbers.  But you do it again
+  as you continue to level up, so it's not meaningless.
+
+* You need to divvy up the magic items (plural);  see Appendix II.
+
+* You each gain another feat; see Appendix III.
+
+I'm wavering among a bunch of choices for next adventure;  see Appendix IV.
+
+
+- Bob
+
+
+Appendix I:  XP CALCULUATION
+============================
+
+The Dark Legacy of Evard
+
+  1000  Skill Challenge XP
+
+  1000  Quest XP
+            500  Quest, Chapter 3: lifting curse of Evard
+            250  Quest, Chapter 2: search the Manse
+            250  Quest, Chapter 1: protect Dupond
+           ====
+           1000
+
+  2000  Monster XP
+
+           1750 base monster XP
+          - 150 dropped the Wererat encounter
+          -----
+           1600  base monster XP
+            400  25% bonus for having 4 instead of 5 characters
+           ====
+           2000
+
+  ======
+  ======
+  4000   GRAND TOTAL
+
+
+Appendix II:  MAGIC ITEMS
+=========================
+I forgot to mention that in the last battle in the crypt, you find:
+
+  * suit of +2 black iron armor scale mail
+        black iron: resist 5 necrotic, resist 5 fire
+                    black metal color, glows red when violence flares
+
+  * +2 Righteous Longsword (very minimal markings)
+        +1d6 damage on crits vs. non-evil [vs. evil: +1d8]
+        daily free action: triggered by hit, target is dazed
+        until end of your next turn [vs. evil: until save ends]
+        
+If Ethanhawk takes Bastard Sword expertise (d10 vs. d8 damage),
+I'll make it a bastard sword.
+
+If Kretek wants to take Scale Mail Expertise (+1 AC compared to chain,
+for a total of +3), I'll make the mail resizable to dwarf size.  If
+Ethanhawk takes it, it's only a total of +1 more for him.  The mobility
+is better than plate in that there's no minuses on athletics and endurance
+for wearing it.
+
+
+Appendix III:  NOTES ON FEATS
+=============================
+
+The best place I've found to look at feats is here:
+
+   http://dnd4.wikia.com/wiki/Feat
+
+They also have a good description of the various classes and
+builds:
+
+   http://dnd4.wikia.com/wiki/D%26D4_Wiki
+
+It also has a good description of all the classes.  And a very
+good breakdown of character creation overall:
+
+  http://dnd4.wikia.com/wiki/Character_creation
+
+Kretek
+----------------------------------------
+* 2 ability level ups (Str, Dex, etc.)
+* 1 feat
+
+Here are some feats to choose from or you can find
+others:
+
+  +3 to any skill (insight, arcana, etc.)
+  +1 to any attack to-hit
+  +1 to any damage
+  +1 to AC with scale armor
+  +1 defenses (all of fort, reflex, will)
+  quick steps: +1 speed (dwarf feat)
+  heavy armor finesse: +1 speed
+  shield fallen: adjacent to bloodied, unconscious or helpless ally,
+                 that ally gains +2 bonus to saves and all defenses!!!
+  stone cunning: +2 dungeoneering, +2 bonus to skill checks on traps,
+                 hazards or secret doors
+  amoth's grace: encounter immediate reaction; ranged 5
+                 channel divinity (1 per encounter)
+                 crit hit or bloodied by attack --- triggering creature
+                 can spend a surge
+  * battle healer: regain HPs equal to strength mod when using healing word
+  harbinger of rebirth: +2 heal, +5 death saves to allies within 5 squares
+  pacificist healer: using healing word or divine power to spend surge,
+                     target regains extra 1d6 + your Charisma mod
+  cunning stalker: combat advantage if you're only creature adjacent to target
+  ** mark of storm: any hit with thunder or lightning, slides target 1 square
+                   (and +1 bonus to flying speed, for whatever that's worth)
+  * durable: healing surges + 2
+  * resilient focus: +2 to all saving throws
+  * superior fort: +2 bonus to fort, resist 3 ongoing damage
+  * unfailing vigor: 18 and 19 count as 20s on death saves
+  * alertness: can't be surpirsed, +2 bonus to perception checks
+  * combat medic: first aid to stabilize is a minor instead of major,
+                  and +2 to heal checks
+  * nimble runner: running gives +2 bonus to reflex, doesn't grant combat
+                   advantage
+  * scale mail proficiency: +1 to AC for using scale instead of chain
+
+Djarum
+----------------------------------------
+* 2 ability level ups
+* 1 feat
+   anyting above not for clerics, plus:
+
+   * war wizard expertise: +1 feat bonus to attack rolls of arcane powers
+           and basic attacks with light blade
+   * unarmored agility: +2 AC while wearning cloth or no armor
+   * parrying dagger: +1 AC (no reason to take with unarmored agility available)
+   * leather armor proficiency: +2 AC compared to cloth
+   heat adaptation: resist 5 fire
+   surging flame: +5 damage vs. any target with fire resistance with fire
+                  attack
+   champion of bloody circle: training in streetwise, 
+          +2 intimidate, +2 streetwise
+
+
+Thit
+----------------------------------------
+* 2 ability level ups
+* 1 feat
+   ** duelists panache: charisma mod bonus to acrobatics and athletics
+   ** crossbow expertise: +1 hit with xbow, ignore partial and superior cover
+   swift footwork: any encounter/daily that lets you shift, shift 2 extra
+   * wilderness skirmisher: +2 acrobatics and athletics; difficult terrain
+         gives you partial cover against ranged
+   * battle caster defense: +4 AC vs. opportunity attacks provoked
+         by using ranged attack in melee
+   * rapier weapon proficiency:  
+         (damage: rapier=d8, short-sword=d6, dagger=d4)
+   * underdark climber: +2 acrobatics for all checks; use acrobatics 
+         instead of athletics to climb
+
+E'hawk
+----------------------------------------
+* 2 ability level ups
+* 1 feat (and Ethanhawk now qualifies to take Bard feats)
+
+  bard of all trades: +3 on all untrained skill checks
+  bardic knowledge: +2 arcana, dungeoneering, history, nature, 
+             religion, streetwise,
+  ** healing hands: add charisma mod to lay-on-hands
+  ** knightly bearing: +2 bonus to diplomacy and intimidate
+  ** rousing voice: add your charisma mod to second wind value for
+        all allies within 10 squares
+  * heavy armor agility: ignore speed penalty for heavy armor (-1)
+  * bastard sword expertise: d10 damage (longsword is d8), same to-hit
+      --- I'd let you make the +2 sword a bastard sword
+  * heavy blade expertise: +1 to-hit with heavy blades (longsword and up),
+       and +2 bonus to all defenses against opportunity attacks
+  * full plate expertise: full plate is same protection and better
+       flexibility than standard plate (1 less penalty to skill checks
+       due to armor)
+  
+
+
+Appendix IV:  Up Next
+========================================
+
+I'm wavering among several different next adventure possibilities,
+any of which could be cajoled into being appropriate for 4th level chars:
+
+   * an open-ended caper in an abandoned human town now taken over by
+     goblins (it's a bit less monochromatic than that) to recover a lost
+     but very powerful magic item (Slaying Stone)
+
+   * a nautical pirate treasure adventure where the pirates are seafaring 
+     goblins (Captain Slygo's Treasure)
+
+   * an airship adventure with a society of adventurers (it would
+     move things toward Pathfinder, conceptually, in that you'd be recruited
+     by an adventuring society that cobbled the airship together) (Friendly Skies)
+
+   * a quest to recover a Paladin that's gone missing while battling
+     the Hand of Naraash, a powerful evil cult on the frontier (Heathen)
+
+   * a quest involving a trip to the Shadowfell itself to track down a
+     weapons running operation (Shadow Rift of the Umbraforge)
+
+   * a quest to save the dwarves from an Orc invastion through old
+     tunnels (mainly dungeon-based) (Bordrin's Watch)
+
+If you really want more of Duponde and Evard, there's an adventure to his
+old mansion, as well --- you've already been to Vontarin's manse.
+
+
+
+
+
+Djarum
+============================================
++1 to two abilities (con, cha?)
+
+4th level feat
+-----------------
+* HUMAN PERSERVERENCE: +1 saves (you have this now as 2nd level feat)
+
+* ARCANE RESERVES: +2 damage to at-will if out of encounter powers
+
+ARCANE SPELLFURY: when you hit with an at-will, +1 attack until end of next
+   turn vs. the target
+
+FOCUSING SPELLFURY: when you hit two or more enemies with at will,
+  get +2 damage with ranged and melee attack powers until end of
+  next turn (that doesn't add to the two enemies hit witht the
+  targeting attack)
+
+ALCHEMIST: make alchemical items of your level or lower
+    --- not sure you really need pots of alchemical fire, though :-)
+
+** UNARMORED AGILITY: +2 bonus to AC in cloth or no armor
+
+* IMPROVED DEFENSES: +1 to fort, will, reflex
+  
+* IMPLEMENT FOCUS DAGGER: +1 to damage with implement attacks
+  w. dagger (pretty much everything for you)
+
+PARRYING DAGGER: take one off-hand and get +1 AC (dominated by
+   unarmored agility)
+  
+
+Kretek
+============================================
+That armor you found:
+
++1 Deathsteel chain
+  * crafted from death ore drawn from the shadowfell
+  * +1 AC
+  * resist 5 necrotic; +2 saving throws against effects
+    that include ongoing necrotic
+
++1 to two abilities (wisdom/int --- he is the brains
+   of the operation, 9 intelligence or no?)
+
+4th level Feat
+--------------
+STONE CUNNING: +2 feat bonus to dungeoneering; +2 bonus to
+  detect trap, hazard, or secret door (perhaps a bit blue collar)
+
+* AMOTH'S GRACE: encounter/immediate reaction;  *channel divinity*
+  you or ally are subject to critical or bloodied;
+  triggering creature can spend healing surge  
+
+* HARBINGER OF REBIRTH: +2 bonus to heal checks; allies within 5
+   get +5 feat bonus to death saves
+
+HOLY SYMBOL EXPERTISE: +1 to implement attacks with symbol;  when
+you attack enemy with holy symbol, enemeis can't gain
+combat advantage until the start of your next turn
+
+** RITUAL CASTER: cast rituals of your level or lower
+   --- we'll need to choose some rituals (Tenser's floating disk,
+       knock, etc. --- bunches of old first-level magic spells that
+       Wit's keen to put into use);  take four of the following:
+
+You picked up a ritual book in the library with the following and
+can get the components for up to four of them (suggestions with *)
+
+    a.  comprehend language: (10 minute cast, lasts 24 hrs)
+    b.  silence (10 minute cast): ward burst 4 or single room
+        vs. eavesdropping (-10 perception checks)
+    c.  dancing lights (1 minute cast, 1 minute duration); fly speed
+        10 up to 20 squares away
+ *    d.  iron vigil: 10 minutes prep; lets you stay awake while taking
+        extended rest (one target)
+ *   e. skull watch: enchang skull to watch area and alert you when
+         intruders
+    f.  delay affliction: delays enduring effect for days or weeks depending   
+           on heal check
+    g.  knock:  open single locked door
+    h.  calm emotions: costs 2 healing surges.  all nohostile
+         creatures within 5 squares become calm and reasonable; +2
+         to bluff, diplomacy, and nature checks vs. affected creatures
+    j.  wind words: convey message up to 25 words in air up to 6 mph
+           to get to target (jog speed)
+ *    k.  undead ward: pentangle to keep out undead;  30 minute cast
+          time, duration until broken.   arcana check for strength
+ *   l.  last sight vision: with corpse or skull, replay final moments
+          before death of creature
+     m.  pass w/o trace: you and up to five allies gives -5 mod to track
+
+
+
+4th level power
+---------------
+** WORD OF COMFORT: burst 2, each target gets 5 HPs (10 HPs if bloodied)
+and can make a save
+
+* HOLY CLEANSING: touch saves against everything a save
+can end with +5 bonus;  disease improves by 2 stages with
+surge (instead of HPs);  unpetrifies
+
+HEALER'S GIFT: encounter/standard; melee 1
+  target: one dying creature
+  effect: target spends surge (brings them back to life)
+
+* STUDIED CASTING: daily/free:  reroll a check you don't
+like the result of with +4 bonus; use second result
+
+
+
+
+
+
+
+Ethanhawk
+=======================================
+The blade you found in the library is a +2 Sunblade, 
+which gives you:  +1d6 damage on crits;  sheds
+bright or dim light; at brightest up to 20 squares,
+but too bright for you to look at then.  Control
+whether damage is radiant or not.  Daily: 
+cause mote of light in close burst 1 vs. enemies,
+str vs. reflex (+ weapon bonus);  hit: 1d8 radiant
+
++1 to two abilities (wisdom/charisma?)
+
+Skill Utility:
+
+* INSPIRING FORTITUDE (what you have now): daily/standard: burst 5,
+you use second wind, each ally in burst gains temp HP equal
+to 10 + your con mod (2).  
+
+HEALER'S GIFT: encounter/standard; melee 1
+  target: one dying creature
+  effect: target spends surge (brings them back to life)
+
+VIRTUE: encounter/minor; spend a surge, get temp HPs instead
+of HPs (can use to power up HPs at beginning of battle)
+
+RESTORE VITALITY: daily/minor:  target gets HPs equal
+to your surge value and can make a saving throw
+
+DIVINE COUNTER: enemy hits your fort, reflex or will.
+effect: take half damage and enemy subject to your divine
+sanction until the end of its next turn
+
+CALL OF CHALLENGE: encounter/minor: burst 3;  
+effect: each target subject to your divine sanction utnil
+the end of your next turn
+
+BLESS WEAPON: daily/minor:  one weapon you are wielding
+gets +1 attack and +1d6 radiant damage and
+will crit on rollof 18--20 vs. creatures vulnerable to
+radiant (killer shit vs. undead)
+
+
+Feats
+------
+
+Choose one of:
+
+* AMOTH'S GRACE: encounter/immediate reaction;  *channel divinity*
+  you or ally are subject to critical or bloodied;
+  triggering creature can spend healing surge  
+
+** BARD OF ALL TRADES: +3 feat bonus to all untrained checks (!!!)
+     [acrobatics, arcana, bluff, dungeoneering, history, insight,
+      nature, stealth, streetwise, thievery]
+
+* BARDIC KNOWLEDGE: +2 feat bonus to arcana, dungeoneering, history,
+   nature, religion, and streetwise (!!!)
+
+* COMMANDING VOW: whenever you subject an adjacent enemy to your
+    sanction, slide it one as a free action
+
+HEALING HANDS: +3 HPs from lay on hands (which you suck at due to low
+wis; would double down devoted paladin, which is +3 HPs and also +1 surge)
+
+* KNIGHTLY BEARING: +2 diplomacy and intimidate
+
+* ROUSING VOICE: when ally within 10 squares uses second
+wind get temp HPs equal to your charisma mod (+3)
+    
+IMPROVED DEFENSES: +1 fort, reflex, will
+
+** SUPERIOR FORTITUDE: +2 fortitude, resist 3 to ongoing damage
+
+*** SWIFT RECOVERY: +3 feat bonus to healing surge value (!!!)
+
+
+Thit
+=======================================
++1 to two abilities
+
+Rogue type
+-----------------
+consider CUNNING SNEAK:  no penalty to stealth for moving more than
+2 squares; -5 stealth running vs. -10;  if you move at least 3
+squares, you can make a stealth check to hide if you have any
+concealment or cover (except intervening allies cover);  compare
+hidden sniper and also look at fleeting spirit encounter power
+
+give up artful dodger: charisma AC bonus vs. opportunity attacks (+3)
+
+
+2nd level encounter
+--------------------
+DAZING STRIKE: encounter/standard; dex vs. ac; 1w +dex mod damage
+hit dazes until end of your next turn (grants combat advantage, 
+only one action, no opportunity attacks)
+
+OPENING MOVE: encounter/standard; dex vs. ac; 2w + dex mod damage;
+AC and reflex get plus charisma (+3) until end of your next turn;  (+2
+more AC and reflex for artful dodger)
+
+* POSITIONING STRIKE: encounter/standard: dex vs. *will*
+hit: 1w + dex mod and slide target 1 sq (slide up to cha if
+artful dodger, 3 squares!)
+
+3rd level encounter
+------------------
+LOW SLASH: encounter/*minor*: dex vs. *reflex* melee; 
+1w + dex damage, slide target 1 square and slow ntil
+end of next turn.  If flanking, extra damage equal to
+charisma mode (+3)
+
+FLEETING SPIRIT: encounter/standard: dex vs. ac;
+before attack shift 3 squares
+hit: 2w + dex damage, shift 3 squares
+cunning sneak: roll to hide after each shift
+
+DARTING STRIKE: melee encounter/*opportunity*
+trigger: enemy within 2 squares makes ranged or area attack
+or moves without shifting;  effect; shift 2 squares to
+an adjacent space and make a dex vs. ac attack (1w + dex
+damage) with combat advantage
+
+4th Level Feat (New selection)
+-----------------------
+
+** HIDDEN SNIPER: if you have partial concealment against
+a target, you gain combat advantage with ranged attacks
+
+* CUNNING STALKER: gain combat advantage against enemies
+with no creature adjacent to them other than you
+
+** DUELIST'S PANACHE: Cha mod (+3) to Acrobatics and Athletics
+checks (making you insane).
+
+LOST IN CROWD: +2 defense when adjacent to two enemies
+larger than you. (don't want to get there, but this'll help
+if you do)
+
+RIGGED CHANCE: regain second chance card the first time
+you use it in an encounter and the attack still hits you
+
+* SLAYING ACTION: if you spend an action point, you
+can deal sneak attack damage a second time in one turn
+
+DISTANT ADVANTAGE: gain combat advantage for ranged attacks
+against enemies flanked by your allies
+
+SKILL POWER (one of):
+*  bounding leap:  encounter/move make athletics to jump with
+     +5 power, considered to have a running start, and jump
+     distance can exceed your speed
+**  failed diplomacy: daily/free action --- close burst 5,
+     you and allies get +2 initiative and combat advantage
+     against all enemeies until the end of his or her next turn
+  scrambling climb: encounter/move -- +5 to athletics check, 
+     climb 2 + speed
+
+MULTICLASS ASSASSIN: (practiced killer) training in one skill 
+from assassin's list, once per encounter extra d8 damage with 
+one-handed weapon (or blowgun or shortbow)
+
+* IMPROVED DEFENSES: +1 fort, reflex, will
+
+* ALERTNESS:  can't be surprised, +2 perception checks
+
+ESCAPE ARTIST: escape grab as minor, +2 acrobatics (redundant
+with acrobatic strike)
+
+* WILDERNESS SKIRMISHER: when in difficult terrain, get partial
+cover (-2) vs. ranged attacks;  +2 acrobatics and athletics
+
+LEAF RUNNER STUDENT: +2 stealth;  with hand xbow, get +1
+bonus to speed if you hit with deft strike, nimble strike,
+or paint-the-bulls-eye (you don't have any of these now)
+
+BLOODIED FLEETNESS:  +1 speed when bloodied
+
+* HARLEQUIN STYLE: +1 move with deft strike, add charisma
+mod (+3) to defense vs. opportunity attacks
+
+MARTIAL ALACRITY: +2 initiative, during first turn in encounter,
+shift as minor action
+
+NIMBLE RUNNER: +2 reflex when running, running doesn't grant
+combat advantage
+
+SURE CLIMBER: +1 athletics, climb at normal speed rather than
+half
+      

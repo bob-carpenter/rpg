@@ -1,0 +1,165 @@
+Iain McKewan;  2nd Level Occultist
+======================================================================
+XPs: 10,075 (-7800)      Karma: 7
+
+STR: 11       DEX: 13     SPD: 16 (+2)    CON: 9     MRK: 11
+INT: 17 (+2)  PERC: 9    WILL: 14 (+1)    CHR: 14 (+1)
+
+INIT: +2    FIREARM: 0   MISSILE: 0   MELEE: +1    THROWN: 0    PDC:    1d6
+
+HPS: 41 (21) (31)     HEAL RATE: 1
+QI: 39 (19) (9)       CAST BONUS: +3      CURE: d4 + 3
+
+Abilities
+---------
+
+Sword     Flex:     6   (+2 superior; +3 level; +1 ME)
+        Damage:   1d6 + 1d7 (WDC: 1d7 + PDC: 1d6)
+
+
+Weapon in Hand  |  To-Hit     Damage      AC     Proof
+------------------------------------------------------
+SWORD           |    +2     d6+d8 +2      4+1=5     +1 (+ beast)
+
+
+QI              HPs                       Beast-HPs
+--------        ----------------          --------------------
+-0               -1                        -15
+
+
++1 surgery, +1 medicine, + 1 nat. philosophy
+
+
+Iain McKewan;  Werewolf
+======================================================================
+
+
+
+Jugdish;  2nd Level Devotee of Ganesh
+======================================================================
+XPs: 10,580 (-7600)     Karma: 18
+
+STR:  15 (+1)    DEX: 18 (+3)    SPD: 14 (+1)    CON:  16 (+2)
+INT:  11         PER:  9        WILL: 17 (+2)
+MRK:   9         
+CHR:  14 (+1)
+
+INIT: +1     PDC: 1d8     
+
+
+ME: +5     FI: 0     MI: +3     THR: +1    
+
+HPS: 52 (26) (39)     HEALING RATE: 2
+QI:  46 (22) (33)    CASTING BONUS: +3
+
+Abilities                               Training
+-----------------                       -----------------
+Ritual Healing: d4 + 3 (?)              Mace (ritual +1) : 3 + 1    
+                                        Axe: 1      
+                                        Firearms, musket: 1
+
+Talents                                 Skills
+-----------------                       -----------------
+Acrobatics: 2                           Forgery: 1
+Escape: 1                               Farming/Livestock: 1
+Riding: 1                               Seamanship ('foremast): 1
+Swimming: 1  (from Ganesh)
+
+Knowledge                               Languages
+-----------------                       -----------------
+Theology: 1                             Hindi (native/lit)
+Symbols, Signs, Rituals: 1              Sanskrit (fluent/lit)
+Etiquette: 1                            English (conversant)
+                                        Arabic (lit)
+Spells                                  Proto-Algonquin (conversant)
+-----------------
+Awe: 2
+Cure: 1
+Dispel Magick: 1
+Heal: 1
+Levitate: 1
+Smite: 1
+Summon Beast: 1
+Karmic Blessing: 1  (impart karma of mine to them)
+
+Baggage Arcane
+-------------------------------------------------------------
+* Northstar Tattoo: from Austria sailor on ship;
+     on right shoulder symbolizes; special navigation power 
+     +1 boon: will, con, perception, knowledge
+* Mammoth's Coat:  (+1 AC, +6 proof vs. cold)
+      gift from Will-Not-Braid-His-Hair, proto-algonquin Mystic
+      mammoth hair braided into a chain
+* Mastodon Tusk Talisman:  holds spell(s)
+* Walking Stick:  mace/cosh, or explode like musket, or smoke bomb
+      modified by "Ganesh" to act as night-viz goggles
+* Living Beast Jumpsuit:  +3 AC, chameleon powers, proof 3 per attack
+      100 total proof and it dies
+* Silver Bosun's Whistle:  calls horse Sugarfoot, with elven tack
+       2 notes to call them back; Sugarfoot swims
+
+Baggage Mundane
+-------------------------------------------------------------
+* keys to DC safe house [Dahlia is housekeeper; inside/out alarms]
+* sewing kit
+* soap and towel
+* money belt (US$ in coinage)
+* Quality Cloak:  +2 AC, +1 concealment due to elven alterations;
+    4 gold sovereigns in lining; elven cord tie          
+* candles, tinder, flints
+* Climbing Stick:  quality (+1) mace;  WDC: 1d6
+    unfolds into rope/grapple;  anything else?
+* Axe/Musket:  Axe: superior (+2 flex);  WDC: 1d8
+               Musket: superior (+2 anything?); WDC: 6d6
+
+Old Baggage
+-------------------------------------------------------------
+* umpteen rounds of black powder, powder 
+* Tetsubo hand cannon
+* Walking Stick: quality (+1) mace;   WDC: 1d6
+    exploding bomb @ musket level; smoke bomb [reusable?]
+
+
+History
+-------------------------------------------------------------
+* aka Antonio Fargas; aka Gary Coleman
+* sold Tetsubo hand cannon :-(
+* sold 1777 carbine
+* Hughe bros. (Lincoln - weaving, Thomas;  Devonshire - mining, William;
+                 Henry - London recently moved)
+* Mrs. Krohn (?)
+
+
+JUGDISH LIVE
+---------------------------
+BASE AC: 6  (+2 quality cloak; +3 living suit; +1 mammoth's coat)
+
+BASE PROOF: 3 (living suit, takes damage)
+
+Stick:    Flex:    10   (+1 quality; +4 level; +5 ME) 
+        Damage: d6+d8   (WDC: 1d6 + PDC: 1d8)
+
+Axe:      Flex:     8   (+2 superior; +1 level; +5 ME)
+        Damage:   2d8   (WDC: 1d8 + PDC: 1d8)
+
+Musket:   Flex:     6   (+2 superior; +1 level; +3 MI)
+        Damage:   7d6   (WDC: 6d6; black powder +1d6)
+
+Hand to H:  Flex:   1   (no level: -4, +5 ME)
+        Damage:     0
+
+
+TALISMAN: empty
+
+
+
+Weapon in Hand  |  To-Hit     Damage      AC     Proof
+------------------------------------------------------
+STICK           |    +4     d6+d8 +2      6+2 =8    +2 (+ 3coat)
+
+
+Smite       QI              HPs                       Beast-HPs
+-----      ------        ----------------          --------------------
+  8 (axe)   -39               -9                       -48
+
+

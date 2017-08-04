@@ -1,0 +1,201 @@
+9th Level
+===========================================
+
+Thit
+-------------------------------------------
+
+KNOCKOUT (daily/std)
+must be wielding light blade
+dex vs. *fort*
+hit: 2W + dex mod damage and target falls
+     ***unconscious*** (save ends)  
+miss:  half damaage and target is dazed until
+       end of your next turn
+
+PROFIT FROM WEAKNESS (daily/immediate interrupt)
+must be wielding light blade
+trigger: adjacent enemy hits you with melee
+effect: +4 defense vs. attack 
+        and triggering enemy grants combat advantage to you
+        until end of your next    
+attack: dex vs *reflex*
+hit: 2W + dex mod damage
+miss: half damage
+effect (always happens): knock target prone
+
+ROGUE'S RECOVERY (daily/std)
+melee or ranged
+dex vs AC
+hit: 2W + dex mod damage
+effect: if used all encounter powers, get one back
+        OR extra 2W damage if you have combat advantage
+
+
+Ethanhawk
+-------------------------------------------
+out of turn damage and protection from ray of reprisal
+is sweet;  death angel seems a bit too dark for e'hawk
+
+DEATH ANGEL (daily/std)
+close blast 3 (one creature in blast)
+weapon
+attack: strength vs. *will*
+hit: 3W + strength mod necrotic
+     target must move up to its speed as far as possible
+     or be dazed
+miss: half damage
+effect: teleport to unoccupied square in blast
+
+CROWN OF GLORY (daily/std)
+divine/implement
+burst 1: each enemy in burst
+attack: charisma vs *will*
+hit: 2d8 + charisma mod radiant
+effect: any enemy starting turn adjacent to you slowed
+        until end of your next turn
+sustain minor: sustain power's effect of slowing
+
+KNIGHTLY INTERCESSION (dailly/immediate interrupt)
+close burst 10 --- triggering enemy
+trigger: enemy within 10 hits ally with melee or ranged attack
+effect: attack hits you instead of ally
+        pull target to square adjacent to you then
+attack: strength vs ac
+hit: 2W + strength mod damage
+     subject to divine sanction until end of encounter
+
+RAY OF REPRISAL (daily/immediate interrupt)
+close burst 5 --- triggering enemy only
+divine implement
+trigger: enemy within 5 squares hits ally
+attack: charisma vs *fort*
+hit: 3d6 + cha mod radiant
+miss: half damage
+effect: ally takes half damage from attack
+
+SHOUT OF CONDEMNATION (daily / std)
+close blast 5
+attack: strength vs. *will*
+hit: 2d6 + strength thunder
+     5 ongoing thunder and is subject to sanction (save ends)
+miss: half damage and subject to your sanction until end
+      of your next turn
+
+
+
+
+Djarum
+-------------------------------------------
+screwed yet again --- you get another at-will!
+you get a total of +8 damage if the attack is fire
+you might want something like blazing starfall that does
+radiant (with fire keyword, so it's best of both worlds)
+or ensorcelled blade if for some reason you want a melee;
+there's some others with minor control;
+
+we could cheat here if you're feeling really cheesed and
+give you a wizard attack power or another utility power (those
+are the teleport, mighty spring kind of thing)
+
+
+BLAZING CLOUD (at will / std)
+close burst 1 --- each creature in burst
+attack: charisma vs. reflex
+hit: 1d8 + charisma mod fire damage
+effect: +2 bonus to AC and reflex until start of next turn
+(d8 + 16)
+
+BURNING SPRAY
+close blast 3 --- each creature in blast
+charisma vs. reflex
+1d8 + charisma mod fire damage
+(d8 + 16)
+
+BLAZING STARFALL
+burst 1 within 10 --- each creature
+implement, fire keyword
+charisma vs. reflex
+1d4 + charisma *radiant* damage
+(1d4 + 16)
+
+ENSORCELLED BLADE
+melee: charisma vs. ac
+hit: 1W + charisma mod
+     if target melee attacks you before your next turn
+     it takes damage equal to your extra damage from fire (6)
+special:  *may be used as melee basic*
+
+DELUGE (at will / std)
+close blast 3
+attack: charisma vs. reflex
+hit: 1d8 + charisma mod damage and push target 1 square
+
+HOWLING ZEPHYR (at will / std)
+close burst 1
+attack: charisma vs. *fort*
+hit: 1d8 + charisma thunder and slide target 1
+
+ICE PRISON (at will / std)
+burst 1 within 10
+charisma vs. *fort*
+hit: 1d8 + charisma cold and target slowed until end of your next
+     turn
+
+STATIC CHARGE
+close blast 3 --- each *enemy* in blast
+charisma vs. reflex
+hit: 1d8 lightning and one enemy adjacent to target takes
+     charisma mod damage (wacky!)
+
+
+Foobhopper
+-------------------------------------------
+
+TWILIGHT TOUCH (daily / std)
+one, two, or three creatures - touch
+attack: dex vs. reflex
+hit: 3d6 + dex psychic
+     target *blinded* until end of your next turn
+miss: half damage
+
+FLYING TIGER (daily / std)
+effect: before attack, fly speed and land
+attack: dex vs. reflex
+hit: 3d10 + dex mod damage and push target 6 squares
+miss: half damage and push target 3 squares
+effect: shift 1 square
+
+CRANE DANCE (daily / std)
+melee touch --- 1, 2, 3, or 4 creatures attacked
+dex vs. reflex
+hit: 2d8 + dex and knock target prone
+miss: half damage
+effect: shift 2 squares after each attack
+
+IMMOLATING FIST (daily / minor)
+effect: stance
+resist 5 fire
+hit with melee deals +5 fire damage
+you can use fist attack as std
+++++++++++++++++++++
+IMMOLATING FIST ATTACK (std / daily)
+dex vs. reflex
+hit: 1d8 + dex damage + 1d12 fire damage
+     each adjacent enemy takes 5 fire damage
+miss: half damage
+effect: stance ends
+
+
+STONE JUGGERNAUT (daily / minor)
+effect: stance of stone juggernaut
+        +2 power bonus to *all* defenses (AC/fort/refl/will)
+        save vs slow/immobilize/restrain at start ane dnd term
+        ignore difficult terrain (you can already do this in stone)
+        can use attack
+++++++++++++
+STONE JUG ATTACK
+melee touch
+dex vs. reflex
+hit: 2d6 + dex mod damage
+     target falls prone
+     [ does *not* end stance]

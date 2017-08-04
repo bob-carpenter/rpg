@@ -1,0 +1,17 @@
+Origin: mutant
+
+fight: 20
+agility: 4 (poor)
+str: 10
+endur: 6
+reason: 40 (incred)
+intuit: 30 (remark)
+psyche: 6 (typical)
+
+apply: +1 column shift (switched already)
+
+powers (3)
+  * soul purification (life control)
+  * pheromone aerosol hypnotic control (phys enhancement)
+  * fighting frenzy (monstrous)
+

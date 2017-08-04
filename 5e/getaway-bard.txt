@@ -1,0 +1,73 @@
+ELF
+ dex: +2
+ darkvision: dim as normal, dark as dim
+ keen senses: perception proficiency
+ fey ancestry: advantage vs charm, can't be slept
+ trance: meditate 4 hours replaces 8 hours sleep
+ languages: common, elvish
+WOOD ELF
+  wisdom: +1
+  fleet of foot: 35' speed
+  elf weapon training: longbow, longsword, shortbow, shortsword
+  mask of wild: hide when lightly obscured by nature
+STR DEX CON INT WIS CHA
+  8  16  12  12  14  14
+-------------------------------------------------
+HALF-ELF
+  +2 charisma, +1 WISDOM, +1 DEXTERITY
+  speed: 30'
+  darkvision
+  fey ancestry
+  skills (2): PERCEPTION, SURVIVAL
+  languages: common, elvish, (CHOOSE)
+STR DEX CON INT WIS CHA
+ 10  14  12  12  14  16
+  8  16  10  12  14  16
+--------------------------------------------------
+HUMAN
+  +1 all
+  speed: 30'
+  languages: common, (CHOOSE)
+STR DEX CON INT WIS CHA
+  9  14  12  14  14  16
+ 11  14  14  14  14  14
+  9  16  10  12  14  16
+--------------------------------------
+VARIANT HUMAN
+  abilities +1 CHA, +1 DEX
+  skill: PERCEPTION
+  feat: SHARPSHOOTER
+
+STR DEX CON INT WIS CHA
+  8  14  10  12  14  16
+  8  16   8  10  14  16
+---------------------------------------
+
+URCHIN
+  skills: sleight of hand, stealth
+  tools: disguise kit, thieves' tools
+  equip: common clothes, knife, pouch w. 10gp,
+         map of city, parental token, (pet mouse)
+  city secrets: party movement doubled in cities out of combat
+
+CRIMINAL
+  deception, stealth
+  thieves' tools
+
+BARD I
+  8 HPs
+  armor: light armor
+  weapons: simple, hand xbow, longsword, shortsword, rapier
+  tools: 3 musical instruments
+  saves: dex, charisma
+  skills: DECEPTION, INTIMIDATION, PERSUASION
+  equipment: RAPIER, musical instrument (CHOOSE), ENTERTAINER'S PACK
+
+BARD II
+  jack of all trades: +1/2 proficiency any ability check not trained
+
+BARD III
+  expertise: STEALTH, INTIMIDATION
+  COLLEGE OF LORE
+    3 skills: arcana, history, religion
+    cutting words: bardic inspiration off creature's roll 60' sight

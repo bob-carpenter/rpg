@@ -1,0 +1,90 @@
+Tommy "Tom-Tom" Thomason
+Northwestern Canadian,
+Coastal Salish Tribe of the First People
+
+STR: 16  (5)  +3
+DEX: 14  (3)  +2
+CON: 13  (2)  +1
+INT: 12  (1)  +1
+WIS: 14  (3)  +2
+CHA: 12  (1)  +1
+
+* Alberta Technocratic Republic (West Coast US to Maine and up)
+  -- native people have been well treated
+
+* Rich family
+  -- full frame nanotech, then got in trouble on reservation,
+
+
+REPUTATION
+* son of long line of officers turned juvenile delinquent, so
+  serving as enlisted marine rather than commissioned officer
+
+RELATIONSHIP
+* admiral grandmother's favorite grandchild, depsite shameful
+  past, but she's making me prove myself to others
+
+BELIFES / GOALS
+* (personal) I will be decorated in battle no matter what the cost
+  to prove myself to my family and tribe, so I will seek out
+  dangerous assignments
+* (others) I will learn to be as calm as Nick the Monk;  and I'll do
+anything to keep Lt. King alive.
+* (campaign) I will keep my temper in check on my first assignment
+  and not get thrown in the brig, so I will try to walk away before
+  personal trouble starts
+
+INSTINCTS
+* when pushed, I push back harder
+* insult everyone to avoid social interaction
+* in space, always check my gear twice
+
+NATIVE AMERICAN SKILLS
+  - hunting & fishing: tomahawk, spear, and net
+  - pathfinding and tracking
+  - canoeing
+  - woodcarving
+  - firemaking
+
+NANOTECH APPS (2 / long rest)
+burn "slots" or work like cantrips in equilibrium
+* regeneration (2 hp per long rest)
+* cure wounds
+* create O2
+* convert matter (Create Water, Food, O2)
+* NT shield (+2 AC, 10 mins)
+* NT smash (+2d8, save vs. knocked prone)
+* enhanced senses (crank up nerves, attenuate senses)
+  : causes headaches
+* burst of speed, strength, or dexterity
+  : burns off stored energy like releasing springs
+* heat resistance (opens and vents)
+  : stores energy up to a point then burns slots
+* cold resistance (seals and heats)
+  : burns energy and slots
+
+SKILLS
+athletics, medicine
+
+PROFICIENCIES
+all mesh, all melee weapons, all firearms
+
+ARMOR
+beginner heavy mesh (AC 16)
+
+WEAPONS
+tomahawks, spear, net
+
+-------------------
+
+ferro-crete, ferro-foam (made in space, magnetic boots)
+
+12G humans on earth, as many in space
+
+dark deck from neptune, last 200 years, absorbs dark matter
+  and creates gravity
+
+Crew of the Windsor
+* cap'n o'keefe
+* ensign king (pretty girl, as young as us)
+* el jefe (non com)

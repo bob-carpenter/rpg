@@ -1,0 +1,76 @@
+Arterus
+============
+
+STR DEX CON INT WIS CHA
+ 10  16  14   8  16  8
+
+Race: VARIANT HUMAN
+Feat:  SHARPSHOOTER
+Skill:  NATURE (+1)  [animal handling (+5), insight (+5)]
+
+Background: OUTLANDER
+Feats:  ATHLETICS (+2), SURVIVAL (+5)
+Musical Instrument:  DRUM
+Language: ELVEN
+Boon: good with maps
+
+ROGUE I
+Skills: ACROBATICS (+5), PERCEPTION (+5), STEALTH (+5), SLEIGHT OF HAND (+5)  
+Tools:  THIEVES' TOOLS (+6)
+EXPERTISE: PERCEPTION (+7), STEALTH (+7)
+SNEAK ATTACK: d6 once/turn with advantage or adjacent ally
+EQUIPMENT: rapier, 2 daggers, shortbow + 20 arrows, explorer's pack,
+leather armor, thieves' tools
+
+ROGUE II
+CUNNING ACTION: dash, disengage, or hide as bonus action
+
+ROGUE III
+SNEAK ATTACK: 2d6
+ASSASSIN: advantage and auto-crit vs. anyone who hasn't had a turn
+
+ROGUE IV
+ASI
+
+ROGUE V
+SNEAK ATTACK: 3d6
+UNCANNY DODGE (reaction to cut damage in half from attacker can see)
+
+ROGUE VI
+EXPERTISE
+
+ROGUE VII
+SNEAK ATTACK: 4d6
+EVASION: (half damage on failed dex save, no damage on dex save)
+
+RANGER I
+Hps: d10 + 2
+Skills:   NATURE (+2), PERCEPTION (+6), STEALTH (+6)  [human->ACROBATICS]
+Favored Enemy: UNDEAD
+Favored Terrain: GRASSLAND
+2 shortswords, longbow + 20 arrows, leather armor or scale mail (?)
+explorer's pack
+
+RANGER II
+ARCHERY STYLE (+2 to hit with ranged weapons)
+SPELL SLOTS: 2 first level
+SPELLS KNOWN: HUNTER'S MARK (1st), HEAL WOUNDS (1st)
+
+RANGER III
+PRIMEVAL AWARENESS
+ARCHETYPE: HUNTER: HORDE BREAKER (+1 attack/turn vs. another within range)
+SPELL SLOTS: 3 first level
+SPELL KNOWN +1:  GOODBERRY
+ 
+RANGER IV
+ASI: 
+
+RANGER V
+EXTRA ATTACK (2 attacks per action)
+SPELL SLOTS: 4 first level, 2 second level
+SPELLS KNOWN +1:  PASS WITHOUT TRACE
+
+
+
+
+

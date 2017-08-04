@@ -1,0 +1,163 @@
+Antoine Désolé (aka Mssr. Le Fer)
+aka Ferris Gentleman, Hominem Metallum, aka Monsieur de Fer, aka Iron Man
+
+Base Attributes
+STR: 15  (+2)
+DEX: 10  ( 0)
+CON: 10  ( 0)
+INT: 15  (-1)
+WIS: 10  ( 0)
+CHA: 11  ( 0)
+
+Race: VARIANT HUMAN
+STR: +1 = 16 (+3)
+INT: +1 = 16 (+3)
+Feat: POLEARM MASTER
+Skill: DECEPTION
+
+NOBLE BACKGROUND
+Skills:  History, Persuasion
+Feature: Position of Privelege
+Tool: GAMING SET (CARDS)
+Languages: COMMON, GNOMISH
+Gear: fine clothes, signet ring, scroll of pedigree,
+      25 GP purse ->
+           LONGSWORD
+           DAGGER
+
+FIGHTER 1 (plate mail, densive style, second wind, polearm master)
+WIZARD 1  (cantrips ??, spells ??, arcane recovery)
+WIZARD 2  (arcane ward, spells ??)
+WIZARD 3  (levitate)
+FIGHTER 2 (action surge)
+FIGHTER 3 (battlemaster)
+FIGHTER 4 (sentinel)
+FIGHTER 5 (second attack)
+WIZARD 4  (??? atribute improvement)
+WIZARD 5  (fly, fireball)
+FIGHTER 6 (??? attribute improvement)
+WIZARD 6
+WIZARD 7 (4th level spells!)
+
+FIGHTER 1
+HPs: 10 + 1 = 11
+Fighting Style: DEFENSE
+Equipment: CHAIN MAIL
+           HALBERD
+           LONGBOW
+           DUNGEONEER'S PACK
+Second Wind
+Armor: all armor, shields
+Weapons: simple, martial
+Tools: none
+Saving Throws: str, con
+
+FIGHTER 2
+HPs: 6 + 1
+Action Surge
+
+FIGHTER 3
+HPs: 6 + 1
+Martial Archetype: BATTLE MASTER
+  Maneuvers:  PARRY
+              LUNGING ATTACK
+              PRECISION ATTACK
+
+FIGHTER 4
+HPs: 6 + 1
+Ability Improvement/Feat
+  - SENTINEL
+
+FIGHTER 5
+HPs: 6 + 1
+Extra Attack
+
+
+WIZARD 1
+HPs: 4 + 1
+Arcane Recovery
+Cantrips (3):
+  - FIRE BOLT
+  - MAGE HAND
+  - SHOCKING GRASP
+Spells (6):
+  - FEATHER FALL
+  - FALSE LIFE
+  - EXPEDITIOUS RETREAT
+  - MAGIC MISSILE
+  - SHIELD
+  - THUNDERWAVE
+
+WIZARD 2
+Arcane Tradition: ABJURATION
+  - Abjuration Savant
+  - Arcane Ward
+Spells (2)
+  - LONGSTRIDER
+  - ??
+
+WIZARD 3
+Spells (2)
+  - DARKVISION (2nd)
+  - LEVITATE (2nd)
+
+WIZARD 4
+Spells (2)
+  - BLUR (2nd)
+  - KNOCK (2nd)
+Ability Improvement/Feat
+  -
+
+WIZARD 5
+Spells (2)
+  - FLY (3rd)
+  - FIREBALL (3rd)
+
+
+WARLOCK 1
+HPs: 5 + 1
+Patron: FIEND
+  Burning Hands, Command spells
+  Dark One's Blessing
+Cantrips (2):  ELDRITCH BLAST
+               MAGE HAND
+1st Level Spells Known (2):
+  ARMOR OF AGATHYS
+  HELLISH REBUKE
+Spell Slots (1st): 1
+
+WARLOCK 2
+HPs: 5 + 1
+Spell Slots (1st): 2
+Spells Known (+1)
+  HEX
+Eldritch Invocations (2)
+  REPELLING BLAST
+  DEVIL'S SIGHT
+--------------------------------
+
+
+
+WARLOCK 3
+Spells Known (+1):
+  INVISIBILITY
+Pact: BLADE
+
+WARLOCK 4
+Spells Known (+1):
+Cantrip: ???
+
+WARLOCK 5
+Spell Slot Level: 3rd
+Invocations Known (+1):
+  AGONIZING BLAST
+Spells Known:
+  FLY
+
+WARLOCK 9
+Invocations:
+  ASCENDANT STEP
+
+--------------------------
+
+Shilelelagh mage fighter with polearm master

@@ -1,0 +1,444 @@
+Wit:
+
+I've edited down the gazillion choices to ones I think make
+sense and what others have said.  I'll let you reselect your
+existing powers and feats.
+
+Thit's complicated because these all play off each other, so
+you could go for a more mobile play (to get in place for sneak
+attacks), more damage, or more ability to position others or
+enable.
+
+
+
+THIT
+=====================================================================
+
+8: INT
+10: WIS
+
+
+Level 1 At Will Power (Select 2)
+-------------------------------
+
+
+Sly flourish gives extra +3 damage, piercing strike goes vs.
+reflex other than AC.  The deft and acrobatic options are more
+move oriented.
+
+** SLY FLOURISH (at will/standard) Dex vs. AC to hit, 1W + Dex +
+Cha damage
+
+* (NOW) PIERCING STRIKE (at will): dex vs. REFLEX (not AC), 1W + Dex
+damage
+
+* DEFT STRIKE: (at will/standard) move up to 2 squares before attack,
+hit with Dex vs. AC, Damage 1W + Dex
+
+** ACROBATIC STRIKE (pre-req acrobatics training): (at will/std) Dex
+vs. AC to hit, 1W + Dex damage, shift 1 square before or after attack,
+and any hit escapes a grab
+
+
+Level 1 Encounter Power (Select 1)
+-----------------------------------
+
+Positioning goes vs. Will and slides 3 squares (huge!). Guarded attack
+gives more damage and gives you counter-attack, whereas one-two punch
+lets you hit two people with 1W damage (no mods), but sneak attack
+possible on both.
+
+* POSITIONING STRIKE (encounter/standard, light blade) Dex Vs.
+Will; 1W + Dex damage;  slide target 1 square (or Cha mod = 3 squares
+with artful dodger selection, which you have)
+
+** GUARDED ATTACK: (encounter/standard - light blade) Dex vs. AC, 
+2W + Dex damage;  bonus on hit: if target makes melee attack vs. you,
+you get +2 defense and get a second attack of Strength vs. AC, 1W +
+Strength damage
+
+* ONE-TWO PUNCH: (encounter/standard light blade): Dex vs. AC, 1W,
+attack two targets and can deal sneak attack damage to both
+
+
+Level 1 Daily NOW
+--------------------------------------
+
+The blinding barrage sucks, and I'm just not seeing it from a
+role-playing angle, either, so take another one, please. Duelist looks
+really nice in terms fo counterattacking vs. reflex whenever someone
+tries to hit you; and it's ongoing. Easy target sets up one target
+with combat advantage (save ends, so it won't last long). Spinning
+blad leap lets you do crazy shift before/after, so awesome for
+positioning yourself to start (can combine with tumble for super
+moves).
+
+* (Power) BLINDING BARRAGE: (daily/standard with xbow or thrown
+daggers): blast 3 (3 x 3 squares next to you): Dex vs. AC to hit, Dex
+mod damage (5), and all targets in blast 3 blinded until end of your
+next turn
+
+* TRICK STRIKE: (daily/standard) dex vs. AC, 3W + dex damage and slide
+target 1 square; plus continue to slide target 1 square with each hit
+through encounter
+
+* DUELIST PROWESS: (daily/minor) adopt duelist stance, once when an
+enemy hits or misses you, you can immediate interrupt a Dex vs. Reflex
+blade hit, 1W + dex damage
+
+* EASY TARGET: (daily/standard) Dex vs. AC, 2W + dex damage, target
+slowed and combat advantage and save ends (miss: half damage, target
+grants combat advantage until end of your next turn)
+
+** SPINNING BLADE LEAP: (daily/standard) Dex vs. AC, 2W + Dex damage,
+shift your speed before and after attack
+
+
+Level 2 Power (1)
+----------------------------------------
+
+These seem mostly geared toward movement. Tumble is huge, but
+scrambling climb makes you a squirrel and more than doubles climbing
+speed (usually half speed). Happy feet is nice on others turns. Hop Up
+is nice if you don't want to be knocked prone and it gives you a
+shift, which can take you out of the way of follow-up attacks.
+
+* AGILE RECOVERY (at will/minor) stand up with only minor (usually
+takes full move)
+
+* GREAT LEAP: (at-will/move) athletics check to jump -- considered
+running start;  otherwise jumps take standard actions
+
+* SUDDEN LEAP:  (encounter/minor) jump 1/2 speed as minor
+
+* SNEAK IN THE ATTACK: (encounter/minor) until start of next turn,
+next ally that hits a target next to you w. combat advantage deals
+your Sneak Attack damage
+
+* HAPPY FEET: (encounter/immediate reaction to start of other's
+turn) shift up to 2 squares at start of other creatures turn
+
+* HOP UP:  (encounter/immediate reaction to knocked prone) stand up
+and shift 1 square
+
+** TUMBLE:  (encounter/move) shift up to your speed as move
+
+* SCRAMBLING CLIMB: (encounter/move) +5 athletics check to climb your
+speed + 2
+
+
+Level 1 and 2 Feats (You get 2 of these, off the same list)
+----------------------------------------------------------
+Feats always stay on --- they're not expendable.  And they're
+pretty much all awesome.  
+
+Not sure lost in the crowd is best --- you really don't want to be
+adjacent to two enemies larger than you (though humans are larger than
+you, because you're small). Duelist panache gives you super-acrobatics
+and a nice athletics boost to compensate your low strength.
+Backstabber is an awesome plus to sneak attacks. Nimble dodge helps
+with that making others re-roll. I like the flavor of two-fisted
+shooter --- with crossbow offhand, you can select each round what to
+use without caching/drawing and you can use two light crossbows if you
+want; the followup hit on a critical will invoke an opportunity attack
+for being a ranged weapon if you're in combat. 
+
+* (NOW) LOST IN CROWD: +2 bonus to AC when adjacent to two enemies
+larger than you
+
+* DUELIST PANACHE: Charisma bonus (+3) to acrobatics and athletics
+
+** BACKSTABBER: 2d6 to 2d8 damage from sneak attacks
+
+** TWO-FISTED SHOOTER: treat hand crossbow as off-hand weapon; 
+reload it as free action;  critical with on-hand allows ranged basic
+attack with off-hand crossbow
+
+* NIMBLE DODGE (halfling): reroll with Second Chance takes -5 penalty
+and can't score a critical
+
+* RIGGED CHANCE (halfling): if second chance doesn't work, keep it for
+one more try in encounter
+
+* OPPORTUNITY KNOCKS: whenever hit with opp attack or an enemy misses
+you with opp attack, the enemy grants combat advantage until end of
+next turn
+
+
+ETHANHAWK
+===================================================================
+
+These really break down into things that you do that give
+you power ongoing, that do a lot of damage, and that heal others
+or some combo.
+
+I'll also let you reallocate charisma to will if you want,
+but I'm not sure it's good for your character other than additional
+lay-on hands.  
+
+Daily Power (1)
+-----------------------------------------------------
+
+** (NOW) RADIANT DELIRUM: (daily/std) ranged 5: Cha vs. Reflex to hit;
+damage 3d8 + Cha mod (3) and target dazed until end of your next turn
+with epnalty -2; miss half damage and dazed until end of your next
+turn
+
+* BLAZING BRAND: (daily/standard - weapon); reliable (use again if
+doesn't work): Strength vs. Fortitude to hit; 2W + Strength mod fire
+damage; target takes ongoing 5 damage and grants combat advantage to
+those adjacent (save ends both)
+
+* BLOOD OF THE MIGHTY (daily/weapon), reliable (use again if misses);
+Strength vs. AC to hit, 4W + Str damage, and you take 5 damage which
+can't be reduced in any way
+
+DRIVING BLADES: (daily/std) : Strength vs. AC to hit, 2W + Str damage;
+ongoing 5 damage (save ends), each tim eyou hit with melee push 1
+square and shift into its square; may use as charge attack; miss half
+damage and push 1 square
+
+GLORIOUS CHARGE (daily/std): Charisma vs. AC, 2W + Cha damage; can
+use as charge attack;  each target within 2 gains hps = 1/2 level +
+wisdowm mod [total = 1 :-( ]
+
+PALADIN'S JUDGMENT: (daily/std) melee Strength vs. AC; 3W + Str damage
+and an ally within 5 spends surge; miss an ally still spends surge
+
+ON PAIN OF DEATH: (daily/std) Cha vs. Will to hit; 3d8 + Cha mod
+damage; once per round target takes d8 after attacking (save ends);
+miss half damage and d4 damage after attacking
+
+1st Level Encouner Power (1)
+---------------------------------------------
+* (NOW) PIERCING SMITE: Str vs. Reflex; 2W + Str damage, and target
+and number of enemeies equal to wisdom mod (0) are marked
+
+2nd Level Power (1)
+---------------------------------------------
+
+* BLESS WEAPON: (daily/minor) bless a weapon to give it +1 to hit and
+extra d6 radiant damage; criticals on 18--20 against creatures
+susceptible to radiant (mainly undead)
+
+DIVINE COUNTER: (encounter/interrupts hit vs. fortitude/reflex/will):
+take half damage and triggering enemy subject to divine sanction (3 +
+Cha radiant if don't attack you)
+
+* RESTORE VITALITY: (daily/minor): melee reach 1; touched target
+regains HP equal to your healing surge + can make a save
+
+SACRED CIRCLE: (daily/std) burst 3 zone of +1 AC until end of encounter
+
+** INSPIRING FORTITUDE: (daily/std) uses second wind; each ally within
+5 squares of you (not including you) gets temp HPS equal to 10 + your
+con mod [2])
+
+* MASTER DIPLOMAT: (encounter/free action) re-roll diplomacy check
+
+KORD's STRENGTH: (encounter/free): +5 power on Athletics or Endurance
+check; +2 damage until end of your next turn and targets hit with
+melee subject to divine sanction
+
+ENDURE PAIN: (daily/immediate interrupt to being hit):  gain
+resistance (aka "proof") of 5 + con mod (7 total) until end of your
+next turn
+
+
+Feats (select 3 total)
+-------------------------------------------------------
+
+** (NOW) TOUGHNESS: +5 HPs
+
+* (NOW) AMOTH'S GRACE: (encounter/immediate reaction): you or ally are
+bloodied, get to spend healing surge [channel divinity, so only one
+per encounter]
+
+** DEVOTED PALADIN: when you lay on hands, +Cha mod (3) extra HPS;
+your number of healing surges increases by 1
+
+* SWORD EXPERTISE: +1 Hit, +2 AC vs. opportunity attacks
+
+* DEVOUT PROTECTOR: +1 bonus to 1-handed melee attacks
+
+* IMPROVED DEFENSES: +1 vs. Fort/Will/Reflex defense
+
+* HUMAN PERSEVERENCE: +1 vs. saving throws
+
+* KNIGHTLY BEARING: +2 bonus to Diplomacy and Intimidate
+
+* SKILL FOCUS (DIPLOMACY) : + 3 diplomacy
+
+* STUBBORN SURVIVOR: +2 on saving throws when no action points left
+
+* HEALING HANDS: + Cha bonus to lay-on-hands (+3) extra HPS
+
+* TENACIOUS RESOLVE: +5 saves vs. ongoing damage
+
+* BUILDING CAMARADERIE: successful diplomacy gives next diplomacy +1,
+cumulatively, until end of encounter; fail diplomacy or bluff cancels
+all
+
+* BARDIC DILETTANTE (Bard multiclass): (if you want to play up
+storytelling side of diplomacy with non-religious healing) training in
+1 skill from Bard's list; once per day use bard's majestic word (minor
+action) and target gets to spend healing surge with your Charisma
+bonus (+3)
+
+** MASTER OF STORIES (Bard multiclass): skill from bard list
+(PERCEPTION); get Skald's aura, which is an aura 5 that lets you twice
+per encounter (bur once per turn), you or ally in aura can use minor
+to spend a surge and regain additional d6 HPs
+
+
+
+KRETEK
+===========================================================
+I figured out how to equip the large shield.
+
+* I've replaced your standard-issue warhammer with a not-even-magic
+Dwarven craghammer, which is a heavily weighted hammerhead
+counterbalanced by a sharpened spke. Damage d10 and reroll 1s (it's a
+"brutal" 2 weapon).  Versatile so +1 damage when used 2-handed.
+Dwarves can wield with shields.
+
+Your current powers/feats are good.  Here are the new menus, choose
+one off of each.
+
+Level 2 Powers (1)
+-------------------------------------
+
+* RESURGENT STRENGTH: (daily/minor) close burst 3 -- you or one ally
+in burst; target spends a healing surge and gains +4 damage to attacks
+until end of your next turn
+
+* HARBINGER OF REBIRTH: (at will) +2 Heal skill checks; any
+ally within 5 squares gets +5 bonus to death saves
+
+* BLESS (daily/minor): close burst 20; you and each ally;  each target
+gets +1 to attack rolls until end of encounter
+
+* SHIELD OF FAITH (daily/minor): close burst 5; you and each ally gets
++2 AC until end of encounter
+
+** CURE LIGHT (daily/std): melee touch; target regains HPs as if it had
+spent a healing surge
+
+
+Level 2 Feat (1 more)
+------------------------------------
+** DWARF BATTLE PRIEST: when use healing word, you gain temp HPs equal
+to your Con mod (+4)
+
+* SKILL FOCUS INSIGHT: +3 Insight
+
+* ALERTNESS: +2 perception checks;  can't be surprised
+
+* DISCIPLINE OF STONE: when you spend a healing surge, get 5 temp HPs
+
+* KNOCKBACK: (at will/interrupt): when you save to avoid knocked
+prone, you knock prone one enemy Large or smaller adjacent to you
+
+* STONE CUNNING (dwarven): +2 dungeoneering, +2 skill check to detect
+trap, hazard or secret door
+
+* UNFAILING VIGOR: 18 death save counts as 20
+
+* SKILL FOCUS ARCANA: +3 arcana
+
+* IMPROVED DEFENSES: +1 fort, reflex and will
+
+
+
+
+DJARUM
+===================================================================
+
+You're in good shape now with powers/feats and gear, so let's just
+look at new ones.
+
+
+Level 2 Elementalist Utility Power (1)
+----------------------------------------
+
+I love the all-in aspect of good timing, but it's hard to argue
+against rock armor stance for your elementalist. It's what the lists
+recommend to combine earth-based defenses with fire-based attacks. And
+it's like iron man's armor with your Charisma. I would, of course,
+send bad guys to chase you at that point. I kind of like cave sight as
+done by sensitivity and control of wind currents --- let's just say
+all your battles aren't going to be outdoors. Shield of Flames
+certainly fits the all-fire-all-the-time option. Dragonflame Mantle is
+what Paul gave my character that got killed and it sucked. Teleport's
+cool, especially as we'd play it as merging into and then out of the
+elements in a really creepy-fast way.  For some reason, I'm not keen
+on Sorcerous Scirocco --- seems too powerful and hard to play ---
+maybe if it had a +/- 1 square uncertainty on landing due to being
+caught up in a windstorm I could buy it.
+
+
+* ROCK ARMOR STANCE: (daily/minor - personal) Slowed (speed = 2) and
+gain resistance to damage equal to Cha modifier (5); persists for
+encounter or until you end on a free action
+
+* GOOD TIMING: (daily/free action): miss a target with sorceror attack
+power; reroll triggering attack. If you still miss, take psychic
+damage equal to Cha mod (5) and regain use of power at start of next
+turn.
+
+* CAVE SIGHT (daily/minor): burst 20 investigation learning general
+layout of terrain but doesn't go through walls;  we'd play it as an
+air elemental control and sense.
+
+* SHIELD OF FLAMES: (encounter/minor): aura 1 that lasts until end of
+next turn;  partial concealment (-2 attacks);  any creature that makes
+melee attack AND ends turn in aura, takes fire damage equal to your
+charisma (5)
+
+** SPATIAL TRIP: (encounter/move) teleport half your speed;  for an
+elementalist, you seep into earth, water, fire, or air to move and
+reassemble.  
+
+* SORCEROUS SCIROCCO: (encounter/standard action): you and ally moves
+a number of squares equal to speed + 2 --- can fly, but falls if
+doesn't land during move.
+
+* DRAGONFLAME MANTLE (encounter/interrupt): triggered by being hit,
+interrupts with +1 defense and d6 fire damage versus anyone hitting
+with melee until end of next turn.
+
+Level 2 Feat (1)
+----------------------------------------
+If you go with Disciple of Shadow, it'll be because of the
+Shadowfell on Duponde.  Ditto the shadow raven familiar, which
+may not ingratiate you to the rest of the party.  
+
+* DISCIPLE OF SHADOW:  gain darkvision with range of 2 squares
+
+** HUMAN PERSEVERENCE: +1 saves
+
+* ARCANE RESERVES: +2 damage on at-will arcane powers if out of
+encounter arcane powers
+
+* TOUGHNESS: +5 HPs
+
+* IMPENDING VICTORY: +1 to attack with at-will powers against bloodied
+
+* TENACIOUS RESOLVE: +5 feat bonus to saves against ongoing (only if
+trained in endurance, which you are)
+
+* ARCANE FAMILIAR: 
+    fire lizard (not susceptible to fire) attracted to fire; 
+        +2 athletics and endurance checks; resist fire increases +2
+        lizard immune to fire
+    least earth elemental (burrows, see through it; save vs. prone)
+    least air elemental (flies/hovers; pick up objects;  
+          1/2 damage falls)
+    shadow raven: raven from shadowfell -- neither alive nor dead
+         +2 perception, +4 bonus defnese surrpise rounds
+         partial concealment from its shadows once per 
+            encounter (minor)
+
+    
+    
+

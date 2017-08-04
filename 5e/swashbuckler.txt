@@ -1,0 +1,50 @@
+
+STR: 10  ( 0)
+DEX: 15  (+2)
+CON: 10  ( 0)
+INT: 10  ( 0)
+WIS: 13  (+1)
+CHA: 14  (+2)
+
+VARIANT HUMAN
+ABILITY INCREASE
+  -- DEX: +1 = 16 (+3)
+  -- WIS: +1 = 14 (+2)
+
+ALERT
+  -- +5 init
+  -- can't be suprised while conscious
+  -- attackers don't get advantage by being hidden
+     from you
+
+MOBILE
+  -- speed +10'
+  -- dash negates difficult terrain for turn
+  -- melee attack prevents oppty attacks
+
+SENTINEL (feat)
+  -- oppty attack reduce opponent speed to 0
+  -- even disengage provokes oppty
+  -- *reaction* attack within 5' not against you triggers melee attack
+
+DEFENSIVE DUELIST
+  -- *reaction* when hit with melee, add proficiency to AC
+
+
+PERCEPTION proficiency (skill)
+
+FIGHTER 1:
+DUELING (style): +2 damage single weapon
+SECOND WIND: *bonus* to get d10 + fighter level HPs
+             recharge on short or long rest
+ATHLETICS (skill)
+
+STUDDED LEATHER (armor): AC 12
+BUCKLER (shield): +2 AC
+RAPIER (finesse, 1H weapon): +5 hit, d8 + 5 damage
+
+PROFICIENCY: +2
+HPS: 10
+AC: 17
+
+

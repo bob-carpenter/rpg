@@ -1,0 +1,299 @@
+al-Foobati, Dwarf Mechanic (Pioneer)                     Level: 2
+==================================================================
+XPS: 11980 (to spend: 2110)
+
+DEX:  16 (+2)
+SPD:  15 (+1)
+STR:  11
+CON:  16 (+2)
+MRK:  14 (+1)
+ACU:  12
+PERC: 14 (+1)
+REA:  14 (+1)
+WILL: 14 (+1)
+CHR:   9
+
+ACT:      5
+MOVE:     2
+INIT:    +1
+MELEE:   +3
+MDC:     1d6
+FIREARM: +2FDC:  1d6
+MISSILE: +2
+THROWN:  +1
+PDC:     d6
+HEAL: 3
+CaRT:  0
+CAST:  0
+
+KARMA: 1
+   freeing damned soul from white beast
+
+HPS: 61
+
+QI: n/a
+
+LEVEL 1:  +1 proof (defense avail; jack of all trades)
+LEVEL 2:  +1 avail (skill avail; jack of all trades)
+
+MARTIAL:
+  special juju: 2
+    trip attack: 2 (dex vs. dex CRR, knocks prone)
+    flying attack: 2 shift wdc and pdc +1, 1 pt square avail (max 3)
+  Gunnery: 1
+  Hammers & Picks: 3 (+1 trade weapon = +4)
+  Thrown Weapon: 1 
+
+  (Brute / Deft / Swift : ARMED / UNARMED) 
+  [charging, bash attacks,  disarms] : 1000
+
+KNOWLEDGE:
+  Military Engineering: 1 (+1 REA = +2)
+  Warfare: 2 (+1 REA = +3)
+
+SKILLS:
+  Construction: 1 (+1 speciality; +2 DEX = +4)
+  Mechanic: 1 (+2 DEX == +3)
+  * Cunning Works: 2 (+2 DEX == +4)
+
+TALENTS:
+  Acrobatics: 1 (dex/spd +2 = +3) 
+  * Climbing: 3 (+2 DEX = +4; dwarven cable +3)
+  Aeronautics: 1 (+0 ACU = +1)
+  * Scrounging: 2 (+1 PRC = +3)
+  Riding: 1
+
+LANGUAGES:
+  Dwarvish (native / literate)
+  English (fluent / literate)
+  Arabic (conversant / not literate)
+
+MELEE WEAPON: HAND AND A HALF PICK
+  slung over shoulder 
+    super hand and a half hammer/pick (better off 2-handed) WDC d9
+  Superior hand and a half hammer/pick (found in dwarven caves)
+  - (left in caves) Quality hand and a half hammer/pick (family heirloom)
+  WDC: d8
+  DC: d10+d8 (pdc 1d6 + dwarf bump + trade bump = d10; wdc d8)
+  FLEX: 11 (level: +3, trade weapon: +1, ME: +3, superior: +2,
+            st. geordi medal: +1;  tinkerer skill avail: +1)
+  
+
+MELEE WEAPON:  DAGGER
+  superior dagger
+  WDC: d4
+  DC: d6+d4
+  FLEX: 6 (ME: +3, superior: +2, st. geordi medal: +1)
+
+MISSILE WEAPON: dwarven javelin (x 3)
+  - superior quality (+2 avail)
+  - thrown WDC 1d8
+  - bludgeon WDC 1d6
+  - PDC: +1d10 (trade and dwarven)
+  - **with white fiend** #1: 2 more uses as lightning bolt (5d6 if hits)
+  - #2: 2 more uses
+        3 more uses
+        2 more uses
+  
+MISSILE WEAPON: pencil-sized bowling pin
+  - ampules size of film cannister
+  - weighted thrown weapon, lands glass bulb down
+  x 1. amber liquid (burning)
+  - 2. blue?
+  - 3. dark purple, nearly black (?)
+  - can be repurposed to arrow tip
+
+DWARVEN CABLE & PITONS: 50'
+  - peerless (+3) snake link cable (slick one way; rough the other)
+  - 9 pitons (+3) with toggle catches 
+
+MITHRIL DWARVEN BELT w. powder HORN
+  -- 1 scattergun charge w. silver chasings
+
+CONTAINER w. ANIMAL HORN
+
+DWARVEN FIREMOUTH HAND PICK HAND CANNON
+  -- 
+  -- superior quality (+2): DC 1d9 + PDC
+  -- canon: 4d6 + FDC // 3 x 3 cone of blast
+  -- thread on cap (plunger like french press)
+  -- gold plated touch port cover
+  -- fire like mortar
+  -- pouch with silver fill  
+  -- rams horn with powder
+  -- powder measure on mithril chain to wear around neck and measure
+     base metal
+  -- reddish color wood with strange grain and odd look 
+  -- inscribed mark of Serket in Hieroglyphics with lamp black
+      : provides ability to will vs. con attack and succeed a d6
+        where all they can do is defend themselves (paralyzed)
+
+  DWARVEN ROUNDS: 6
+  AS PICK:
+    WDC: d9
+    DC: d10+d9 (pdc 1d6 + dwarf bump + trade bump = d10; wdc d9)
+    FLEX: 10 (level: +2, trade weapon: +1, ME: +3, superior: +2,
+              st. geordi medal: +1;  tinkerer skill avail: +1)
+  AS CANNON:
+    PDC: d6
+    WDC: 5d6--2d6
+    AVAIL: 6 (level: +1, MI: +2, superior: +2, tinkerer skill avail: +1)
+
+BANDOLIER of grenades
+  -- tarred leather envelope size of golf ball attached to stick (like
+     tee)
+  -- remnants of fuse
+  -- 2 of these in bandolier like old timex watch
+  -- flash bangs
+  -- took 3 phases to go off  
+
+GEM-ENCRUSTED TOAD w. SALT POUCH
+  -- Ren & Kel --- first dwarves;  in their tale helped by a toad
+     to escape imprisonment & toad teaches them about earth and 
+     gems  
+  -- Netsuke-style toad (eyes onyx, back studded with red/amber stones
+     to mimic warts of toad)
+  -- salt used for ritual purification (toad figures in)
+
+ARMOR:
+  AC: 10 
+    fez + apron + codpiece + shoes + half gloves: +3
+    mail, mameluke charmed: +4
+    skill bump due to dwarven tinkering: +1
+    ward: +1 (proof or AC) scavenged holy book -- blessed qu'ran
+    +1 arcane and mundane from dyptich
+
+BAGGAGE MUNDANE
+  TOOL CHEST (canvas reinforced with leather)
+    jewelers loup, magnifying glass, cheap small telescope
+    tweezers, clamps
+    rollable saw blade with attachable handles
+    plumb bob, chalk and line; small level
+    small and medium knifes, picks, and chisels
+    mallet
+    hook for climbing
+
+  BEDOUIN UPGRADED TENT 
+    fashioned on road to Damascus
+    cooler fabric, acaica poles
+    second version human-sized
+
+  (useless, tar-coated Albanian climbing shoes (formerly +1 climb))
+  new Albanian climbing shoes
+
+  cache of superior damask scimitars
+
+  weapons
+    hand and a half hammer/pick
+    curved dagger (superior) damask: 
+
+  armor
+    hard-hat fez
+    mail half-shirt
+    boiled leather apron, tool belt and codpiece
+    steel toed shoes
+    bone-reinforced thin leather fingerless gloves
+
+RACIAL
+40' moonsight (see like day in moonlight)
++1 shift in picks/hammers
++1 skill as dwarf
+
+BAGGAGE ARCANE
+  ivory icon, dyptich; once seriously wounded, reset to 1/4 HPs + 6;
+    +1 ward vs mundane and arcane attacks
+  st. geordi medal: high purity silver (+1 flex)
+  dwarven miner soda can size, belt clip, firestone light
+     40' radius
+     (green-blue one is high quality;  white highest, red lowest)
+
+  * tonic blue glass bottle, brass protective covering, hardened leather
+    over that (aka goblins blood) --- cap also acts as a cup; aromatic
+    of cedar (of Lebanon --- Jean R knows its used for mummification);
+    blue glass has cobalt (not prevalent here --- Egyptians imported
+    it); bottle is involved in distilling it / preserving it
+    : heal 4 HPs, CON in temp HPs per dose
+      (2 doses)   
+
+BAGGAGE MUNDANE
+  cotton sleeping bag
+
+BAGGAGE ARCANE
+  DISCARDED GOD FIGURINE - 4" tall man holding tongs & scale
+  kothar wa khasis --- ancient canaanite god affiliated
+    with Egyptian P'tah (great creator god)
+    centered out of memphis and built palaces for Egyptians
+    building and creating
+  +1 on all skill rolls
+  MEND spell
+
+ * Serket's Measure
+
+
+ditty bag: scrap of paper from real modern papyrus
+           from Habesha---spell to inscribe a weapon
+           with mark of Serket in Hieroglyphics
+
+HISTORY
+poor, kicked to Cyprus, then to Malta
+dwarves poor on Malta
+mother's side: Azure-brows
+daydreamed on rigs of hawks
+join ballooning troupe, but duped into going with
+Battle of Nile sunk ballooning corps
+French Army stranded in Egypt
+Battle of Pyramids (sighting, placing artillery)
+Headed East vs. Mamelukes into Syria
+Caught in Jaffa; mass execution by Bonaparte
+  --- stiffened community 
+Acre --- stronghold of Knight Hospitalers
+  -- used shipment of French guns against French
+      after captured by Brits
+  -- Brits attacking by sea
+We are legion --- demons into herd of swine
+"Lost Dwarves" took it --- legends
+Found chevron (dwarven mining cavern)
+freed porcine imp from toad w. salt cake (to o'dean)
+blood enemy : Arn Copperback & Bucklefist
+
+gregorus almani --- wine merchant middelman (code phrase)
+  -- georgus, nephew
+Q: i want to buy some wine, do you have any white?
+A: we only have red
+Q: i like red in the morning and white at night
+ENTER EASTERN GATE-Bab Sharqi to Christian Quarter
+   maronite xians --- al-Mahdi
+
+Gregorus killed, Georgeous nephew survives
+servant of rich Mr. Shaheb, sketchy biz merchant shows
+  kills him (and wanted us to have tea, too);
+  dark curly hair, 30s, native garb aba (Simonides would
+  normally handle for Mr. Shaheb --- fine gone to visit
+  family)
+Georgeous father - eztavan zhatar
+Rakmini --- played goddess Net, protector of jackal-headed god
+       on canopic jar, one of most ancient (Net - hunt and war,
+       crossed arrows, mistress of bow; secondary weaving for funereal
+       wrappings --- also role in Osiris death and resurrection;
+       mother of crocodiles, mother and/or wife; direction of East
+       and on east of sarcophogus)
+
+al melgali and al rash ha-ood --- beware of both tribes;  melgali
+invited 150 members for feast and killed them;  tell apart by
+women (hair melgali 2 small braids in front of ears + 2 large plaits)
+
+LIVE
+================
+HPs (61/30/15): -44
+QI: 16  taken: 
+
+ARCANUM / HEALING
+
+
+AC: 9 (2 could be proof)
+
+Firemouth:
+  Hand and Half Pick  hit: +9 (2 flex)   damage: d10 + d9
+  Canon:              hit: +6 (2 flex)   damage: d6 + (5d6 to 2d6)   
+
+                    

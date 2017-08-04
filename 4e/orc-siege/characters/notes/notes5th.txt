@@ -1,0 +1,226 @@
+DJARUM
+==================================================
+As an elementalist you get bupkis at 5th level.  
+
+However, you also have the FIRECRAFER THEME, which gives you a
+new feat:
+
+FIRECRAFTER (level 5 feat):
+  +2 bonus to acrobatics and +1 power bonus to fire attack
+  rolls after you use your second wind
+
+
+
+
+KRETEK
+==================================================
++ 1 power: Warpriest 5th Level Daily 
+
+DIVINE CASTIGATION:  (daily/std) 
+effect: extra opportunity attacks against target; 
+
+INSPIRE FERVOR: (daily/std)
+wisdom vs. AC,
+hit: 2W + Wisdom radiant; miss: half damage
+effect: each ally within 2 may shift up to 2 and make
+a melee basic vs. target
+
+WEAPON OF THE GODS: (daily/*minor*)
+target is one held weapon;  until end of encounter
+does extra 1d6 radiant;  whenever an enemy is hit
+with the weapon, it takes -2 penalty to AC until
+end of wielder's next turn
+
+HALO OF CONSEQUENCE (daily/std)
+(range 10 implement): wisdom vs. *reflex*
+hit: target affected by halo (save ends): -4 penalty
+  to attack and after it attacks you or an ally, it
+  is dazed until end of its next turn;  it takes -2
+  to saves vs. halo
+miss: nothing at all
+
+HALLOWED ADVANCE (daily/std)
+(melee) *strength* vs. AC
+hit: 2W + strength mod damage
+miss: half damage
+effect: ally within 5 can teleport adjacent to target and 
+  make melee basic attack against it and may also spend a healing 
+  surge
+
+HOLD FOE (daily/std)
+(implement ranged 10) wisdom vs. will
+hit: 2d6 + wisdom mod damage, target is dazed and immobilized (save ends both)
+miss: half damage and slowed until end of your next turn
+
+** REVEALING LIGHT (daily/std)
+(implement range 10) wisdom vs. *reflex* (ignores cover/concealment)
+hit: 3d6 + wisdom mod radiant damage
+effect: target takes ongoing 5 radiant and can't become hidden (save ends both)
+
+SUNDERED FORTUNE (daily/std)
+(implement) burst 1 within 5 squares; each enemy in burst
+wisdom vs. will
+hit: target subjected to sundered fortune (save ends): -2 to attack
+  and takes damage equal to 5 + your wisdom each time it succeeds with
+  an attack or save
+effect: target grants combat advnatage until end of your next turn
+
+
+
+
+
+THIT
+==================================================
+
++ 1 level 5 rogue daily;  +1 feat (from Treasure Hunter)
+
+- immediate reaction is after the triggering action
+- immediate interrupt is before the triggering action
+- burst 2 is everything within 2 squares of you (5 x 5 grid total)
+- blast 2 is a 2x2 square adjacent to you (2 x 2 grid total)
+
+Daily
+--------------------------------------------------
+
+BAT ASIDE (daily/std)
+(light blade) Dex vs ac; 
+hit: 3W + dex damage, slide target 5
+  squares so it is adjacent to one or more of its allies and knock
+  it and all adjacent allies prone; rattling effect (if trained
+  in intimidate, which you're not, target -2 attack rolls until end of 
+  your next turn)
+
+BLOODBATH (daily/std)
+(light blade/**xbow**) dex vs. *fortitude*; 
+hit: 1W + dex damage and *ongoing damage* equal to any sneak
+        attack damage from this attack (save ends)
+*effect*: 1W + dex damage  (this happens hit or not, so it stacks
+  with the 1W on the hit)
+
+DOWNWARD SPIRAL (daily/std)
+(light blade); **burst 1** each enemy in burst you can see;
+rattling; 
+Dex vs. *reflex*
+hit: 1W + dex damage
+effect: knock target prone
+
+FLASHY RIPOSTE (daily/**immediate reaction**)
+(light blade); triggered by melee attack vs. you
+dex vs. AC;
+hit: 2W + dex mod damage
+effect: target grants you and your allies combat advantage
+  until end of your next turn
+
+MOCKING STRIKE (daily/std)
+(melee); dex vs. *will*
+hit: 2W + dex damage and target takes -3 penalty defense vs. you for
+   rest of encounter
+miss:  half damage and -3 defense (save ends)
+
+STAGGERING ASSAULT (daily/std)
+(melee/**ranged**): dex vs AC
+hit: 2W + dex damage (+1 W damage if target not bloodied before attack)
+   and target is slowed (save ends)
+effect: until end of encounter, when you hit target it is slowed
+  [note: slowed is speed 2, so less than half speed for most]
+
+SUREFOOTED RETORT (daily/ **immediate interupt**)
+(melee): dex vs. AC
+hit: 2W + dex damage
+effect: if trigger attack would knock you prone or slow you, negate it.
+  reduce any push, pull or slide by dex mod (-5)
+
+FEAT
+-------------------
+Because of your Treasure Hunter theme, you get a +3 check
+by focusing on one of the following skills:
+
+  acrobatics
+  athletics
+  bluff
+  x nature
+  stealth
+  streetwise
+  thievery
+
+
+ETHANHAWK
+==================================================
++ 1 level 5 paladin daily
+
+- close blast 3 is a 3x3 square adjacent to you
+- your implement is your holy symbol, which you don't need 
+  a hand free for
+- effects happen even w/o hitting
+- melee effects add in your sword bonus, other things don't
+
+ARC OF VENGEANCE (daily/std)
+(melee weapon) close burst 1: each enemy in burst
+strength vs. AC
+Hit: 2W + strength modifier radiant
+Miss: half damage
+effect: target is subject to your divine sanction until
+  end of next turn;  if target was already marked, it takes radiant equal
+  to your wisdom whenever it deals damage (save ends)
+
+CHILLING SMITE (daily/std)
+Str vs. *fortitude*
+Hit: 3w + strength cold damage and target does -5 damage (save ends)
+miss: half damage and -5 damage until end of its next turn
+
+FIERY SMITE (daily/std)
+strength vs. ac
+hit: 3W + strength fire damage
+miss: half damage
+effect: each enemy adjacent to target takes 5 fire damage
+
+MARTYR's RETRIBUTION (daily/std)
+strength vs. AC
+Hit: 4W + strength radiant
+miss: half damage
+effect: you spend a healing surge w/o getting any hit points back
+
+* NAME OF MIGHT (daily/std)
+(*implement*) *charisma* vs. *fortitude*
+**enemies** in **close blast 3**
+hit: 3d8 + charisma mod thunder and target is slowed (save ends)
+miss: half damage and target slowed until end of its next turn
+
+PRAYER OF TWO PATHS (daily/std)
+  primary attack (melee weapon): strength vs. AC
+  hit: 2W + strength mod damage
+  effect: make a ranged 5 secondary attack with your implement,
+    *charisma* vs. *will*
+  hit: 2d8 + charisma mod radiant and you regain 1d6 + charisma mod HPs
+
+SIGN OF VULNERABILITY (daily/std)
+  (*implement*, ranged 5) *charisma* vs. *fortitude*  
+  hit: 3d8 + charisma mod radiant and target gains vulnerability 5 to radiant
+         (take extra 5 for each radiant hit;  these don't stack, so it'll do
+          nothing to the ghouls, for instance, who are already vulnerable to
+          radiant).  
+  miss: half damage, no vulnerability
+
+UNRELENTING PUNISHMENT:
+  (melee weapon) strength vs. AC
+  hit: 2W + strength mod damange
+  effect: ongoing 5 damage (save ends);  whenever target
+    takes damage, you get HPs equal to your wisdom mod (which is 0, 
+    I'm afraid)
+
+You can also take another level 1 daily, which seem almost as good:
+
+PALADIN'S JUDGMENT (daily/std)
+(melee) strength vs. AC
+hit: 3W + strength mod damage
+effect: one ally with 5 can spend a surge
+
+BLAZING BRAND (daily/std)
+*reliable* (means you only us the power if you hit)
+(melee weapon) strength vs. *fortitude*
+hit: 2W + strength fire damage, target takes ongoing 5 fire
+   damage and grants combat advantage to adjacent allies (save ends)
+
+
+
+

@@ -1,0 +1,44 @@
+Ferris Gentleman, Fighter / Warlock
+-------------------------------------------------------
+
+
+BASE ATTRIBUTES
+Str: 15  (+2)
+Dex: 10  ( 0)
+Con: 12  (+1)
+Int:  9  (-1)
+Wis: 10  (+0)
+Cha: 15  (+2)
+
+VARIANT HUMAN
+Str: +1 = 16 (+3)
+Cha: +1 = 16 (+3)
+Feat: Polearm Master
+Skill: Deception
+
+NOBLE BACKGROUND
+Skills:  History, Persuasion
+Feature: Position of Privelege
+         - people think best of me
+         - fit in high society
+Tool: Gaming Set
+Languages: choice
+Gear: fine clothes, signet ring, scroll of pedigree, 25 GP purse
+
+FIGHTER 1
+Armor Proficiencies: all armor, shields
+Weapon Proficiencies: simple weapons, martial weapons
+Saving Throw Proficiencies: strength, con
+Skills: Athletics, Perception
+Fighting Style: Defense (+1 AC)
+Second Wind: bonus action, d10 + lvl HPs, recharge short rest
+
+Gear:
+quarterstaff (versatile):  hit: +5;  damage: d6 + 3
+glaive (2H):  hit: +5;  damage: d10 + 3
+chainmail: AC 16 + 1 (defense) = AC 17
+shield: +2 AC = 19
+
+Proficiency: 2
+HP: 11
+

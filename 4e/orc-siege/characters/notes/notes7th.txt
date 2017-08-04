@@ -1,0 +1,190 @@
+Hey ho, let's go.
+
+Kretek
+-------
+You get only one choice as a storm domain warpriest.
+
+WRATHFUL LIGHTNING
+encounter/standard
+ranged 5
+lightning/thunder/teleport/weapon
+requirement: use with melee weapon thrown
+attack: Wisdom vs AC
+hit: 2W + Wisdom lightning and thunder
+Effect: teleport self or ally within 5 squares of
+you to a square adjacent to target;  melee weapon returns
+
+
+Djarum
+---------
+Goose egg.  Nada.  Nyet.
+
+You can change a feat if you want;  if you take skill power, you
+get a choice of a level 6 skill utility, e.g.
+
+EVERYBODY MOVE
+encounter/minor (fear, trained in intimidate)
+close blast 3
+target: each enemy in the blast
+effect: : push each target 1 square, but not into hindering terrain
+
+INSIGHTFUL WARNING (arcana)
+Encounter/immediate interrupt
+trigger: area or close blast or bust against you
+effect: you and each ally of triggering effect get + power
+        bonus to all defenses against attack
+
+INTERNAL RESERVES (endurance)
+daily/no action
++4 to any saving throw (decide before roll)
+
+MIGHTY SPRINT (athletics)
+encounter / move action
+move speed + 4, ignore difficult train and gain +5
+bonus to any athelatics checks made as part of move
+
+THIRD WIND (endurance)
+daily / minor
+effect: spend a healing surge
+special: as standard action, adjacent ally can
+         make DC 10 heal check to allow you to use this
+         without spending an action yourself
+
+these are level 2, but still awesome:
+
+ENDURE PAIN
+daily / immediate interrupt
+trigger: hit by attack
+effect: until end of next turn gain resistance to all damage
+equal to 5 + con mod (8 total)
+
+
+
+Elroy Thit
+===========================================
+1 level 7 rogue encounter power
+
+ROGUE's LUCK
+encounter/standard (xbow or blade)
+dex vs AC; 
+hit: 2W + dex damage
+miss: take secondary attack with bonus equal
+      charisma (+3)
+hit: 1W + dex damage
+
+SAND IN EYES
+encounter/std (light blade)
+dex vs *reflex*
+hit: 1W + dex and target is blinded until end of your next turn
+
+CIRCLING PREDATOR (light blade)
+encounter/standard
+two attacks with 1 square shift in between of dex vs. AC
+vs. same target with 1W + dex damage; if second attack hits
+(both don't need to hit, just second), gain combat advantage
+against target until end of your next turn.
+
+CLOUD OF STEEL (xbow;  yowsa!)
+encounter/std
+close blast 5 (that's a 5x5 grid adjacent to you)
+target: each enemy you can see
+dex vs. ac
+1W + dex damage
+
+DOUBLE FALL (light blade)
+encounter/std
+attack one or two creates
+dex vs AC
+hit: 1W + dex and knock target prone
+Artful dodger effect: shift two squares
+
+KILLER'S AMBUSH (xbow or blade)
+encounter/std
+target: one creature *from which you are hidden*
+dex vs AC
+hit: 3W + dex damage; shift one square
+
+LASHING BLADE (light blade)
+encounter/std
+effect: until end of next turn, use lash attack
+trigger: an enemy starts its turn in or enters a 
+         square adjacent to you
+attack: dex vs. *reflex*
+hit: 1W + dex damage and the target takes 
+     attack penalty equal to 2 + charisma mod (5)
+     until end of your next turn 
+
+FROM THE SHADOWS (xbow or blade)
+effect: before attack, shift 4 squares and if target
+        couldn't see you before the shift, gain combat advantage
+attack: dex vs. ac
+hit: 1W + dex mod;  you can shift 2 squares and if you have any
+       cover or concealment make a stealth check
+
+
+
+Ethanhawk
+=================================
+get a level 7 paladin encounter power
+
+ASTRAL THUNDER
+encounter/std (implement)
+close burst 3 --- each enemy in burst  (that's everyone within 3!)
+attack: *charisma* vs. *fortitude*
+hit: 2d8 + cha mod thunder;  until end of your next turn,
+     target takes attack minuses equal to your wisdom mod (0, sorry)
+
+BECKON FOE 
+encounter/std (implement)
+range 5
+attack: *charisma* vs. *will*
+hit: 2d10 + charism mod damage; pull target # squares equal 
+     wisdom mod (0, waah waah waah)
+
+BLADE OF LIGHT
+encounter/std (melee)
+attack: *charisma* vs ac
+hit: 3W + charisma mod radiant (you already do radiant)
+utnil end of next turn gain +2 defense vs. fear/necrotic
+special: may use this as melee basic when charging!
+
+COMEBACK SMITE (melee/blade)
+encounter/std
+effect: make a saving throw against all effects save can end
+        get bonsu to attack equal to number of saves
+attack: str vs. AC
+hit: 2W + str damage
+
+CRESCENT MOON
+encounter/std
+range 10 (but with blade mods, not implement mods)
+attack: strength vs. *reflex*
+hit: 2W + strength mod radiant and subject to your divine sanction
+     until end of next turn
+
+* DIVINE REVERENCE
+encounter/std
+close burst 1 --- each enemy in burst
+implement attack
+attack: *charisma* vs. *will*
+damage: 1d8 + charisma mod radiant and the target is *dazed*
+    until end of your next turn
+
+PRICE OF COWARDICE
+encounter/ *immediate interrupt*
+close burst 5 -- triggering enemy
+trigger: enemy marked by you makes an attack that does not include you
+attack: *charisma* vs. *will* (implement)
+hit: 2d10 + charisma radiant and target blinded until end of your
+     next turn
+
+RESURGENT SMITE
+encounter/std (melee weapon)
+attack: strength vs. AC
+hit: 2W + strength damage and an ally within 5 can spend a surge
+
+THUNDER SMITE
+encounter/std
+melee 
+attack: strength vs. AC (crit on 19 or 20 if target marked)
+hit: 2W + strength thunder damage and target knocked prone

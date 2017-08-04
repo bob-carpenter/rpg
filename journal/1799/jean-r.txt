@@ -1,0 +1,276 @@
+Jean-Ringo D'Quindre, Occultist                           Level: 2
+==================================================================
+XPS: 11635 (to spend: 2040)
+KARMA: 4
+
+STR:  12
+REA:  17 (+2)
+DEX:  15 (+1)
+CON:  16 (+2)
+WILL: 16 (+2)
+CHR:  16 (+2)
+PERC: 15 (+1)
+SPD:  14 (+1)
+MRK:   7 (-1)
+ACU:  13 (+1)
+
+CAC:    4
+ACT:    5
+MOVE:   2 (2/8/10)
+INIT:   +1
+MELEE:  +2
+MDC:  1d6
+FIREARM: 0
+FDC: 1d4
+MISSILE: +1
+THROW:   0
+PDC:    d6
+CaRT: 4
+
+HPS: 52 (26/13)     HEAL: 2
+QI: 52 (will = 35, scratch=16)  CAST: +6
+
+Qi recovery: Metaphysics (1d10 + 2)
+
+SPELLS
+  Mortal
+    Afflict: 1
+      -- cause target to writhe in agony
+      -- will vs. will
+    Fear: 3
+      -- cast time: 10 phases
+      -- range: 5 squares
+      -- affect 3 creatures
+      -- save: will vs. will
+      -- cost: duration / 2 qi
+    Command: 1
+      -- cast time: 8 phases      
+      -- single word command
+      -- save: will vs. will + will save if dangerous
+      -- duration: 3 actions
+      -- cost: target will / 2 
+    Narcotize: 1
+      -- 3 fault for 18 phases
+      -- cost: 5 qi
+      -- time: 8 phases
+    Magick Missile: 3
+       : +2 will, +3 level, +1 serpent = +6 to hit
+       : 4d6 + 4 (1d6 + lvl d6)
+    ( jagged barrier: caltrops, will to not hop off )
+  Spiritual
+    Dispell: 1
+    Magick Circle: 1
+    Bar: 1  (works on undead, demons, etc. --- not mundane)
+    Call upon Dead: 1  (10 qi)
+    Object Token Reading: 1    
+
+TRAINING (MARTIAL)
+  Glaive: 1
+  Sword: 1
+  Pistol: 1
+
+KNOWLEDGE
+  Metaphysics: 4 (+2 REA) = 6
+  Dead Languages: 4 (AUTHORITY: +1; REA +2) = 7
+  History/Archaeology: 3 (+2 REA) = 5
+  Lore, Legend, and Myth: 2 (+2 REA) = 4
+  Theology: 2 (+2 REA) = 4
+
+SKILLS
+  Funereal Rites, Embalming (class C): 2 (+1 PER) = 3
+     --- saw real Egyptian priest do it
+
+TALENTS
+  Aeronautics: 1  (+1 ACU) = 2
+  Guile: 1 (+2 CHA) = 3
+  Riding: 2
+
+FEATS
+  MU class: detect magic
+
+LANGUAGES
+  French (native / lit)
+  Hieratic (basic / lit)
+  Latin, modern (conversant / lit)
+  Arabic (conversant / lit)
+  English (conversant / lit)
+
+Sword:
+   Colichemarde, family heirloom taken from over fireplace
+     when I left home
+    (an outdated form of short sword for duelling;
+      like a rapier, but with a broader forte for parrying)
+   Quality: +1
+   WDC: d6
+   PDC: d6
+   ME: 2
+   Lvl: 1
+
+   +4 total hit or damage
+
+ARMOR
+  WARD (DEF or PROOF):  +9
+    Dwarven Hauberk: +4 chain
+    Quality light leather longcoat: +2
+    Doc Marten-style boots: +1
+    brass crucifix: +1 ward (Ward)
+    wadjet +1 
+  PROOF: +4 
+    holy water vial (+4)
+
+BAGGAGE MUNDANE
+  superior sword, light (colichemarde); wdc 1d6;  flex: +1
+  quality suit of clothing (reinforced long light leather, doc martens)
+  quality valise
+  wig (goth black)
+  kohl (galina eyeliner -- dwarven mined, natch')
+  cooking kit (w. spices & dried herbs)
+  writing materials (parchment, pen-knife, quills, ink)
+  perfume bottle, handkerchiefs, eyeliner, snuff box
+  mirror
+  cotton sleeping bag
+
+BAGGAGE UNKNOWN
+* egyptian spoon (fluted acaica wood)
+* kohl stylus (galina) egyptian/phoenician
+* ivory icon; adoration of magi + st. christopher piggyback (??)
+
+
+BAGGAGE ARCANE
+* Qi focus: Mummified cats paw from temple of Isis (+5 pts Qi)
+* scavenged holy book blessed koran (+1 ward [AC/proof])
+* Crucifix : +1 ward (AC or proof); ankh engraved on back; most
+   of cord looks pink, but was originally red for Anubis
+   (from old Druze shepherd before entered valley)
+* Vial of holy water from river Jordan where John baptized Jesus, 
+    blessed by Gregory VII
+      1d2 + 8 heal like surgical (once per encouter/person)
+      +4 proof
+
+    cast roll + 2 pts QI
+    healing influence REA bonus + character level healing
+* Starmetal serpent (compass)
+* Wadjet (eye of horus), +1 ward, protex vs. venomous
+  and biting creatures
+  (daughter of almani from Aleppo, cousin Domina)
+* Kohl holder
+  -- object reading: Almani garbed as Horus
+     approached by 4 different women guardian Goddesses topless/orgy
+     invoke name in Egyptian, children of Horus and preserve old ways;
+     flash to dressing room, grind galina & place in tube
+     --- application of Kohl is spell to give wearer supernatural
+         powers associated with sight (40' darkvision)
+
+books
+* sepher ha razim (azrael to noah)
+  --- spell books of angels, healing, luck, attacks vs. enemies
+  --- aramaic and arabic
+* holy ku'ran (+1 ward)
+  -- combined magical techniques will blessed
+* book about Egyptian legend  (Myth and Reality of Egypt)
+
+TALISMAN:  mummified cats paw
+
+BACK STORY
+  youngest bro2
+  family title: L'Ecuyer (squire);  Chevalier (someone chevalric)
+    --> coat of arms  (Sir Jean a Chatelaine in crusades; Knights Hospitalers)
+  Jean-Marie sister married to Louisiana farmer (Jean Lennon)
+  Jean-Paul (secundo bro) -> engaged in Holland
+  Jean-George (trips bro) to Santo Domingo plantation (niece sybilla redisse)
+  old college professor stayed with
+  met Herman Ermite (sharpshooter, French heritage, Ermite's rifles)
+  80-gun Franklin to Malta
+  Lt. Brochard about furnaces/baloons
+  combat engineer corps
+  Estephan at Zohair Tannery -- Bab Risan Gate
+  Rakhmini --- reaction to ankh and 
+
+gregorus al-madi 
+  -- worried about Domina (daughter) & grandson youssifus
+  -- killed by Seti (priests of Set)
+  -- had a gold crucifix with ank on other side---get to daughter
+  -- daughter lives in Aleppo
+  -- other cultists: Simonides (eunuch--can play
+       woman---4th goddess), 
+  -- Petrosian is the man we seek --- house of the Levant
+  -- Domina Petrosian
+
+* Died until found Anubis w. Osiris weighing out my heart
+  until I'm brought back by O'Dean (come to w. crucifix)
+
+akenoosh --- young shaved-head priest gets dagger,
+             house of pa-akome
+
+lamp of hekett (goddess of fertility---symbol frog, frog-headed woman)
+  --- 10' radius of light that turns undead
+
+Alexandria -- target of taking back remains.
+
+Break siege at Acre by French, Gov. of Damascus Province
+  -- Army came and decamped
+  -- Damascus down to Jerusalem province
+  -- bad blood between Damascus and Acre
+  -- Sultan of Istanbul's been prodding him
+
+THE WEAPON -- see journals
+--- horus related, bronze blade
+lamp on floor --- faience ware
+4 alabaster canopic jars --- children of horus
+: jackal, human, ...
+
+
+FEAR OF FIREARM
+  --- when attacked by firearms
+  --- paralyzed w. fear or run away
+
+
+=======================================================
+
+USEFUL SHIT NOT ROLLED INTO STATS
+* Mummified Cats Paw Talisman
+  -- +5 Qi
+* Lamp of Hekett:
+  -- 10' radius light turns undead
+* Riv. Jordan Holy Water Gregory VII
+  -- heal d2 + 8 / person / encounter
+* Starmetal Serpent: 
+  -- encounter: +1d8 magic missile damage / encounter
+  -- daily: recoil for standard action even if misses 
+* The Weapon (???)
+* Glaive with runic markings from Gnoll (???)
+  -- overpowering heavy-duty supernatural forces in forging
+  ME: +2, LVL: +1, QUALITY: +1
+  1d10 wdc + 1d6 pdc
+
+LIVE:
+  DEF: 9
+  PROOF: 4
+
+  COLICHEMARDE:
+     -- AVAIL: +4,  DAMAGE: 2d6
+
+  GLAIVE:
+    -- AVAIL: +4, DAMAGE: 1d10 + 1d6
+
+  MAGIC MISSILE
+     -- HIT: +5, DAMAGE: 3d6 + 4
+     -- range: 20, cost: 6 (2 miss); cast time: 8 phases
+
+  FEAR:
+     -- Will vs Will CRR
+     -- range: 5, zone: 3 sqs contig; duration 20 phases
+     -- cast 10 phases
+     -- d6: 1--2 freeze, 3-4 flee, 5-6 flee & drop what carrying
+
+  ARCANUM:  striped gnoll foreskin: 4
+            lettuce for Set: 4
+            hair from monkey's paw: 8
+
+  QI: 52 (will = 35, scratch=16) -28
+  HPS (52):  
+
+
+give away:  quality pistol, 15 rounds (no  bullet mold); wdc 4d6;  flex: +1
+
+took jagged barrier?

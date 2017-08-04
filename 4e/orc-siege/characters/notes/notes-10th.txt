@@ -1,0 +1,794 @@
+10th F-ing Level.  Let's see what we've got.
+
+Everyone (even Djarum) gets 
+ 
+  * 10th level utility power
+  * new feat.  
+
+And of course, the attack and defense escalation continues
+apace
+
+  * attacks, defenses, etc. all go up because they
+    have level/2 round down mods
+
+
+DJARUM
+==================================================
+
+1: Level 10 Elementalist Utility Power
+--------------------------------------
+
+CONTORL FLAME 
+encounter/standard
+Close burst 3 and you control all fires and can put
+them out or move them or expand them one square.  Sustain
+minor.
+
+FIRE STRIDE (only level 6, but what the hey)
+at-will / move
+requirement: must be adjacent to a fire
+effect: teleport up to 10 squares adjacent to another fire
+
+EARTH PASSAGE
+encounter/move
+Move up to speed through rock, sand, or earth and
+you have tremorsense 1 for the move.
+
+ELEMENTAL SHIELD
+daily/immediate interrupt
+trigger: you or ally within 2 takes elemental damage
+effect: until end of your next turn, each target gets resist
+10 to triggering damage type.
+
+SORCEROUS PULSE
+daily / minor
+effect: choose damage type (fire, duh), and until end of
+encounter, all attacks of that type let you roll damage twice
+and take more favorable result.
+
+STORM OF ENERGY
+daily / minor
+close burst 5
+effect: each enemy takes +10 ongoing damage to any existing
+ongoing damage.
+
+
+DRAGON'S RESOLVE
+daily/minor
+Until end of encounter, when bloodied, get +1
+attack and +CHA mod (+6) saves.
+
+MAIDEN'S WAKING
+encounter/no action
+If you start your turn stunned or dazed or **unconscious**,
+take turn as usual, then revert to being stunned or dazed.
+Plus, isn't that a great name for a power?
+
+
+INCREDIBLE STRIDE
+daily / minor
+stance
+your speed is +4 until stance ends
+
+SWIFT ESCAPE
+encounter / immediate interrupt
+trigger: hit by area or close burst or close blast attack
+effect: teleport 3 squares
+
+WIND RIDER
+encounter / minor
+effect: awkward flying (grant combat advantage) with speed 5
+        sustain minor
+
+
+NARROW ESCAPE
+encounter/immediate reaction
+trigger: take damage from attack
+effect: take half damage and teleport number of squares
+equal to CHA + DEX mods (7 squares)
+
+REACTIVE SURGE
+encounter / immediate reaction
+trigger: attack bloodies you
+effect: spend a healing surge
+
+LESSONS OF HISTORY
+daily / minor
+close burst 5
+effect: spend healing surge and each ally in burst
+recovers a utility power (utilities are not the attack
+ones).
+
+THIRD WIND
+daily / minor
+spend a healing surge
+
+
+SUBTLETY OF GREEN WORM
+daily / minor
++5 to intimidate, diplomacy, and insight until end of encounter.
+
+
+
+Feat
+-------------------------------------------------------
+
+VERSATILE EXPERTISE (choose implement + choose weapon)
++1 to hit with chosen implement and chosen weapon
+
+IMPLEMENT FOCUS (choose implement)
++1 damage to all attacks with your implement
+
+HIDDEN SNIPER
+partial concealment grants combat advantage
+
+
+FAST RUNNER
++2 speed when charging or running
+
+BLOODIED FLEETNESS
++1 speed when bloodied
+
+
+LIGHTNING REFLEXES
++2 reflex (+3 at 11th level)
+
+
+WILDERNESS SKIRMISHER
++2 acrobatics, +2 athletics
+in difficult terrain get partial cover vs. ranged attacks
+
+SURE CLIMBER
++1 athletics checks, climb at normal speed
+
+CHAMPION OF BLOODY CIRCLE (sorcerors only)
+get training in streetwise skill
++2 intimidate and +2 streetwise
+
+BORN OF ELEMENTS 
++2 endurance and +2 intimidate
+read, speak, and write primordial (you can already do that)
+ 
+SKILL FOCUS
++3 to any skill
+
+
+
+
+FOOBHOPPER
+==================================================
+Utility Power + Feat
+
+10th Level Monk Utility
+-------------------------------------------------------
+
+FLOWING DEFENSE
+daily / minor
+stance
+shift 1 square as minor; +2 to all defenses for
+you and all adjacent allies
+
+
+SPRING UP
+encounter / free
+trigger: begin turn prone
+effect: no longer prone
+
+SPIDER TECHNIQUE
+*at-will* / move
+climb your speed, including on overhangs like ceilings,
+but can't end turn on overhang
+
+DROP AND ROLL
+at-will / immediate reaction
+trigger: fall and take no damage
+effect: shift 3 squares
+
+INCREDIBLE STRIDE
+daily / minor
+stance
+effect: +4 speed
+
+
+CONFIRMATION OF SPIRIT
+encounter / free
+trigger: hit enemy with melee
+effect: regain HPs equal to 5 + Wisdom mod (9 total)
+
+INTERNAL POWER
+daily / minor
+spend healing surge and get 2d6 additional HPs
+
+IRON DRAGON DEFENSE
+encounter / immediate interrupt
+trigger: take damage
+effect: damage reduced by 10 + wisdom mod (14 total)
+
+REACTIVE SURGE
+encounter / immediate reaction
+trigger: attack bloodies you
+effect: spend healing surge
+
+ASSURANCE OF PROPHECY
+encounter / immediate reaction
+trigger: ally within 5 spends healing surge
+effect: ally gets 3d6 temp HPs
+
+
+
+Feat
+-------------------------------------------------------
+
+IMPLEMENT EXPERTISE (KI FOCUS)
++1 to hit with ki-focused attacks
+
+IMPLEMENT FOCUS (KI FOCUS)
++1 damage with ki-focused attacks
+
+
+DODGE GIANTS (dwarf feat)
++1 defense vs. large or larger foes
+
+
+QUICK STEPS (dwarf feat)
++1 speed
+
+SLOW FALL
+when fall, reduce damage by acrobatics check instead of
+half acrobatics check (falls do 1d10 per 10'; acrobatics
+check is 1d20 + acrobatics skill mod)
+
+SHIFTING STONE
+when succeed on save to avoid being knocked prone, shift
+wisdom mod (+4) as free action
+
+
+IMPROVED UNARMED STRIKE
+damage goes to d10 from d8 (don't think you use this)
+
+INTERNALIZE KATA
+Use dex instead of strength for melee attacks (+4 rather than -1
+damage and attack, I think) as in charge and opportunity
+attacks.
+
+
+IMPROVED DEFENSES
++1 to fort/reflex/will (+2 at 11th level)
+
+
+HARBINGER OF REBIRTH
++2 heal checks; allies within 5 get +5 on death saves
+
+SKILL FOCUS
++3 to any skill (religion?)
+
+SKILL TRAINING
+learn new skill (+5 from training and opens utilities and feats)
+
+
+
+THIT
+==================================================
+
+Level 10 Rogue (Scoundrel) Utility
+-------------------------------------------------------
+
+ACROBAT'S ESCAPE
+encounter / immediate reaction
+trigger: enemy enters adjacent square
+effect: target immobilized until start of its next turn
+        you shift your dex mod squares (+5) to a square
+        not adjacent to target
+
+NIMBLE FINGERS
+encounter / minor
+draw weapon that is sheathed or worn by target or retrieve
+single item target has stowed;  if you are hidden, target
+is not aware you have used this power
+
+
+PERIPHERAL CONCEALMENT (stealth)
+daily / *standard* 
+requirement: no creature within 3 squares
+effect: you become hidden until you attack or until end of
+your next turn
+
+IMMERSED IN DARKNESS
+encounter / minor
+requirement: dim light or darkness
+effect: beomce invisible until start of your next turn, until
+you attack, or until you enter bright light
+
+SHADOW STRIDE (stealth)
+at-will / move
+requirement: must be hidden
+effet: make stealth check, move up to speed to square
+with cover or concealment;  take no penalty to
+check if move more than 2 quares;  unless check fails to beat
+enemy's passive perception, you remain hidden, even if you have
+no cover or concealment during it.
+
+SNEAKY ROLL (acrobat)
+encounter / immediate reaction
+trigger: hit by melee attack
+effect: shift half your speed, including through
+squares occuped by enemies
+
+
+BRISK STRIDE
+encounter / move
+move speed +4 and ignore difficult terrain
+
+INCREDIBLE STRIDE
+daily / minor
+stance
+until stance ends, +4 speed
+
+COMBAT TUMBLESET
+encounter / move
+shift your speed and can shift through enemy squares
+
+COUNTER STEP
+encounter / immediate reaction
+trigger: enemy enters square adjacent to you
+effect: slide target 1 square and shift up to 2 squares to
+        square adjacent to target; you gain combat advantage
+        and +2 defense vs. target until end of your next turn
+
+FAMILIAR FOOTING (acrobat)
+daily / minor
+effect: ignore difficult terrain until end of encounter
+
+PATH OF BOUNDING STAG
+encounter / move
+effect: move your speed and ignore natural difficult terrain
+
+DROP AND ROLL (acrobat)
+at-will / immediate reaction
+trigger: fall and take no damage
+effect: shift 3 squares
+
+
+STALL TACTICS
+daily / free
+trigger: roll initiative
+target: each enemy you can see
+effect: target initiative reduced by 10
+
+PAY ATTENTION
+daily / free
+close burst 3
+trigger: roll initiative
+effet: each target gets +2 init and +2 to all defenses
+in first round of combat (level 11 goes to +4)
+
+
+PERFECT FEINT
+encounter / minor
+close burst 1 : each enemy you can see
+effect: each target grants combat advantage until
+ end of your *next* turn
+
+BLIND SPOT
+encounter / minor
+gain concealment against one enemy you can see until end
+of next turn (that just means you get to roll stealth to hid)
+
+
+SPOT THE PATH (nature)
+encounter / minor
+close burst 5
+effect: each target ignores difficult terrain until end
+of your next turn
+
+
+SLIP ASIDE
+encounter / immediate interrupt
+trigger: hit by attack vs AC or REflex
+effect: take only half damage
+
+SWIFT RECOVERY
+melee 1
+encounter / minor
+target can use second wind if still available
+
+PHYSICIAN'S CARE
+encounter / standard
+melee 1: self or one ally
+effect: target can spend healing surge
+
+
+EXERTION (treasure hunter)
+encounter / no action
+reroll skill check or saving throw and use new result
+
+
+
+Feat
+-------------------------------------------------------
+
+SKILL FOCUS
++3 in skill (e.g., heal, nature, thievery, stealth)
+
+DUELIST'S PANACHE
++charisma (+3) to acrobatics and athletics
+
+CROSSBOW EXPERTISE
++1 to-hit with xbows (+2 at 11th level)
+also, ignore partial cover and superior cover
+with attacks with xbows (!!!)
+
+LIGHT BLADE EXPERTISE
++1 to-hit with light light blades;  also get +1
+damage if you have combat advantage (both go to +2
+at 11th level)
+
+WEAPON FOCUS (xbow OR light blade)
++1 damage
+
+TRUE ARROW STYLE
+sly flourish takes no penalty to long range attacks
+
+HARROWING SWARM STUDENT
++2 nature checks; nimble strike bow shots become rattling
+
+HIDDEN SNIPER
+partial concealment against target gives ranged combat advantage
+(no stealth roll needed)
+
+CUNNING STALKER
+gain combat advantage if you are only creature adjacent
+to enemy
+
+BENEATH NOTICE
+When you and ally adjacent to large or greater create,
+you gain combat advantage.
+
+RANGER MULTICLASS: WARRIOR OF WILD
+Gain one skill from ranger's skill list (endurance, dungeoneering,
+perception are only ones you don't have)
+Also gain HUNTER'S QUARRY (+1d6 damage vs. quarry, 
++2d6 at 11th level);  once per encounter designate
+closest creature to you as quarry; lasts until next
+turn
+
+If you multiclass into ranger, ou can eventually take
+this feat:
+
+   EXPERT TRACKER
+   +5 to follow others' tracks
+   -5 for others to follow your tracks
+
+COMBAT MEDIC
++2 heal checks
+stabilize dying as minor instead of standard action
+
+WILDERNESS SKIRMISHER
++2 acrobatics; +2 athletics
+in square of difficult terrain, gain partial cover vs. ranged
+attacks
+
+WASTELAND WANDERER
++2 nature, +2 perception, +2 initiative
+
+DIRTY FIGHTING
++4 damage vs. surprised enemies (too situational, but I love
+the name)
+
+MULTICLASS BRAVO
+once per encounter as minor action, designate one
+creature you can see as prey, gaining +2 to-hit and
+damage until it drops to 0 hit points or end of encounter.
+
+MULTICLASS CUTTHROAT
+training in stealth (that'd give one other skill from thief)
+make bluff check to create diversion to hide as minor
+
+WILD SAGE
++5 nature checks to identify natural creatures
+get one ritual to throw once/day without materials:
+   dowsing rod, portend weather, traveler's camouflage 
+
+WILDERNESS WARINESS
++2 perception
+if outdoors and have any cover or concealment when
+making initiative check, make stealth check to hide
+
+
+
+Ethanhawk
+==================================================
+
+You're supposed to get a 10th level Paladin Utility Power,
+but I'll let you take a Bard one if you want.
+
+BEACON OF NOBILITY (paladin utility 10)
+daily / minor
+effect: once per round as a minor action you can
+give an ally within 4 quares 5 temp HPs and a +2
+power bonus to their next skill check.
+
+CLEANSING SPIRIT (paladin utility 10)
+encounter / minor
+range 5
+target makes save with +2 bonus
+
+DEATHGUIDE STANCE (paladin utility 10)
+daily / minor
+stance
+Until stance ends, whenever nonminion enemy
+within 5 is bloodied or reduced to 0 HPs,
+you or an ally within 5 regains HPs equal 
+to 5 + char mod (9 total)
+
+TURN THE TIDE (paladin utility 10)
+daily / *standard*
+close burst 3
+you and each ally
+targets make saves against every effect a save can end
+
+VENGEFUL VIGILANCE (paladin utility 10)
+daily / minor
+stance
+Until stanc ends, any enemy attack within 5 that
+does not include you lets you mark the enemy with divine
+challenge;  if triggering attack against will, it immediately
+takes divine challenge damage
+
+BEFRIEND (diplomacy utility 10)
+encounter / minor
+one non-hostile creature
+effect: utnil end of encounter, +5 bluff and diplomacy
+against creature
+
+INCREDIBLE STRIDE (athletics utility 10)
+daily / minor
+stance
+effect: Until stance ends, +4 speed
+
+PERFECT SIGHT (perception util 10)
+encounter / minor
+effect: gain blindsight 5 until end of next turn
+
+REACTIVE SURGE (endurance util 10)
+encounter / immediate react
+trigger: attack bloodies you
+effect: spend healing surge
+
+STRENGTH VS. STRENGTH (athletics util 10)
+encounter / free
+trigger: miss with melee attack
+effect: make athletics check, and if it exceeds target's highest
+defense, you knock it prone or slide it 1
+
+SPIRIT OF CHARGER (paladin utility 8)
+daily / minor
+effect: until end of encouter, get +2 speed and charisma mod (+4)
+extra damage on charge
+
+SHIELD THE VIRTUOUS (paladin util 6)
+daily / minor
+burst 10 
+target: one ally in burst
+effect: until end of encounter, any enemy that hits or misses
+target takes 3 + charisma mod (+4; 7 total) radiant
+damage (unless enemy is marked by target)
+
+PHYSICIAN'S CARE (heal util 6)
+encounter / standard
+melee 1: you or one ally
+effect: target can spend healing surge
+
+Now for the Bard utils:
+
+VEIL (bard util 10)
+daily / minor
+close burst 10 --- you and each ally in burst
+effect: transform auditory, tactile and visual qualities
+of targets body to assume apperance of humanoid of same size,
+even of an individual you've seen.  Illusion lasts for
+an hour (or end with minor).  Creature sees through
+it with insight opposed by target's bluff with +5 power bonus
+to target's bluff.
+
+BREAK ENCHANTMENT (bard util 10)
+burst 1 within 10 --- each ally in burst
+effect: taret rolls save, with +charisma mod (+4) if
+against charm, fear, or illusion.
+
+ILLUMINATING STARS (bard utility 10)
+effect: until end of encounter you and allies get +5 insight
+        and +5 perception
+
+SAVIOR'S SONG (bard util 10)
+daily / minor
+effect: until end of encounter, any ally within 5 can
+reroll one failed saving throw each turn.
+
+WORD OF LIFE (bard util 10)
+daily / immediate reaction
+trigger: enemy attack reduces ally within 20 squares 
+         to 0 or fewer HPs
+effect: target can spend healing surge and enemy takes
+        -5 to all defenses until end of your next turn (!)
+
+PROJECT VITALITY (bard util 10)
+daily / minor
+close burst 5 --- you and each ally in burst
+effect: each target regains charisma mod (+4) HPs.
+        until start of next turn, healing benefit of Skald's Aura
+        can be used as free instead of minor (still only once/turn)
+
+ALLEGRO (bard util 6)
+daily / minor
+burst 10 --- you and each ally in burst
+effect: slide each target 2 squares
+
+GLIMPSE THE FUTURE (bard 6)
+effect: roll d20 three times and keep highest
+        once before end of encounter, use this roll to replace
+        d20 roll of ally within 10 squares of you
+
+SYNCHRONICITY (bard util 6)
+daily / no action
+trigger: roll init
+effect: each ally gets +5 init during encounter
+
+REVITALIZING INCANTATION (bard util 6)
+encounter / minor
+ranged 5 --- you or one ally
+effect: target can spend healing surge plus get stemp
+         HPs equal to surge value
+
+
+
+
+COMPULSION (bard attack 5)
+daily / standard
+ranged 10 --- one create
+charisma vs. will
+hit: 2d8 + charisma damage and slide target 5 squares at
+start of its turn or end of its turn (save ends).  until
+target saves, can't take move actions.  
+Miss: half damage, effects lasts until end of target's next turn  
+
+SYMPHONY OF MISFORTUNE (bard attack 9)
+daily / standard
+burst 1 within 10 squares; each creature in burst
+implement: charisma vs. will
+hit: 1d10 + charisma mod damage
+miss: half damage
+effect: burst creates zone of misfortune and you can
+sustain minor and each turn have it do one of
+  - slow enemies
+  - enemies take psychic damage equal to charisma mod (4)
+  - enemy grants combat advantage to allies
+
+WAIL OF ANGUISH (bard attack 9)
+daily / minor
+implement
+effect: you can use wail attack power
+sustain minor
+   WAIL OF ANGUISH ATTACK
+   at-will / opportunity
+   trigger: enemy starts turn within 3 squares
+   attacK: implement - charisma vs. will
+   hit: charisma mod (+4) damage and target cannot shift
+        until end of your next turn
+
+TIMELY DISTRACTION (bard attack 7)
+encounter / standard
+ranged 10 --- one creature
+implement attack: charisma vs. will
+hit: 2d8 + charisma mod psychic and target grants combat
+     advantage until end of your next turn
+
+TUNE OF ICE AND WIND (bard attack 5)
+daily / standard
+burst 1 within 10 -- each enemy in burst
+implement attack: charisma vs. will
+hit: 2d6 + charisma mod cold damage and target slowed (save ends)
+miss:  half damage and target slowed until end of your next turn
+effect: slide each ally in burst 3 squares
+
+HIDEOUS LAUGHTER (bard attack 9)
+daily / standard
+ranged 10 --- one creature
+implement attack: charisma vs. will
+hit: 3d8 + charisma mod psychic and target can't take oppty actions
+     and takes -2 penalty to attack
+aftereffect: target can't take opportunity actions (save ends)
+miss: half damage and can't take oppty until end of your next turn
+
+THUNDER BLADE (bard attack 9)
+daily / stnadard
+melee weapon attack: charisma vs. AC
+hit: 3W + charisma mod thunder damage and slide target 2 squares
+effect: until end of encounter, whenever you hit a target
+        with at will attack, you slide target 2 squares to a space
+        adjacent to an ally
+
+RAIN OF STARLIGHT (bard attack 9)
+daily / standard
+burst 1 within 10 -- each creature in burst
+implement attack: charisma vs. reflex
+hit: 2d6 + charism mod radiant
+miss: half damage
+effect: target affected by showeering sparks (save ends).
+        while affected, grant combat advantage and no benefit
+        from concealment or invisibility
+
+PRESCIENT WARNING (bard attack 7)
+encounter / immediate interrupt
+trigger: ally within 10 hit by enemy attack
+effect: target makes melee basic vs enemy as free action 
+        with +1d8 damage
+
+URGE TO VICTORY (bard attack 7)
+encounter / immediate reation
+trigger: ally within 10 ends turn without having attacked
+effect: target makes melee basic or charge as free action,
+        even if target is dominated or stunned;  if hits, deals
+        +d10 damage.
+
+Feat
+-------------------------------------------------------
+BARD OF ALL TRADES
++3 to all untrained skill checks
+
+BARDIC KNOWLEDGE
++2 arcana, dungeoneering, history, nature, religion, streetwise
+
+WILDERNESS SKIRMISHIER
++2 acrobatics; +2 athletics
+difficult terrain gives partial cover vs. ranged attacks
+
+KNIGHTLY BEARING
++2 diplomacy and +2 intimidate
+
+
+WEAPON FOCUS (heavy blade)
++1 damage with heavy blades
+
+HEAVY BLADE EXPERTISE
++1 to hit with heavy blades (+2 at 11th level)
++2 defense vs. opportunity attacks
+
+DEVOUT PROTECTOR EXPERTISE
++1 hit with one-handed melee weapons; +1 implement attacks
+when you use shield, adjance allies get +1 shield bonus to AC
+
+BATTLE SONG EXPERTISE
++1 with weapon and implement attacks; 
++1 to distance of push pull, or slide from bard attacks
+
+MIGHTY CHALLENGE
+whenever target of divine challenge takes damage it
+takes extra strength modifier radiant (+4)
+
+
+IMPROVED DEFENSES
++1 fort / reflex / will (+2 at 11th level)
+
+LIGHTNING REFLEXES
++2 reflex (+3 at 11th level)
+
+
+BARDIC DILETTANTE (bard multiclass)
+one skill from bard skill list (bluff, streetwise, acrobatics,
+  arcana, history, athletics, dungeoneering, insight, nature)
+once per day use bard's majestic word
+   MAJESTIC WORD  
+   daily / minor / close burst 5
+   targt spends healing surge and gains extra charisma mod (+4)
+   and slide target one square
+
+
+HEAVY ARMOR AGILITY
+ignore speed penalty of heavy armor (with greaves that gives
+you a total speed of 7, or +1 over what you have now)
+
+
+SKILL POWER
+take a skill power (one of the powers named after a
+skill like athletics or diplomacy or endurance)

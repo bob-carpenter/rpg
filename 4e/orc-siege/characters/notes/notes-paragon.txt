@@ -1,0 +1,3022 @@
+Welcome to Paragon Level.  You need to chosoe a Paragon Path.  
+
+You'll get another such choice at 21st level when you
+choose an Epic Destiny.
+
+
+============================================================================
+Master of Flame
+Prerequisite: Any arcane class
+
+"The unquenchable hunger, the unrestrained passion, the merciless
+destroyer. Fire serves me; be wary."
+
+The history of pyromancy parallels the history of all magic among the
+mortal races. As soon as they first dabbled in the arcane, primitive
+wizards sought to apply that power to one of the most intimidating and
+important natural forces of their experience: fire. They learned
+rudimentary spellcraft under the difficult tutelage of flame, and
+their experiments became the foundation for almost every subsequent
+study.
+
+Ironically, pyromancy’s lessened popularity indicates its
+importance. It remains so fundamental that many wizards take it for
+granted, relegating it to their perceived inferiors. Common
+presumptions reveal the truth, however: Tales of wizardry nearly
+always include at least one fireball.
+
+As a Master of Flame, you embrace this ancient discipline without
+regard for anyone’s disdain. You will show them true mastery of magic
+as you devastate opponents with the force they overlook.
+
+MASTER OF FLAME PATH FEATURES
+
+    Combustive Action (11th level): When you spend an action point to
+    take an extra action, you deal fire damage equal to your level to
+    each enemy adjacent to you.
+
+    Critical Conflagration (11th level): Whenever you score a critical
+    hit with an arcane fire attack, one creature you hit with the
+    attack takes ongoing fire damage equal to twice your Intelligence
+    modifier (save ends).
+
+    Swath of Destruction (16th level): When you use an arcane fire
+    burst or blast attack, you can increase the size of the burst or
+    blast by 1.
+
+Master of Flame Attack 11: Fanning the Flames
+As flames envelop one of your enemies, you cause the flames to swell
+and spread to another.
+Encounter        Arcane, Fire, Implement
+Standard Action      Ranged 10
+Target: One creature taking ongoing fire damage
+Attack: Intelligence vs. Fortitude
+Hit: 2d8 + Intelligence modifier fire damage, and any ongoing fire
+  damage the target is taking increases by 5.
+Effect: Make a secondary attack in an area burst 1 centered on the
+primary target.
+  Secondary Target: Each creature in the burst
+  Secondary Attack: Intelligence vs. Reflex
+  Hit: 2d8 + Intelligence modifier fire damage.
+
+Master of Flame Utility 12: Burning Transformation
+You become a creature of pure flame.
+Daily        Arcane, Fire, Polymorph
+Minor Action      Personal
+Effect: You transform into a creature of fire until the end of the
+encounter. While in this form you gain the following benefits and
+limitations: You are insubstantial, you can shift 1 square as a minor
+action, you are immune to fire, you gain a +5 power bonus to damage
+rolls with arcane fire attacks, and you cannot use any attack power
+without the fire keyword. Additionally, whenever an enemy hits you
+with a melee attack, it takes fire damage equal to 5 + your
+Intelligence modifier.
+
+Master of Flame Attack 20: Furious Immolation
+You summon a titanic column of flame that draws everything nearby
+toward destruction.
+Daily        Arcane, Fire, Implement, Zone
+Standard Action      Area burst 2 within 10
+Target: Each creature in the burst
+Attack: Intelligence vs. Reflex
+Hit: 3d6 + Intelligence modifier fire damage.
+Miss: Half damage.
+Effect: The burst creates a zone that lasts until the end of your next
+turn. Any creature that enters the zone or starts its turn there takes
+15 fire damage (a creature can take this damage only once per
+turn). Make a secondary attack as an area burst 4 with the same origin
+square.
+  Secondary Target: Each creature in the burst
+  Secondary Attack: Intelligence vs. Fortitude
+  Hit: You pull the target 2 squares toward the attack’s origin
+  square.
+Sustain Minor: The zone persists until the end of your next turn, and
+you repeat the secondary attack.
+
+============================================================================
+Elemental Anchorite
+Prerequisite: Any elemental attack power
+
+The most devoted students of the elements often withdraw from the
+society of fellow mortals to contemplate the deep truths of
+existence. You have chosen the lonely path of the elemental anchorite,
+dedicating yourself to a life of austerity and reflection. When your
+companions return to home, family, and high honors after their
+adventures, you instead seek solitude in places of great elemental
+power. The secrets of the universe are engraved in the stone of mighty
+mountains and whispered by the winds that sigh across lonely deserts.
+
+    Some elemental anchorites seek isolation in order to master ever
+    more formidable abilities, using elemental essence to further
+    whatever purposes they deem important. Others are more
+    philosophical, and view themselves as servants of balance who act
+    to check the excesses of forces, monsters, or villains that
+    disturb the natural equilibrium of the world. The purpose to which
+    you put your understanding of elemental forces is ultimately up to
+    you.
+
+ELEMENTAL ANCHORITE PATH FEATURES
+
+    Anchorite’s Action (11th level): When you spend an action point,
+    you can end all immobilizing or restraining effects on
+    yourself. In addition, you gain a +2 bonus to elemental attack
+    rolls until the start of your next turn.
+
+    Anchorite’s Stability (11th level): Whenever you would be knocked
+    prone or subjected to forced movement, you can make a saving throw
+    to remain standing or to negate the forced movement.
+
+    Elemental Sustenance (16th level): When you use a daily elemental
+    power, you can spend a healing surge.
+
+Elemental Anchorite Attack 11: Force of Balance
+You strike with perfectly measured force, using elemental power to
+maximize the impact of your attack.
+Encounter        Elemental
+No Action      Special
+Trigger: You hit an enemy with an elemental attack power.
+Effect: The triggering attack deals 1[W] extra damage if it is a
+weapon attack or 1d8 extra damage if it is not a weapon attack, and
+the target falls prone.
+
+Elemental Anchorite Utility 12: Shielding Element
+You retain the energy of an elemental attack, shaping it into a
+short-lived shield to protect yourself.
+Encounter        Elemental, Varies
+Minor Action      Personal
+Requirement: You must have hit an enemy with an acid, cold, fire,
+lightning, or thunder attack during this turn.
+Effect: Until the end of your next turn, you gain resist 10 to one
+damage type of the attack (one of the types noted above). In addition,
+any enemy that hits you with a melee attack before the end of your
+next turn takes 10 damage of that type.
+
+Elemental Anchorite Attack 20: Elemental Transcendence
+You draw upon the matter surrounding you to increase the intensity of
+your elemental attacks.
+Daily        Elemental, Stance
+Minor Action      Personal
+Effect: You assume the elemental transcendence stance. Until the
+stance ends, your elemental weapon attacks deal 1[W] extra damage, and
+your elemental nonweapon attacks deal 1d8 extra damage. In addition,
+any enemy that ends its turn adjacent to you takes 10 damage.
+
+
+============================================================================
+Shadow Dancer
+Prerequisite: Any teleportation at-will or encounter power, training in Stealth
+
+You embrace the darkness as a means of perfecting the teleportation
+ability that quickly becomes your trademark in combat. When you strike
+like living shadow, you leave your foes to wonder where you might
+appear next.
+
+SHADOW DANCER PATH FEATURES
+
+    Dancer's Action (11th level): When you spend an action point to
+    make an attack, you can teleport up to 5 squares as a free action
+    before or after the attack.
+
+    Dancer's Ambush (11th level): Whenever you teleport during your
+    turn, you gain combat advantage for the next attack roll you make
+    before the end of your turn.
+
+    Shadowy Tendrils (11th level): You gain the shadowy tendrils power.
+
+    Shadow Stalk (12th level): You gain the shadow stalk power.
+
+    Lingering Shadows (16th level): If you are hidden from a creature
+    at the start of its turn, you are invisible to that creature until
+    the end of its turn.
+
+    Trail of Shadows (20th level): You gain the trail of shadows
+    power.
+
+Shadow Dancer Attack 11: Shadowy Tendrils
+
+As you teleport, a shadowy afterimage manifests as tendrils that reach
+out to your foes.
+Encounter        Shadow, Teleportation
+Standard Action      Personal
+Effect: You teleport up to 5 squares, then make a basic attack. You
+teleport one target hit by the attack up to 3 squares, and it is dazed
+until the end of your next turn.
+
+Shadow Dancer Utility 12: Shadow Stalk
+You attune yourself to your foe’s shadow, then step through it at a
+moment’s notice.
+Encounter        Shadow, Teleportation
+Minor Action      Close burst 5
+Target: One creature in the burst
+Effect: Until the end of your next turn, you can teleport to any
+square adjacent to the target as a move action. If you are already
+adjacent to the target, you can teleport up to 3 squares as a minor
+action.
+
+Shadow Dancer Attack 20: Trail of Shadows
+You streak through your foes as a blur of shadow, leaving a field of
+bitter darkness behind you that freezes your foes to the marrow.
+Daily        Cold, Shadow, Zone
+Move Action      Personal
+Effect: You shift up to your speed. The squares you enter during this
+movement become a zone that lasts until the end of the encounter. Any
+enemy in the zone or adjacent to it when it is created takes 15 cold
+damage. The zone is totally obscured to your enemies. Any enemy that
+ends its turn in the zone or adjacent to it takes 10 cold damage, and
+that enemy is slowed (save ends).
+
+============================================================================
+Grave Caller
+Prerequisite: Bard
+
+"Some deserve nothing but death, and those most deserving are marked
+by their crimes. Like a requiem’s crescendo, I pursue the marked ever
+more closely to give them their due."
+
+Rumors of an ancient organization of assassin-bards sometimes surface
+in taverns. Such tales are quickly quelled as foolish romance, of
+course. If the existence of the secret group to which you belong
+became common knowledge, your work would be that much harder to
+accomplish.
+
+Your shadowy organization, known as the Grave Callers, has tasked its
+members to seek out and slay those who prey on the innocent. Its
+leaders identify those individuals to you through clever courier drops
+or magical sendings, marking them indelibly as your targets. You are
+making the world a better place with each undesirable element that you
+remove, and that knowledge drives you to continue your work. Through
+your ancient and deadly song, you improve the chances of all other
+creatures, one death at a time.
+
+GRAVE CALLER PATH FEATURES
+
+    Dirge of Inescapable Doom (11th level): Once per encounter as a
+    minor action, you can place a deathmark on a single enemy within
+    10 squares of you. The deathmark lasts until the end of the
+    encounter. If you miss with an encounter attack power against a
+    creature that has your deathmark, the attack still deals 1d6 +
+    your Charisma modifier damage.
+
+    Gravecall Action (11th level): When you spend an action point to
+    take an extra action, you gain a +4 bonus to damage rolls until
+    the end of your next turn.
+
+    Path to the Grave (16th level): Whenever you make an attack roll
+    with an encounter or a daily attack power against a creature that
+    has your deathmark, roll a d20 twice and use either result.
+
+Grave Caller Attack 11: Visions of Doom
+You sing a secret note that seeks out your chosen enemy, wracking it
+  with painful images of its coming demise.
+Encounter        Arcane, Implement, Psychic
+Standard Action      Ranged 10
+Target: One creature that has your deathmark
+Attack: Charisma vs. Will
+Hit: 2d10 + Charisma modifier psychic damage. Until the end of your
+  next turn, one ally within 10 squares of you gains a +2 power bonus to
+  attack rolls against the target.
+
+Grave Caller Utility 12: Cloak of Sound
+You shroud your form in dark whispers, hindering your quarry’s ability
+to see you.
+Encounter        Arcane, Illusion
+Minor Action      Personal
+Effect: Until the end of your next turn, you are invisible to a
+creature that has your deathmark.
+
+Grave Caller Attack 20: Inevitability of the Grave
+You call out a series of deadly notes, each one bringing your foe
+closer to its ordained demise.
+Daily        Arcane, Implement
+Standard Action      Ranged 10
+Target: One creature that has your deathmark
+Attack: Charisma vs. Fortitude
+Hit: 3d10 + Charisma modifier damage, and ongoing 10 damage (save
+  ends). The target takes a -2 penalty to its saving throws against the
+  ongoing damage.
+  Aftereffect: Ongoing 5 damage (save ends).
+Miss: Half damage, and ongoing 5 damage (save ends).
+
+============================================================================
+Soul Guide
+Prerequisite: Cleric
+
+"Let the light of righteousness guide you to your eternal reward."
+
+You are a beacon in the darkness, one who reveals the way, and a
+guardian of the dead. Through your holy works, you ensure that the
+souls of the dead move on, free of fear and remorse, and unimpeded by
+sinister entities that would use them for dark deeds. You harbor a
+special hatred for undead, seeing them as perversions of the natural
+order.
+
+    Visions of past lives—leftover fragments from those you have
+    saved—haunt your dreams. Although the sights are unsettling, they
+    renew your commitment to guard the souls from the dangers lurking
+    between this world and the next.
+
+    When you use your soul guide powers, ephemeral bits of soul
+    materialize and swirl about you.
+
+SOUL GUIDE PATH FEATURES
+
+    Rebuke Soul (11th level): You can invoke the power of your deity
+    to use rebuke soul.
+
+    Spiritual Guidance (11th level): Instead of spending an action
+    point to take an extra action, you can spend an action point to
+    regain the use of an encounter power that has the radiant keyword,
+    or you can gain an extra use of your Channel Divinity class
+    feature.
+
+    Weighty Soul (16th level): When you hit an insubstantial creature
+    with a power that has the radiant keyword, that creature loses
+    insubstantial until the end of your next turn.
+
+Soul Guide Feature Rebuke Soul
+You shock your enemies to the very foundation of their being.
+Encounter        Divine, Implement, Radiant
+Minor Action      Close burst 5
+Channel Divinity: You can use only one channel divinity power per
+  encounter
+Target: Each creature that has the shadow origin or the undead keyword
+ in the burst
+Attack: Wisdom vs. Will
+Hit: The target is immobilized until the end of your next turn. If the
+  target has both the shadow origin and the undead keyword, it also
+  takes 2d8 + Charisma modifier radiant damage.
+
+Soul Guide Attack 11: Soul's Enthrallment
+Your holy symbol erupts with divine power, tugging on the souls of all
+who behold its splendor.
+Encounter        Divine, Implement, Radiant
+Standard Action      Ranged 10
+Target: One creature
+Attack: Wisdom vs. Will
+Hit: 2d8 + Wisdom modifier radiant damage, and you pull the target a
+number of squares equal to your Charisma modifier. If the target has
+the shadow origin or the undead keyword, it is also dazed until the
+end of your next turn.
+
+Soul Guide Utility 12: Shadowbane Circle
+You draw upon divine energy to summon a nimbus of holy light that is
+anathema to your enemies.
+Daily        Divine, Radiant, Zone
+Standard Action      Area burst 2 within 10 squares
+Effect: The burst creates a zone of bright light that lasts until the
+  end of your next turn. Creatures that have the shadow origin or the
+  undead keyword treat the zone as difficult terrain. While within the
+  zone, those creatures gain vulnerable 10 radiant or increase their
+  vulnerability to radiant damage by 10.
+Sustain Minor: The zone persists.
+
+Soul Guide Attack 20: Soul Brand
+A blazing glyph appears on your enemy’s brow, emitting a holy glow
+that burns its corrupted soul.
+Daily        Divine, Implement, Radiant
+Standard Action      Melee 1
+Target: One creature
+Attack: Wisdom vs. Fortitude
+Hit: 3d8 + Wisdom modifier + Charisma modifier radiant damage. The
+  target takes ongoing 10 radiant damage and sheds bright light on 20
+  squares in all directions (save ends both). Until the target saves,
+  any enemy takes a -2 penalty to attack rolls while adjacent to the
+  target.
+Miss: Half damage, ongoing 5 radiant damage (save ends), and no other effects.
+
+============================================================================
+Slayer of the Dead Prerequisite: Paladin
+
+"Stay in your graves, hungry dead! Or when I am done with you there
+will be nothing left to rebury."
+
+The undead that crawl out of the earth and shamble from chill barrows
+are an unnatural blight upon the land. You have taken up the charge of
+destroying these horrors with the brilliant light of your faith. The
+undead are no longer the people they once were, and sending them back
+to their graves is the only way to respect those whose corpses walk
+again in undeath.
+
+You were appointed to your holy task after undergoing sacred rituals
+and learning ancient prayers that invest you with the power to
+eradicate the walking dead. This paragon path is well suited to
+followers of Pelor, god of the sun and enemy of the creatures of
+darkness. Paladins of Ioun too are dedicated to foiling the plans of
+Vecna, who is the god of undeath as well as the keeper of foul
+secrets. However, many deities encourage their followers to dispatch
+the undead as violations of divine law, so slayer traditions are
+strong among the devotees of many gods.
+
+SLAYER OF THE DEAD PATH FEATURES
+
+    Incandescent Action (11th level): When you spend an action point
+to make an attack, that attack deals extra radiant damage equal to 5 +
+your Wisdom modifier against the first target hit by it.
+
+    Scorn the Dead (11th level): You gain resist necrotic equal to 5 +
+your Strength modifier. The resistance increases to 10 + your Strength
+modifier at 21st level.
+
+    Slayer's Presence (16th level): When you bloody any undead
+creature or reduce it to 0 hit points, each enemy within 5 squares of
+you takes a -2 penalty to attack rolls until the end of your next
+turn. This is a fear effect.
+
+Slayer of the Dead Attack 11: Light of the Living
+Your strike flares with holy radiance, which sears nearby undead.
+Encounter        Divine, Radiant, Weapon
+Standard Action      Melee weapon
+Target: One creature
+Attack: Strength vs. AC
+Hit: 3[W] + Strength modifier radiant damage. Each undead creature
+within 5 squares of you takes radiant damage equal to your Strength
+modifier and is subject to your divine sanction until the end of your
+next turn.
+
+Slayer of the Dead Utility 12: Life and Death Entwined
+The undead horror strikes at you, but your divine patron foils its
+loathsome touch and turns its aggression against it.
+Daily        Divine, Radiant
+Immediate Interrupt      Personal
+Trigger: An undead enemy hits you
+Target: The triggering enemy
+Effect: You take no damage from the target’s attack. Your next attack
+against the target deals extra radiant damage equal to one-half the
+damage you would have taken from the target’s attack.
+
+Slayer of the Dead Attack 20: Bury the Dead
+The light of life gleams around you as you command the restless dead to return to their graves.
+Daily        Divine, Implement, Radiant
+Standard Action      Close burst 2
+Target: Each creature in the burst
+Attack: Strength vs. Reflex
+Hit: 4d8 + Strength modifier radiant damage. If the target is undead,
+it is also restrained (save ends).
+Miss: Half damage.
+
+============================================================================
+Miracle Worker
+Prerequisite: Cleric, trained in Heal  [Foobhop counts as a cleric]
+
+"These hands have cured the sick, healed the injured, and forestalled
+death’s cruel touch."
+
+You’ve always had a knack for the healing arts. People just seem to
+recover more quickly under your care: Bones knit and cuts mend
+quickly, and even sickness flees your touch. As your mastery of divine
+power has strengthened, so too have your skills at tending the sick
+and injured. Now life energy flows through your fingertips to anyone
+you attend.
+
+More than other clerics, you commit your life to alleviating suffering
+in any form. When you are not adventuring, you might work in the
+temples of any god and lend your talents to help the community,
+whether supplying food to the hungry or removing sickness from the
+afflicted. You bring these same sensibilities to an adventuring
+group. You move across the battlefield to shore up weakness and patch
+up the wounded so they can get back into the fight. You might not
+directly share in the glory enjoyed by your companions, but you take
+heart in knowing that they couldn’t have done it without you.
+
+MIRACLE WORKER PATH FEATURES
+
+    Miracle Worker Healing Action (11th level): When you spend an
+    action point to use a divine healing power, each ally adjacent to
+    you regains hit points equal to 1d6 + your Wisdom modifier. The
+    hit points regained increase to 2d6 + your Wisdom modifier at 21st
+    level.
+
+    Word of Life (Miracle Worker) (11th level): When you use your
+    healing word power, you roll d8s instead of d6s for the additional
+    hit points restored.
+
+    Aura of Health (16th level): When an ally within 5 squares of you
+    uses his or her second wind, that ally regains 3d6 additional hit
+    points.
+
+Miracle Worker Attack 11: Reversal of Fortunes
+A whispered benediction heals the injuries of an ally and gives the
+  attacker a taste of the pain it inflicted. 
+Encounter        Divine, Healing, Implement
+Immediate Reaction      Ranged 5
+Trigger: An enemy within 5 squares of you hits your ally adjacent to
+  it 
+Target: The triggering enemy
+Attack: Wisdom vs. Fortitude
+Hit: 2d10 + Wisdom modifier damage. The ally hit by the triggering
+  enemy’s attack can spend a healing surge and regain 2d10 additional
+  hit points.
+
+Miracle Worker Utility 12: Miraculous Grace
+Your timely prayer enables your ally to escape certain doom.
+Daily        Divine, Healing
+Immediate Reaction      Ranged 5
+Trigger: An ally within 5 squares of you drops to 0 hit points or
+  fewer
+Target: The triggering ally
+Effect: The target regains hit points as if he or she had spent a
+  healing surge and regains 2d6 additional hit points. In addition, the
+  target makes a saving throw against each effect on him or her that a
+  save can end.
+
+Miracle Worker Attack 20: Reap What You Sow
+You denounce a foe, making it suffer all the pains dealt to your
+friends.
+Daily        Divine, Implement
+Standard Action      Close burst 5
+Target: One enemy in the burst
+Attack: Wisdom vs. Will
+Hit: You transfer all effects that a save can end from each ally
+  within the burst to the target.
+Miss: You transfer one effect that a save can end from each ally
+  within the burst to the target.
+
+============================================================================
+Falling Needle Itinerant
+Prerequisite: Monk
+
+"Travel swiftly as you must, but fight as fluidly as you can."
+
+Fat Aloisus teaches any he meets who have the skill and the will to
+learn. In like manner, those he teaches are instructed to pass on his
+training to those whom they meet. Whether they wander for love of maps
+and food, a search for truth, a lust for treasure or adventure, or a
+noble quest, their wandering is aided by the lessons they learn from
+other travelers.
+    As a student of the Falling Needle practice and an itinerant, your
+techniques aid you—typically when others decide to attack you. You
+move swiftly on the road and in the heat of combat. You might be
+struck, but you do not remain in place for a second blow.
+
+FALLING NEEDLE ITINERANT PATH FEATURES
+
+    Falling Needle Training (11th level): When you use a monk power or
+monk paragon path power to shift, you shift 1 additional square.
+
+    Itinerant Action (11th level): When an attack hits you, you can
+spend an action point as an immediate interrupt to gain a +4 bonus to
+all defenses until the end of your next turn.
+
+    Path of the Itinerant Monk (11th level): You gain a +2 bonus to
+Endurance checks. In addition, when you are traveling in a group of
+eight or fewer, increase that group’s overland speed by 10 miles per
+day.
+
+    Falling Needle Mastery (16th level): You gain a +1 bonus to AC and
+Reflex.
+
+Falling Needle Itinerant Attack 11: Fallen from the Thread [Attack Technique]
+You pass right through your enemies’ grasp, even when one has you held.
+Encounter        Full Discipline, Implement, Psionic
+Standard Action      Melee touch
+Effect: Before or after the attack, you shift your speed. You can shift through enemies during this movement.
+Target: One or two creatures
+Attack: Dexterity vs. Reflex
+Hit: 2d8 + Dexterity modifier damage.
+
+Fallen from the Thread [Movement Technique]
+You pass right through your enemies’ grasp, even when one has you held.
+Encounter      Full Discipline, Psionic
+Minor Action      Personal
+Effect: If any creature is grabbing you, you automatically end that
+grab and then shift 1 square.
+
+Falling Needle Itinerant Utility 12: Wind-Blown Pine
+As a wind through the boughs of a tree, you flow through your enemies.
+Encounter        Psionic
+Move Action      Personal
+Effect: You shift twice your speed. You can shift through enemies
+during this movement.
+
+Falling Needle Itinerant Attack 20: Threading the Eye
+Your gentle extension of a single finger nevertheless passes easily
+through flesh and bone.
+Daily        Implement, Psionic
+Standard Action      Melee touch
+Target: One creature
+Attack: Dexterity + 4 vs. Reflex
+Hit: 4d10 + Dexterity modifier damage. 
+Effect: Until the end of the turn, you can use the movement technique
+from any at-will or encounter monk power you know, even if it is
+expended. Doing so does not expend that movement technique if it has
+not already been expended.
+
+
+============================================================================
+Paragon of Victory
+Prerequisite: Cleric  [Foobhopper is a multiclass cleric, so he can do
+this]
+
+You are a chosen champion of the gods. In battle, few can stand
+against you in personal combat. Even if they could match your skill,
+the divine power you command inspires your allies to great deeds.
+Paragons of victory stand at the center of many tales of great
+victories won against overwhelming odds. When the time comes for the
+gods to stand against an overwhelming foe, you can expect to fight at
+the forefront of that battle, wherever that may be.
+
+PARAGON OF VICTORY PATH FEATURES
+
+    Paragon's Action (11th level): When you spend an action point to
+take an extra action, you gain one of the following benefits of your
+choice.
+     You or an ally within 5 squares of you can make a saving throw
+with a +5 bonus.
+     You or an ally within 5 squares of you gains a +5 power bonus to
+damage rolls until the end of your next turn.
+
+    Turning of the Tide (11th level): Whenever you drop a nonminion
+enemy below 1 hit point with an attack, you gain one of the following
+benefits of your choice.
+     Each enemy within 2 squares of you is pushed up to 3 squares.
+     You or one ally within 5 squares of you gains 10 temporary hit points.
+
+    Relentless Rebuke (16th level): Once per encounter, when an
+enemy’s attack against an ally within 5 squares of you bloodies that
+ally or drops that ally below 1 hit point, you can make a melee basic
+attack as an opportunity action.
+
+Paragon of Victory Attack 11: Fanatic Energy
+You fight with the focused passion of belief, attacking twice in the
+time others take to make a single attack.
+Encounter        Divine
+Minor Action      Personal
+Effect: You use an at-will cleric attack power.
+
+Paragon of Victory Utility 12: Battle Resolve
+You channel the resolve granted by your divine magic to your allies,
+mending their wounds and empowering them for the fight to come.
+Daily        Divine, Healing
+Minor Action      Area burst 2 within 10 squares
+Target: Each ally in the burst
+Effect: Each target can spend a healing surge. In addition, each
+target gains a +1 power bonus to attack rolls and to all defenses
+until the end of the encounter.
+
+Paragon of Victory Attack 20: Victory Prayer
+The power of the gods infuses you and your allies, raising you to
+unmatched heights of battle prowess.
+Daily        Divine
+Minor Action      Close burst 3
+Target: You and one or two allies in the burst
+Effect: Each target can use an at-will attack power as a minor action
+once during his or her next turn.p
+
+
+
+
+============================================================================
+Master Thief
+Prerequisite: Thief
+
+To a thief in the paragon tier, mundane guardians, traps, and locks
+are the stuff of mockery. In any human or dwarven city, there are few
+items you could not have if you wanted them. Your attention now turns
+to far greater quarry: treasures lost to time, and riches sealed away
+by titans, demon lords, and worse.
+
+MASTER THIEF PATH FEATURES
+
+    Level 11 Improved Backstab (11th level): You gain one more use of
+backstab per encounter, but you can still use it only once per turn.
+
+    Masterful Action (11th level): When you spend an action point to
+use an attack power, you can deal your Sneak Attack damage to a target
+of the power regardless of whether you hit it or whether you have
+dealt Sneak Attack damage to it this turn, but you must have combat
+advantage against the target.
+
+    Masterful Cunning (11th level): Once during your first turn in an
+encounter, you can shift up to 3 squares as a free action.
+
+    Fading Retreat (12th level): You gain the fading retreat power.
+
+    Shadow Striker (16th level): If you are hidden when you make an
+attack against an enemy, you remain hidden after the attack if you
+have any cover or concealment.
+
+    Thief's Advantage (20th level): Reroll any Sneak Attack damage die
+that has a result of 1 until you get a 2 or higher.
+
+Master Thief Utility 12: Fading Retreat
+As your enemy closes in, you slip into the shadows and out of its sight.
+Encounter        Martial
+Immediate Reaction      Personal
+Trigger: An enemy you can see enters a square adjacent to you.
+Effect: You shift up to half your speed. If you have any cover or concealment at the end of this movement, you can make a Stealth check to hide, ignoring the penalty to the skill check for moving.
+
+[that's it --- you'll get that utility, but don't have other
+options other than the usual ones that come with your character]
+
+============================================================================
+Master Skald
+Prerequisite: Bard (skald)  [paladin or bard?]
+
+You have learned much in your time as a collector of stories, and you
+have put that knowledge to use as an adventurer. As you progress into
+the paragon tier, your repertoire of tales and legends grows, as does
+your arcane scholarship. Your reputation and recognition extend across
+the world—and even across the planes themselves.
+    Your skald has reached the rank of master, and you are regarded as
+such both by your fellow bards and by the world at large.
+
+MASTER SKALD PATH FEATURES
+
+    Cling to Your Words (11th level): Whenever an ally in your skald’s
+aura drops below 1 hit point, you can use the aura’s healing benefit
+on that ally as an immediate reaction, but only if the aura’s healing
+benefit has uses remaining.
+
+    Skald’s Action (11th level): When you spend an action point on
+your turn, you can forgo taking an extra action to allow one ally in
+your skald’s aura to take a standard action as a free action.
+
+    Expert Rejuvenation (16th level): Whenever you restore hit points
+to a creature with a healing power, the creature regains 4 additional
+hit points.
+
+Master Skald Attack 11: Inspiring Success
+When you successfully lay waste to an enemy, your allies are bolstered
+by the inspiring example you set.
+Encounter        Martial
+No Action      Special
+Trigger: You hit an enemy with a basic attack using a weapon.
+Effect: The enemy takes 2d10 extra damage from the attack. In
+addition, you and each ally in your skald’s aura gain temporary hit
+points equal to 5 + your Charisma modifier and can make a saving throw
+against one effect that a save can end.
+
+Master Skald Utility 12: Assured Skill
+You provide words of advice that can help turn the most difficult task
+into something that is within your ally’s grasp.
+Daily        Martial
+Free Action      Close burst 5
+Trigger: You or one ally within 5 squares of you makes a skill check.
+Target: The triggering character in the burst
+Effect: The target can choose either to gain a +5 bonus to that skill
+check or to reroll the skill check and use either result.
+
+Master Skald Attack 20: Death March
+You sing or speak words that exhort your allies not to fail, for death
+is all that remains for them if they do.
+Daily        Martial
+Minor Action      Personal
+Effect: Until the end of the encounter, your skald’s aura gains the
+following effect: Once per round, you or an ally in your skald’s aura
+can roll twice for an attack roll and use either result.
+
+============================================================================
+Champion of Order
+Prerequisite: Paladin class
+
+"The law holds chaos at bay, and I bolster the law with my every
+action and deed."
+
+You become a paragon of order, embracing this concept and fulfilling
+it with every word and deed. The gods of order look favorably upon you
+as you champion the causes they promote and the ideals they exemplify,
+turning back the forces of the chaotic evil powers at every
+opportunity. In the presence of chaotic evil creatures, your weapon
+glows with radiant light.
+
+CHAMPION OF ORDER PATH FEATURES
+
+    Champion’s Action (11th level): When you spend an action point to
+take an extra action, you also flash with radiant light that causes
+adjacent enemies to take a -1 penalty to all defenses until the start
+of your next turn.
+
+    In Defense of Order (11th level): When you are adjacent to the
+target of your divine challenge, the target provokes an opportunity
+attack from you if it makes an attack that does not include you.
+Furthermore, your damage rolls against demons and elemental creatures
+that you challenge deal an extra 2d6 radiant damage.
+
+    Champion’s Hammer (16th level): Your attacks ignore the
+resistances of demons and elemental creatures.
+
+Champion of Order Attack 11: Certain Justice
+You call upon your devotion to law to make your attack strike true.
+Encounter        Divine, Weapon
+Standard Action      Melee weapon
+Target: One creature
+Attack: Strength + 4 vs. AC
+Hit: 1[W] damage. If the target is marked by you, it is also weakened
+and dazed until it is not marked by you.
+
+
+Champion of Order Utility 12: None Shall Pass
+You contain two foes instead of just one with your divine challenge.
+Daily        Divine
+Free Action      Personal
+Effect: Until the end of the encounter, every use of your divine
+challenge targets two enemies rather than one.
+
+Champion of Order Attack 20: Rule of Order
+
+You invoke order through your weapon, causing it to glow as you
+deliver a punishing blow against an enemy.
+Daily        Divine, Radiant, Weapon
+Standard Action      Melee weapon
+Target: One creature
+Attack: Strength vs. Fortitude
+Special: If the target has scored a critical hit against you or your
+allies in this encounter, your attack gains a +2 power bonus and deals
++2d10 radiant damage.
+Hit: 4[W] + Strength modifier damage, and you push the target 1
+square. The target is weakened (save ends).
+Miss: 1[W] + Strength modifier damage, and the target is weakened
+(save ends).
+
+============================================================================
+Firstborn of Moradin
+Prerequisite: Dwarf
+
+"My strength is the eternal endurance of the mountains. I will not break."
+
+At the dawn of creation, dwarven myths say, Moradin made the race of
+dwarves. His firstborn had bones cut from bedrock, souls wrought from
+iron, and hearts carved of gleaming diamonds. These firstborn were the
+models after which all other dwarves were patterned.  Although the
+firstborn of Moradin’s making vanished in servitude to the giants,
+their fighting techniques and mystical traditions have not been
+lost. A new era of dwarven heroism has arrived, and the legacy of the
+firstborn continues. Those few who most skillfully follow the paths of
+the ancient firstborn are slowly transformed into the image of
+Moradin’s firstborn.  As one of the present-day firstborn of Moradin,
+you forge a deep connection with the earth, tapping into the power
+that courses through the bedrock beneath your feet. You draw on the
+strength of the mountains to resist injury, expand your senses through
+rock and stone, and root yourself in the bones of the earth. You are
+the stuff new legends are made of.
+
+FIRSTBORN OF MORADIN PATH FEATURES
+
+    Stonebones (11th level): Whenever you take a critical hit, roll a
+    d20. If you roll 10 or higher, the critical hit turns into a
+    normal hit.
+
+    Strength of the Earth (11th level): When you spend an action point
+    to take an extra action, you can also spend a healing surge.
+
+    Dwarven Resurgence (16th level): When you use your second wind,
+    you make a saving throw against each effect on you that a save can
+    end.
+
+Firstborn of Moradin Attack 11: Receive the Charge
+You ready yourself for an approaching enemy, deftly maneuvering to a
+  better position and striking before your foe strikes you.
+Encounter        Weapon
+Immediate Reaction      Melee weapon
+Trigger: An enemy enters a square adjacent to you
+Effect: Before the attack, you shift 1 square.
+Target: The triggering enemy
+Attack: Strength vs. AC
+Hit: 2[W] + Strength modifier damage.
+
+Firstborn of Moradin Utility 12: Earthsense
+Your connection with the earth allows you to sense even the faintest
+tremors in stone, letting you see what others cannot.
+Daily        Stance
+Minor Action      Personal
+Effect: Until the stance ends, you gain tremorsense 10.
+
+Firstborn of Moradin Attack 20: Mountain Stance Strike
+You call on the weight of the mountains to crash down on your foes and
+to ground yourself against your enemies’ attacks.
+Daily        Stance, Weapon
+Standard Action      Melee weapon
+Target: One creature
+Attack: Strength vs. Fortitude
+Hit: 2[W] + Strength modifier damage, and you knock the target
+  prone. If the target stands up before the end of your next turn, you
+  can make a melee basic attack against it as an immediate interrupt if
+  you are adjacent to it.
+Miss: Half damage.
+Effect: You assume the mountain stance. Until the stance ends, you
+  gain a +2 bonus to AC, and you can ignore being pulled, pushed, slid,
+  or knocked prone.
+
+============================================================================
+Radiant Fist
+Prerequisite: Monk, trained in Religion
+
+"My power comes from within, and I wield it in the name of the gods."
+
+You studied in a monastery devoted to the gods, guiding your mastery
+of psionic magic with the discipline and study of your faith. You
+likely worship Pelor or Bahamut, but most non-evil deities have at
+least one monastery dedicated to the fighting arts.
+
+Your monk abilities are touched by divine power, allowing you to
+channel radiant energy and tap into the astral realm. Like other
+monks, you move with incredible speed and hit with unmatched power. In
+addition, the gods provide you with the ability to quash those who
+follow the gods of evil.
+
+Dwarf monks are frequently drawn to this paragon path, since their
+piety and endurance allow them to withstand the mental and physical
+demands placed on a radiant fist.
+
+RADIANT FIST PATH FEATURES
+    Channel Divinity - Radiant Fist (11th level): You gain the Channel
+Divinity class feature, which means you can use a single Channel
+Divinity power once per encounter. You also gain a divinity feat of
+your choice.
+    Radiant Fist's Action (11th level): When you spend an action point
+to take an extra action, you regain 15 hit points. Until the end of
+your next turn, your attacks deal extra radiant damage equal to your
+Wisdom modifier.
+    Radiant Hammer Fists (16th level): Whenever your flurry of blows
+power deals damage, you can make that damage radiant, instead of any
+other damage type. In addition, whenever you score a critical hit with
+a monk power or a radiant fist power, each enemy adjacent to you is
+blinded until the end of your next turn.
+
+Radiant Fist Attack 11: Divine Sun [Attack Technique]
+Radiance surrounds you as you teleport yourself and a friend across
+the battlefield and sear through your enemy’s defenses.
+Encounter        Divine, Full Discipline, Implement, Psionic, 
+                 Radiant, Teleportation
+Standard Action      Melee touch
+Target: One creature
+Attack: Dexterity vs. Will
+Hit: 3d6 + Dexterity modifier radiant damage, and the target gains
+vulnerable 5 radiant until the end of your next turn.
+
+Divine Sun [Movement Technique]
+Radiance surrounds you as you teleport yourself and a friend across
+the battlefield and sear through your enemy’s defenses.
+Encounter      Divine, Full Discipline, Psionic, Radiant, Teleportation
+Move Action      Melee 1
+Target: One ally
+Effect: You teleport yourself and the target a number of squares equal
+to your speed + 2 to squares adjacent to each other.
+
+Radiant Fist Utility 12Undimmed Sun
+Just as you begin to feel the weight of your wounds, you stand defiant
+as the gods heal you.
+Daily        Divine, Healing, Psionic
+Minor Action      Personal
+Requirement: You must be bloodied.
+Effect: You regain hit points as if you spent a healing surge. Until
+the end of the encounter, you gain resistance to all damage equal to
+your Wisdom modifier.
+
+Radiant Fist Attack 20: Blinding Sun Technique
+You utter a prayer as the psionic energy within you flows into your
+attacks. With each strike, the divine radiance that burns within you
+grows stronger.
+Daily        Divine, Implement, Psionic, Radiant
+Standard Action      Melee touch
+Target: One creature
+Attack: Dexterity vs. Reflex
+Hit: 3d10 + Dexterity modifier radiant damage.
+Miss: Half damage.
+Effect: Until the end of the encounter, you gain a +4 power bonus to
+damage rolls, and you can score a critical hit with monk powers and
+radiant fist powers on a roll of 19–20. When you score a critical hit
+with such powers, the target of the critical hit is blinded (save
+ends).
+
+
+============================================================================
+Initiate of the Dragon
+
+"The dragon holds many secrets, and with those secrets, I battle the forces of darkness."
+Prerequisite: Monk
+
+The monastery you trained at followed a rare discipline, the school of
+the dragon’s wisdom. Your masters explained that in the ancient days,
+the dragons taught the mightiest of mortals how to transcend their
+physical forms and become as mighty as a dragon. Your monastery
+teaches that with the right focus and discipline, you too can master
+the secrets of the dragon.
+
+You learn to focus your psionic power outward, unleashing the dragon’s
+fiery breath and turning your skin into an armored hide of dragon
+scales. You move with the dragon’s speed, dancing on the wind with
+wings of psionic power. Once you master this discipline, you learn how
+to transform into a dragon for a brief moment.
+
+Half-orc monks are frequently drawn to this paragon path, since their
+agility and strength serve them well on this path. By the same token,
+their fiery rage matches the dragon’s anger when it is called to
+battle.
+
+INITIATE OF THE DRAGON PATH FEATURES
+
+    Dragon's Action (11th level): When you spend an action point to
+take an extra action, you can use a free action to deal fire damage to
+each enemy in a close blast 3. The fire damage equals 5 + your
+Strength modifier.
+
+    Strength of the Dragon (11th level): You gain resist 5 fire, or if
+you already have fire resistance, it increases by 5. Whenever you take
+fire damage, you gain a +2 bonus to damage rolls until the end of your
+next turn, even if your fire resistance negates the damage.
+
+    Claws of the Dragon (16th level): Damage dealt by your Flurry of
+Blows power gains a +2 bonus and ignores resistances.
+
+Initiate of the Dragon Attack 11: Draconic Torrent [Attack Technique]
+
+Like the dragons you seek to emulate, you leap into the air and
+unleash a torrent of fiery energy upon your enemies.
+Encounter        Fire, Full Discipline, Implement, Psionic
+Standard Action      Close blast 5
+Target: Each creature in the blast
+Attack: Dexterity vs. Reflex
+Hit: 3d8 + Dexterity modifier fire damage.
+
+Draconic Torrent [Movement Technique]
+Like the dragons you seek to emulate, you leap into the air and
+unleash a torrent of fiery energy upon your enemies.
+Encounter      Fire, Full Discipline, Psionic
+Move Action      Personal
+Effect: You fly your speed. You can end this movement in midair. At
+the end of your turn, you fall but take no falling damage.
+
+Initiate of the Dragon Utility 12: Dragon's Vengeance
+When your enemy earns your ire by wounding you, the heat of dragon’s
+fire washes off you in waves.
+Daily        Fire, Psionic, Stance
+Minor Action      Personal
+Effect: Until the stance ends, any enemy that starts its turn adjacent
+to you while you are bloodied takes 5 fire damage.
+
+Initiate of the Dragon Attack 20: Draconic Avatar
+You unleash a gout of flame as you transform into a shape between a
+humanoid and a dragon. Wings surge from your back, your hands grow
+long, sharp talons, and your skin becomes as hard as a dragon’s
+scales.
+Daily        Fire, Implement, Polymorph, Psionic
+Standard Action      Close blast 5
+Target: Each creature in the blast
+Attack: Dexterity vs. Reflex
+Hit: 4d8 + Dexterity modifier fire damage.
+Miss: Half damage.
+Effect: You can assume the form of the dragon. Until the end of the
+encounter, you gain a +2 power bonus to AC, a +4 power bonus to damage
+rolls with monk powers and initiate of the dragon powers, and a fly
+speed equal to your speed.
+
+
+============================================================================
+Halfling Scoundrel
+Prerequisite: Halfling
+
+"The bigger they are, the easier they topple."
+
+The greatest heroes of halfling legend are those who defeat giants,
+dragons, or other oversized threats to their homes and communities,
+using their wits, their agility, and a hefty dose of audacity. These
+heroes aren’t necessarily armored warriors wielding legendary swords,
+and they don’t have lands or noble titles. They are ordinary folk who
+rise to the challenge of the times, proving that size and strength
+aren’t needed to come out on top. You’re one of these heroes.
+
+Like most halflings, you have found that the best way to get by in a
+world full of much larger creatures is to stay out of their way. Doing
+that might mean keeping out of their sight or staying on their good
+side. It might also mean keeping out of their reach, or dodging their
+attacks. Stealth and trickery might not be weapons and armor by
+themselves, but they are a useful supplement to the finest
+steel. Coupled with your natural daring and determination, these
+strengths are enough to bring you victory against any foe, no matter
+how large.
+
+Compared to the legendary heroes of other races, you might come across
+as a scamp or a scoundrel. But the fact that you’re crafty,
+resourceful, and sometimes sneaky doesn’t make you any less of a
+hero. Avandra has blessed you with courage beyond question, ingenuity
+sufficient for any challenge, and the stealth you need to survive.
+
+HALFLING SCOUNDREL PATH FEATURES
+
+    Fearless Scoundrel (11th level): Whenever you are affected by a
+    fear effect that a save can end, you can make a saving throw
+    against the effect at the start of your turn. If you don’t save,
+    you can make another saving throw against the effect at the end of
+    your turn.
+
+    Resourceful Action (11th level): You can spend an action point to
+    gain a +5 bonus to an attack roll, a saving throw, or a skill
+    check you have just rolled, instead of taking an extra action.
+
+    Crafty Combatant (16th level): When you use your second chance
+    racial power and the enemy’s attack misses after the reroll, that
+    enemy grants combat advantage to you until the end of your next
+    turn.
+
+Halfling Scoundrel Attack 11: Sly Offensive
+Your weapon ends up exactly where the enemy didn’t expect, leaving
+that foe off balance.
+Encounter        Weapon
+Standard Action      Melee weapon
+Target: One creature
+Attack: Dexterity or Charisma vs. Reflex
+Hit: 2[W] + Dexterity or Charisma modifier damage, and the target
+  takes a -2 penalty to attack rolls against you until the end of its
+  next turn. If the target misses with any attack during its next turn,
+  you can shift a number of squares equal to your Dexterity or Charisma
+  modifier as an opportunity action.
+Special: When you gain this power, choose Dexterity or Charisma as the
+  ability you use when making attack rolls and damage rolls with this
+  power. You use the same ability to determine the number of squares you
+ shift.
+
+Halfling Scoundrel Utility 12: Problem Solver
+You find solutions to the thorniest problems.
+Encounter  
+Immediate Interrupt      Ranged 10
+Trigger: An ally within 10 squares of you fails a check with a skill
+  in which you’re trained
+Target: The triggering ally
+Effect: The target can reroll the skill check with a +2 power bonus.
+
+Halfling Scoundrel Attack 20: Halfling's Taunt
+You enrage your foe with a chuckle and a taunt. That foe’s fury swells
+as its attacks miss you and you whack it in response.
+Daily        Weapon
+Standard Action      Melee weapon
+Target: One creature
+Attack: Dexterity or Charisma vs. AC
+Hit: 5[W] + Dexterity or Charisma modifier damage.
+Miss: Half damage.
+Effect: Until the end of the encounter, if the target attacks, it must
+  include you as a target if none of your allies are nearer to it than
+  you are. You gain a +2 bonus to all defenses against the target’s
+  attacks. If the target misses you with an attack, you can make a basic
+  attack against it as an opportunity action.
+Special: When you gain this power, choose Dexterity or Charisma as the
+  ability you use when making attack rolls and damage rolls with this
+  power.
+
+
+============================================================================
+Ghostwalker
+Prerequisite: Monk
+
+"I watch the souls as they depart this world for the next."
+
+The Monastery of the Eternal Void stands at a crossroads where the
+Shadowfell washes against the world’s shores. Some who study in the
+monastery delve into the Shadowfell’s secrets, but most of the
+disciples there contemplate the nature of life and death, the soul’s
+final migration, and the fate awaiting creatures in the
+afterlife. Proximity to the darkened plane informed the monastery’s
+fighting techniques as they developed into their current forms.
+
+Your training at the monastery opened your inner eye, allowing you
+glimpses from this world into the realm of the dead. Those visions
+left a mark on you; your flesh grew pale and dark circles ring your
+eyes, as if death’s touch draws near. Despite these changes, you are
+no less vital and have gained uncanny insight into the nature of souls
+and their movements.
+
+As a ghostwalker, you use psionic power to cloak yourself in shadow
+and thereby avoid enemy attacks. You can also strike at a foe’s life
+force, sapping its strength. Mastery of these techniques allows you to
+seize your enemy’s soul and ride it to another location.
+
+GHOSTWALKER PATH FEATURES
+
+    Ghostwalker's Action (11th level): When you spend an action point
+    to make an attack, any enemy granting combat advantage to you that
+    is hit by that attack is weakened until the end of your next turn.
+
+    Of Two Worlds (11th level): You have concealment against any enemy
+    granting combat advantage to you. In addition, when any enemy
+    misses you with a melee attack while you have concealment or total
+    concealment, you can shift 1 square as a free action.
+
+    Ride the Spirit (16th level): Whenever you reduce an enemy to 0
+    hit points, you can use a free action to teleport a number of
+    squares equal to your Wisdom modifier. Until the end of your next
+    turn, you have combat advantage against each enemy adjacent to you
+    at the end of the teleportation.
+
+Ghostwalker Attack 11: Tormented Spirit [Attack Technique]
+Spirits whisk you and an enemy away, and you sap your foe’s strength
+  with your deadly touch.
+Encounter        Full Discipline, Implement, Necrotic, Psionic, Teleportation
+Standard Action      Melee touch
+Target: One enemy granting combat advantage to you
+Attack: Dexterity vs. Fortitude
+Hit: 3d6 + Dexterity modifier necrotic damage, and the target is
+  weakened until the end of your next turn.
+
+Tormented Spirit [Movement Technique]
+Spirits whisk you and an enemy away, and you sap your foe’s strength
+  with your deadly touch.
+Encounter      Full Discipline, Necrotic, Psionic, Teleportation
+Move Action      Melee 1
+Target: One enemy
+Effect: You teleport yourself and the target 5 squares to squares
+  adjacent to each other. The target grants combat advantage to you
+  until the end of your next turn.
+
+Ghostwalker Utility 12: Soul Dance
+Your form wavers, and in a blink of an eye, you are somewhere else.
+Daily        Psionic, Stance, Teleportation
+Minor Action      Personal
+Effect: Until the stance ends, you have concealment. When any enemy
+  misses you with a melee attack, you can use a free action to teleport
+  to a square adjacent to that enemy and gain combat advantage against
+  it until the end of your next turn.
+
+Ghostwalker Attack 20: Vengeful Ghost
+You strike your opponent with such force that you rattle its soul. You
+  teleport away, leaving it vengeful.
+Daily        Implement, Psionic, Teleportation
+Standard Action      Melee touch
+Target: One enemy granting combat advantage to you
+Attack: Dexterity vs. Will
+Hit: 2d10 + Dexterity modifier damage, and the target is stunned (save ends).
+  Aftereffect: The target is dazed until it hits you with a melee attack or it takes damage.
+Miss: Half damage, and the target is dazed (save ends).
+Effect: You teleport 5 squares.
+
+============================================================================
+Four Winds Master
+Prerequisite: Monk
+
+"I am as powerful as the winds and as constant as the seasons."
+
+Devotees of the four winds strive for peace and tranquility in all
+that they do. They recognize, however, that violence is sometimes
+necessary to achieve greater harmony. Just as destructive winds can
+carry away anything that stands against them, a monk of the four winds
+is an overwhelming force.
+
+FOUR WINDS MASTER PATH FEATURES
+
+    Gusting Action (11th level): When you spend an action point to
+    make an attack and the attack hits, you shift your speed after
+    resolving the attack.
+
+    Mystery of the Four Winds (11th level): After each extended rest,
+      choose one of the following mysteries. The benefit of that mystery
+      lasts until you choose another mystery.
+    Mystery of the East Wind: You gain lightning resistance equal to
+      one-half your level. In addition, whenever you shift, you can move
+      2 squares before or after the shift.
+    Mystery of the North Wind: You gain cold resistance equal to
+      one-half your level and a +5 bonus to saving throws against charm
+      effects and fear effects.
+    Mystery of the South Wind: You gain force resistance equal to
+      one-half your level and a +4 bonus to initiative checks.
+    Mystery of the West Wind: You gain thunder resistance equal to
+      one-half your level. In addition, whenever you spend a healing
+     surge, you can shift 2 squares as a free action.
+
+    Mysteries Revealed (16th level): After each extended or short
+      rest, you can choose two mysteries and benefit from both at the
+      same time. The benefit of the mysteries lasts until you choose
+      another two mysteries.
+    In addition, whenever you shift, you can instead fly the same
+      distance. If you don’t land at the end of this movement, you fall.
+
+Four Winds Master Attack 11: Four Winds Assault [Attack Technique]
+Psychic winds can carry you to your opponents, gusting hard when you
+  strike to scatter your foes.
+Encounter        Full Discipline, Implement, Psionic
+Standard Action      Melee touch
+Target: One creature
+Attack: Dexterity vs. Fortitude
+Hit: 1d8 + Dexterity modifier damage. You lift the target 10 feet into
+  the air, where it is immobilized until the end of your next turn. At
+  the end of your next turn, the target drops safely to the ground in
+  the space it last occupied or in the nearest unoccupied space.
+  Aftereffect: You slide each creature within 5 squares of the target 5 squares.
+
+Four Winds Assault [Movement Technique]
+Encounter      Full Discipline, Psionic
+Move Action      Personal
+Effect: You fly your speed + 2. If you do not land at the end of this
+  movement, you hover until the start of your next turn, at which point
+  you land safely in the space below you or in the nearest unoccupied
+  space.
+
+Four Winds Master Utility 12: Breath of the Four WInds
+You anticipate imminent danger and call the four winds to whisk you to
+  safety.
+Encounter        Psionic
+Immediate Interrupt      Personal
+Trigger: You are hit by an attack
+Effect: You are insubstantial until the start of your next turn. After
+  the triggering attack is resolved, you fly your speed + 2. If you do
+  not land at the end of this movement, you hover until the start of
+  your next turn, at which point you land safely in the space below you
+  or in the nearest unoccupied space.
+
+Four Winds Master Attack 20: Four Winds Tempest
+You take to the air to lash out with a vicious attack, then call on
+the four winds that hold you aloft to batter your foe.
+Daily        Implement, Psionic, Varies
+Standard Action      Melee touch
+Effect: Before the attack, you fly a number of squares equal to your
+  speed + 2. If you do not land at the end of this movement, you hover
+  until the start of your next turn, at which point you land safely in
+  the space below you or in the nearest unoccupied space.
+Target: One creature
+Attack: Dexterity vs. Fortitude
+Hit: 4d10 + Dexterity modifier damage.
+Miss: Half damage.
+Effect: The target is affected by the four winds tempest (save
+  ends). While the target is affected by the tempest, whenever the
+  target starts its turn, roll a d4 to determine the effect.
+    1. The target takes 10 lightning damage, and you push it 4 squares.
+    2. The target takes 10 cold damage and is slowed until the end of its turn.
+    3. The target takes 10 force damage, and you pull it 4 squares.
+    4. The target takes 10 thunder damage, and you slide it 4 squares.
+
+
+============================================================================
+Transcendent Perfection
+Prerequisite: Monk
+
+"I am more than this flawed vessel."
+
+The mystics of transcendent perfection believe the mortal body is a
+faulty receptacle that prevents them from attaining a higher
+form. They strive to overcome the body’s limitations and attain their
+true potential. Just as importantly, they believe that they must
+foster reason and enlightenment, and help others transcend the body to
+embrace a state of harmonious existence.
+
+    By following the transcendent path, you learn to overcome your
+    physical limitations by solving the riddles of past masters. Each
+    conundrum you unravel opens your mind to greater
+    possibilities. You first learn to shape your words to encourage
+    behavior and alter impressions, to move without interference, or
+    to deny movement to those who oppose you. You learn to close
+    wounds and vanquish ailments with a touch. Upon mastering the
+    techniques of transcendent perfection, you can deny your enemies’
+    attacks by elevating your consciousness above pain and despair.
+
+TRANSCENDENT PERFECTION PATH FEATURES
+
+    Enlightened Action (11th level): When you spend an action point to
+    take an extra action, you shift your speed and are insubstantial
+    until the end of your next turn. You ignore difficult terrain, and
+    you can move across water and other liquid surfaces. You sink if
+    you end your turn on such a surface.
+
+    Riddle of Conversation (11th level): You gain a +2 bonus to Bluff,
+    Diplomacy, Insight, and Intimidate checks. You also gain training
+    in one of those skills. In addition, whenever you use your Flurry
+    of Blows power, one ally adjacent to you or to a target of that
+    power can shift as a free action.
+
+    Riddle of Awareness (16th level): You see invisible creatures and
+    objects within 1 square of you. In addition, enemies do not gain
+    combat advantage for flanking you unless you are adjacent to three
+    or more enemies.
+
+Transcendent Perfection Attack 11: Riddle of Motion [Attack Technique]
+Solving the riddle of motion lets you control your foe’s movement and
+  keeps your enemies from doing the same to you.
+Encounter        Full Discipline, Implement, Psionic, Psychic
+Standard Action      Melee touch
+Target: One creature
+Attack: Dexterity vs. Will
+Hit: 3d6 + Dexterity modifier psychic damage, and the target is either
+  immobilized until the end of your next turn or you slide the target a
+  number of squares equal to its speed.
+
+Riddle of Motion [Movement Technique]
+Encounter      Full Discipline, Psionic, Psychic
+Move Action      Personal
+Effect: Choose one of the following effects. You move twice your speed
+  and gain a +2 power bonus to all defenses against opportunity attacks
+  provoked by this movement; or you can ignore forced movement until the
+  end of your next turn.
+
+Transcendent Perfection Utility 12: Riddle of Health
+Your knowledge lets you cleanse the body of injury and incapacitation.
+Encounter        Healing, Psionic
+Minor Action      Ranged 5
+Target: You or one ally
+Effect: The target spends a healing surge and makes a saving throw. If
+  the saving throw is against a poison effect, it gains a +5 power
+  bonus.
+
+Transcendent Perfection Attack 20: Riddle of Invulnerability
+A pulse of psychic power tears at your enemies, exploiting the
+  weakness of their flesh and enhancing your resilience.
+Daily        Implement, Psionic, Psychic, Stance
+Standard Action      Close burst 1
+Target: Each enemy you can see in the burst
+Attack: Dexterity vs. Will
+Hit: 3d10 + Dexterity modifier psychic damage, and the target gains
+  vulnerable 5 to all damage (save ends).
+Miss: Half damage.
+Effect: You can enter the riddle of invulnerability stance. Until the
+  stance ends, you gain resist 5 to all damage.
+
+============================================================================
+Radiant Fist
+Prerequisite: Monk, trained in Religion
+
+"My power comes from within, and I wield it in the name of the gods."
+
+You studied in a monastery devoted to the gods, guiding your mastery
+of psionic magic with the discipline and study of your faith. You
+likely worship Pelor or Bahamut, but most non-evil deities have at
+least one monastery dedicated to the fighting arts.
+
+Your monk abilities are touched by divine power, allowing you to
+channel radiant energy and tap into the astral realm. Like other
+monks, you move with incredible speed and hit with unmatched power. In
+addition, the gods provide you with the ability to quash those who
+follow the gods of evil.
+
+Dwarf monks are frequently drawn to this paragon path, since their
+piety and endurance allow them to withstand the mental and physical
+demands placed on a radiant fist.
+
+RADIANT FIST PATH FEATURES
+
+    Channel Divinity - Radiant Fist (11th level): You gain the Channel
+    Divinity class feature, which means you can use a single Channel
+    Divinity power once per encounter. You also gain a divinity feat
+    of your choice.
+
+    Radiant Fist's Action (11th level): When you spend an action point
+    to take an extra action, you regain 15 hit points. Until the end
+    of your next turn, your attacks deal extra radiant damage equal to
+    your Wisdom modifier.
+
+    Radiant Hammer Fists (16th level): Whenever your flurry of blows
+    power deals damage, you can make that damage radiant, instead of
+    any other damage type. In addition, whenever you score a critical
+    hit with a monk power or a radiant fist power, each enemy adjacent
+    to you is blinded until the end of your next turn.
+
+Radiant Fist Attack 11: Divine Sun [Attack Technique]
+Radiance surrounds you as you teleport yourself and a friend across
+  the battlefield and sear through your enemy’s defenses.
+Encounter        Divine, Full Discipline, Implement, Psionic, Radiant, Teleportation
+Standard Action      Melee touch
+Target: One creature
+Attack: Dexterity vs. Will
+Hit: 3d6 + Dexterity modifier radiant damage, and the target gains
+  vulnerable 5 radiant until the end of your next turn.
+
+Divine Sun [Movement Technique]
+Radiance surrounds you as you teleport yourself and a friend across
+  the battlefield and sear through your enemy’s defenses.
+Encounter      Divine, Full Discipline, Psionic, Radiant, Teleportation
+Move Action      Melee 1
+Target: One ally
+Effect: You teleport yourself and the target a number of squares equal
+  to your speed + 2 to squares adjacent to each other.
+
+Radiant Fist Utility 12: Undimmed Sun
+Just as you begin to feel the weight of your wounds, you stand defiant
+  as the gods heal you.
+Daily        Divine, Healing, Psionic
+Minor Action      Personal
+Requirement: You must be bloodied.
+Effect: You regain hit points as if you spent a healing surge. Until
+  the end of the encounter, you gain resistance to all damage equal to
+  your Wisdom modifier.
+
+Radiant Fist Attack 20: Blinding Sun Technique
+You utter a prayer as the psionic energy within you flows into your
+  attacks. With each strike, the divine radiance that burns within you
+  grows stronger.
+Daily        Divine, Implement, Psionic, Radiant
+Standard Action      Melee touch
+Target: One creature
+Attack: Dexterity vs. Reflex
+Hit: 3d10 + Dexterity modifier radiant damage.
+Miss: Half damage.
+Effect: Until the end of the encounter, you gain a +4 power bonus to
+  damage rolls, and you can score a critical hit with monk powers and
+  radiant fist powers on a roll of 19–20. When you score a critical hit
+  with such powers, the target of the critical hit is blinded (save
+  ends).
+
+
+============================================================================
+Faithful Shield
+Prerequisite: Paladin
+
+"Behind me, friends! They shall not touch you."
+
+You are a living bulwark, protecting the defenseless. You are the
+shelter in the storm. As a faithful shield, you place your companions’
+well-being above your own.
+
+Faithful shields are supreme examples of devout warriors, found in
+most of the world’s faiths. Such warriors safeguard holy sites and
+divine servants. Others set out into the world to lend their talents
+to those who need it most, whether the folk of a frontier town
+surrounded by enemies or a band of adventurers working to thwart a
+dire threat.
+
+Rather than focusing on dealing damage, you give your companions the
+time they need to win through. You might partner with another
+defender, forming an impregnable wall, or work with a trusted striker,
+blocking enemy attacks and creating openings for your ally. When your
+group is hard pressed, you might cover the retreat, slowly giving
+ground while your friends flee to safety.
+
+FAITHFUL SHIELD PATH FEATURES
+
+    Sheltering Hands (11th level): Whenever you use your lay on hands
+    power, the power’s target gains a +2 power bonus to all defenses
+    until the start of his or her next turn.
+
+    Shielding Action (11th level): When you spend an action point to
+    take an extra action, you and each ally within 5 squares of you
+    also gain a +2 bonus to AC and Reflex until the start of your next
+    turn.
+
+    Defensive Presence (16th level): When any ally within 5 squares of
+    you takes the second wind or the total defense action, any enemy
+    that hits that ally before the end of his or her next turn takes
+    radiant damage equal to 5 + your Wisdom modifier.
+
+Faithful Shield Attack 11: Protecting Smite
+A decisive strike against your enemy gives your allies a chance to see
+  to their own defense.
+Encounter        Divine, Weapon
+Standard Action      Melee weapon
+Target: One creature
+Attack: Charisma vs. AC
+Hit: 2[W] + Charisma modifier damage, and each ally within 5 squares
+  of you gains a +2 power bonus to all defenses until the start of your
+  next turn.
+
+Faithful Shield Utility 12: Constant Shield
+You channel divine might through your shield to defend yourself and
+  your charges.
+Daily        Divine, Stance
+Minor Action      Personal
+Requirement: You must be using a shield.
+Effect: Until the stance ends, you and any allies adjacent to you gain
+  a +2 power bonus to AC and Reflex. In addition, when you or any ally
+  adjacent to you is pulled, pushed, or slid, you can reduce the forced
+  movement by 1 square.
+
+Faithful Shield Attack 20: Rampart of Strength
+
+You raise your shield, and from it bursts scintillating astral
+  radiance that drives back your foes.
+Daily        Divine, Implement, Radiant
+Standard Action      Close burst 5
+Requirement: You must be using a shield.
+Target: Each enemy in the burst
+Attack: Charisma vs. Fortitude
+Hit: 3d8 + Charisma modifier radiant damage, and you push the target 3 squares.
+Miss: Half damage, and you push the target 1 square.
+Effect: Until the end of the encounter, at the start of each of your
+  turns, if you have not moved since the start of your last turn, you
+  can use a free action to grant yourself and each ally adjacent to you
+  a +4 power bonus to all defenses until the start of your next turn.
+
+============================================================================
+Astral Weapon
+Prerequisite: Paladin class
+
+
+"With the power of the Astral Sea flowing through me, and my faith as
+powerful as a weapon, I fight as my god wills."
+
+You become a literal weapon for your god, imbued with an extra dose of
+divine power emanating from the Astral Sea. As an astral weapon, there
+are no enemies you won’t oppose, no challenge you won’t take on, for
+your faith is strong and your weapon sings with power from on
+high. When you accept this path, the weapon you wield forevermore
+glows with the silvery light of the Astral Sea.
+
+ASTRAL WEAPON PATH FEATURES
+
+    Astral Judgment (11th level): Enemies currently marked by you that
+    attack your allies without attacking you take a -2 penalty to all
+    defenses until they are no longer marked by you.
+
+    Astral Rejuvenation Action (11th level): You can spend an action
+    point to regain one paladin encounter power you have already used,
+    instead of taking an extra action.
+
+    Courage from on High (16th level): You gain a +2 bonus to saving
+    throws against fear effects.
+
+Astral Weapon Attack 11: Carving a Path of Light
+Your weapon glows with astral light, and as it strikes your enemy,
+  that glow spreads to encompass all enemies adjacent to you,
+  temporarily coating them with a glowing target your allies can see.
+Encounter        Divine, Weapon
+Standard Action      Melee weapon
+Target: One creature
+Attack: Strength vs. AC
+Hit: 2[W] + Strength modifier damage, and until the end of your next
+  turn, your allies have combat advantage against any enemy adjacent to
+  you.
+
+Astral Weapon Utility 12: Pray for More
+You strike your enemy, but you pray to increase the amount of damage
+  you deal.
+Encounter        Divine
+Free Action      Personal
+Effect: If you don’t like the damage you have rolled with one of your
+  attacks, reroll your damage. You must use the result of the second
+  roll.
+
+Astral Weapon Attack 20: Astral Whirlwind
+Your faith directs you into a whirling attack that strikes out at
+  every foe within reach, instilling them with fear and weakening their
+  defenses.
+Daily        Divine, Fear, Weapon
+Standard Action      Close burst 1
+Target: Each enemy in the burst you can see
+Attack: Strength vs. AC
+Hit: 2[W] + Strength modifier damage. In addition, the target takes a
+     –2 penalty to all defenses (save ends).
+Special: If this attack kills one or more evil or chaotic evil
+  creatures, roll a d20. On a roll of 10 or higher, you can use this
+  power again during this encounter.
+
+============================================================================
+
+Champion of Order
+Prerequisite: Paladin class
+
+"The law holds chaos at bay, and I bolster the law with my every action and deed."
+
+You become a paragon of order, embracing this concept and fulfilling
+it with every word and deed. The gods of order look favorably upon you
+as you champion the causes they promote and the ideals they exemplify,
+turning back the forces of the chaotic evil powers at every
+opportunity. In the presence of chaotic evil creatures, your weapon
+glows with radiant light.
+
+CHAMPION OF ORDER PATH FEATURES
+
+    Champion’s Action (11th level): When you spend an action point to
+    take an extra action, you also flash with radiant light that
+    causes adjacent enemies to take a -1 penalty to all defenses until
+    the start of your next turn.
+
+    In Defense of Order (11th level): When you are adjacent to the
+    target of your divine challenge, the target provokes an
+    opportunity attack from you if it makes an attack that does not
+    include you. Furthermore, your damage rolls against demons and
+    elemental creatures that you challenge deal an extra 2d6 radiant
+    damage.
+
+    Champion’s Hammer (16th level): Your attacks ignore the
+    resistances of demons and elemental creatures.
+
+Champion of Order Attack 11: Certain Justice
+You call upon your devotion to law to make your attack strike true.
+Encounter        Divine, Weapon
+Standard Action      Melee weapon
+Target: One creature
+Attack: Strength + 4 vs. AC
+Hit: 1[W] damage. If the target is marked by you, it is also weakened
+  and dazed until it is not marked by you.
+
+
+Champion of Order Utility 12: None Shall Pass
+You contain two foes instead of just one with your divine challenge.
+Daily        Divine
+Free Action      Personal
+Effect: Until the end of the encounter, every use of your divine
+  challenge targets two enemies rather than one.
+
+Champion of Order Attack 20: Rule of Order
+You invoke order through your weapon, causing it to glow as you
+  deliver a punishing blow against an enemy.
+Daily        Divine, Radiant, Weapon
+Standard Action      Melee weapon
+Target: One creature
+Attack: Strength vs. Fortitude
+Special: If the target has scored a critical hit against you or your
+  allies in this encounter, your attack gains a +2 power bonus and deals
+  +2d10 radiant damage.
+Hit: 4[W] + Strength modifier damage, and you push the target 1
+  square. The target is weakened (save ends).
+Miss: 1[W] + Strength modifier damage, and the target is weakened
+  (save ends).
+
+
+============================================================================
+
+Justiciar
+Prerequisite: Paladin class
+
+"I fight for justice, my faith and my strong arm defending those in need."
+
+You become the embodiment of justice, a champion of righteousness and
+fairness—at least as viewed from the perspective of your particular
+faith. You are granted the ability to shelter and protect your allies
+and others in need, while also receiving powers that help you do the
+right thing according to the faith you have embraced.
+
+JUSTICIAR PATH FEATURES
+
+    Just Action (11th level): When you spend an action point to take
+    an extra action, each enemy adjacent to you is weakened until the
+    end of its next turn.
+
+    Just Spirit (11th level): Each ally adjacent to you can reroll one
+    saving throw at the end of his or her turn.
+
+    Just Shelter (16th level): Allies adjacent to you are immune to
+    fear and charm effects and receive a +1 bonus to saving throws.
+
+Justiciar Attack 11: Just Radiance
+A burst of light, like purity and justice, explodes from your holy
+  symbol, sending searing pain through enemies you have challenged.
+Encounter        Divine, Implement, Radiant
+Standard Action      Close burst 5
+Target: Each enemy marked by you in the burst
+Attack: Charisma vs. Will
+Hit: 2d8 + Charisma modifier radiant damage, and until the end of your
+  next turn, the target cannot make an attack that does not include you.
+
+Justiciar Utility 12: Strike Me Instead
+You call upon your innate sense of justice and honor, whisper a short
+  prayer, and redirect an attack so that you take the hit for those you
+  would protect.
+Daily        Divine
+Immediate Interrupt      Personal
+Trigger: An ally within 5 squares of you is attacked
+Effect: The attack misses all of your allies it targets, but
+  automatically hits you even if you weren’t a target of the attack.
+
+Justiciar Attack 20: Challenge the Unjust
+Your enemies surround you, and the purity within you cries out for
+  justice. You focus a powerful prayer through your holy symbol, sending
+  forth a radiant burst of punishing force that no enemy can ignore.
+Daily        Divine, Implement, Radiant
+Standard Action      Close burst 10
+Target: Each enemy in the burst
+Attack: Charisma vs. Will
+Hit: 3d8 + Charisma modifier radiant damage, and the target is marked
+  until the end of your next turn.
+Miss: Half damage, and the target is marked until the end of your next
+  turn.
+
+
+
+Vengeful Crusader
+Prerequisite: Paladin, trained in Insight or Perception
+
+"I am the righteous sword—the heaven’s blade—and there is no escaping
+the painful truth of what you have done."
+
+Hate burns hot in your heart—hate for all those who prey on the weak
+and who despoil the innocent. Hate for all those who know nothing but
+evil. You channel this blazing wrath into your attacks to ensure the
+perpetrators pay for their crimes. Those who raise your ire can expect
+no mercy from you—only death.
+
+VENGEFUL CRUSADER PATH FEATURES
+
+    Vengeance's Imperative (11th level): When an enemy marked by you
+    makes an attack that doesn’t include you as the target, you can
+    shift 1 square toward that enemy after the attack as a free
+    action.
+
+    Vengeful Action (Vengeful Crusader) (11th level): Whenever you
+    spend an action point while you are bloodied, you can subject each
+    enemy you can see within 3 squares of you to your divine sanction
+    until the end of your next turn.
+
+    Vengeful Shield (16th level): Enemies that attack allies adjacent
+    to you take damage equal to your Strength modifier.
+
+Vengeful Crusader Attack 11: Driving Force
+Your enemy falls back under your ferocious attack, but if it thinks it
+  can escape your wrath, it is mistaken.
+Encounter        Divine, Weapon
+Standard Action      Melee weapon
+Target: One creature you have marked
+Attack: Strength vs. AC
+Hit: 2[W] + Strength modifier damage, and the target is pushed 2
+  squares. If the target makes an attack that doesn’t include you before
+  the start of your next turn, you can make a charge attack against the
+  target as an immediate interrupt.
+
+Vengeful Crusader Utility 12: Crusader's Stance
+As your enemies attack, your anger only grows, filling you with
+  righteous indignation that you can use to punish them for their
+  transgressions.
+Daily        Divine, Stance
+Minor Action      Personal
+Effect: Until the stance ends, when an ally you can see takes damage
+  from an enemy’s attack, you gain a +1 bonus to your next attack roll
+  and damage roll before the end of your next turn. This bonus is
+  cumulative, to a maximum of +5.
+
+Vengeful Crusader Attack 20: Crusader's Vengeance
+Your hate guides your attack and delivers a punishing strike that
+  reverberates for the final moments the enemy has left to live.
+Daily        Divine, Weapon
+Standard Action      Melee weapon
+Target: One creature
+Attack: Strength vs. AC
+Hit: 4[W] + Strength modifier damage.
+Miss: Half damage.
+Effect: Until the end of the encounter, when the target makes an
+  attack that does not include you, it takes damage equal to your
+  Strength modifier.
+
+
+============================================================================
+Death Dealer
+Prerequisite: Rogue
+
+"Killing’s my game."
+
+Some people are born killers. That penchant can be channeled in as
+many ways as there are reasons for slaughter. Some slay for religion
+or creed, others for power or influence, and still others for money,
+vengeance, glory, or just plain relief. Many who have a knack for
+murder take up violent professions, from soldier or town guard to
+gladiator or assassin. A few, whatever their reasons, make a career
+out of slaying monsters.
+
+    Killing is grim business, no matter who or what ends up
+    dead. Nobody takes going to the grave lightly. Hands-off methods,
+    such as poison, can sometimes work, as can stealthy
+    techniques. Otherwise, direct and bloody conflict is the only way
+    to go about butchery.
+
+    Strangely, a lot of would-be killers think that combat has
+    rules. You know differently: In battle, fair play, honor, and
+    mercy are for chumps. Fighting is all about dancing with death and
+    being one of those still standing when the music ends. Maybe you
+    came by your “philosophy” while being schooled as an assassin or
+    hired sword. Of course, an adventurer’s life has plenty of object
+    lessons along the same lines: Kill or be killed.
+
+    When you start a fight, you take a little time to size up the
+    competition. After that, it’s all bloody business. If someone has
+    the nerve to attack you, you make that fool pay in such a way that
+    anyone watching will think twice about facing you. Nobody escapes
+    you unless they have the ability to take you out of the fight, or
+    you want the story of your prowess to get around.
+
+    However you gained your skills, they are honed in accordance with
+    your brutal creed. Those who go up against you risk everything. As
+    proven by the boost you sometimes get from brutalizing our
+    adversaries, you take at least a little pleasure in your work.
+
+DEATH DEALER PATH FEATURES
+
+    No Respite (11th level): Enemies adjacent to you take a -2 penalty
+    to saving throws.
+
+    Slaying Action - Death Dealer (11th level): When you spend an
+    action point to take an extra action, you gain a +2 bonus to each
+    damage die until the start of your next turn.
+
+    Unfair Advantage (Death Dealer) (16th level): When you hit a
+    bloodied foe with a melee attack, you gain temporary hit points
+    equal to your Strength modifier or Charisma modifier (your
+    choice).
+
+Death Dealer Attack 11: Sizing Strike
+Your attack is only probing, but what you see gives you confidence and
+  your enemy pause.
+Encounter        Martial, Rattling, Weapon
+Standard Action      Melee weapon
+Requirement: You must be wielding a light blade.
+Target: One creature
+Attack: Dexterity vs. AC
+Hit: 1[W] + Dexterity modifier damage, and you gain 10 temporary hit
+  points. If you have combat advantage against the target, add your
+  Strength modifier or Charisma modifier (your choice) to the damage
+  roll and to the temporary hit points gained.
+
+Death Dealer Utility 12: Gruesome Kill
+You finish off your adversary with efficient butchery, and no other
+  foe wants any part of you.
+At-Will        Martial
+Free Action      Personal
+Trigger: You reduce an enemy to 0 hit points
+Effect: Each enemy that can see you takes a –2 penalty to attack rolls
+  against you until the start of your next turn.
+
+Death Dealer Attack 20: Death Dealer Assault
+The wound you open tags your foe as yours.
+Daily        Martial, Weapon
+Standard Action      Melee weapon
+Requirement: You must be wielding a light blade.
+Target: One creature
+Attack: Dexterity vs. AC
+Hit: 3[W] + Dexterity modifier damage.
+Effect: The target takes ongoing 10 damage (save ends). Until the
+  target saves against this damage, you can shift 1 square toward it as
+  a minor action.
+
+============================================================================
+Rakish Swashbuckler
+Prerequisite: Rogue
+
+"With a face like that, it’s no wonder your mother loves me best!"
+
+Life is too short to take seriously. Danger lurks in every shadow, and
+an enemy waits behind every door. Those who spend every waking moment
+thinking about all the bad things that could happen never leave the
+house.
+
+    Instead of wringing your hands, you throw away all your worries
+    and take a devil-may-care attitude. Sure, some say you will end up
+    raking the coals of the Nine Hells because of your decadent
+    living. In the end, though, who’s the happier: you and your
+    adventurous, libertine ways or the hidebound drudge shuddering
+    under his covers?
+
+    On one hand, you’re a charmer. Others find your infectious wit and
+    bravado winsome. But you’re also irreverent, irresponsible, and
+    reckless. What’s worst is that sometimes you have the hardest time
+    keeping your mouth shut. Whether cracking a joke in the middle of
+    a solemn funeral or shouting a barrage of insults at a demon, you
+    can’t help but stir up trouble. Deep down, you know life might be
+    easier if you straightened up, but where’s the fun in that?
+
+    When you face a serious challenge, your skill with weapons comes
+    to the fore. Your tongue and your body language become secondary
+    instruments of derision. You seed your exploits with cutting
+    insults and disdain, goading your enemies into overextending or
+    making other mistakes. When an enemy gives you an opening, you
+    press the advantage. In the end, you stand triumphantly over a
+    fallen foe, showing once again who the greater fool is.
+
+RAKISH SWASHBUCKLER PATH FEATURES
+
+    Incorrigible Action (11th level): Whenever you spend an action
+    point to take an extra action, enemies take a -2 penalty to attack
+    rolls against you until the start of your next turn.
+
+    Vexing Foe (11th level): Enemies marked by anyone other than you
+    take a -2 penalty to attack rolls against you (this is in addition
+    to the penalty from being marked). Enemies marked by you grant
+    combat advantage to your allies.
+
+    Dastardly Opportunist (16th level): Whenever an ally scores a
+    critical hit against an enemy adjacent to you, you can make a
+    melee basic attack against that enemy as an immediate reaction.
+
+Rakish Swashbuckler Attack 11: Abashing Stab
+
+With words or body language, you mock your foe as you deliver a
+  cutting attack.
+Encounter        Martial, Weapon
+Standard Action      Melee weapon
+Requirement: You must be wielding a light blade.
+Target: One creature
+Attack: Dexterity vs. AC
+Hit: 3[W] + Strength modifier damage, and the target is marked until
+  the start of your next turn. Until the start of your next turn, the
+  target takes a –2 penalty to attack rolls against you but gains a +5
+  bonus to damage rolls against you.
+
+Rakish Swashbuckler Utility 12: Mocking Footwork
+A derisive combat style keeps foes off balance.
+Daily        Martial, Stance
+Minor Action      Personal
+Effect: Until the stance ends, each time you hit an enemy that you
+  have combat advantage against, you can either shift 1 square or slide
+  the enemy 1 square.
+
+Rakish Swashbuckler Attack 20: Cutting Assault
+Your scornful manner puts your foe on the defensive, allowing you to
+  make a sharp follow-up.
+Daily        Martial, Weapon
+Standard Action      Melee 1
+Requirement: You must be wielding a light blade.
+Target: One creature
+Primary Attack: Charisma vs. Will
+Hit: The target is weakened and slowed (save ends both).
+Miss: The target is slowed until the end of its next turn.
+Effect: Make a secondary attack against the target. The target is then
+  marked until the end of the encounter, until you are knocked
+  unconscious, or until another mark supersedes this one.
+    Secondary Attack: Dexterity vs. Reflex. If the primary attack hit,
+      you have combat advantage against the target.
+    Hit: 2[W] + Dexterity modifier damage.
+
+
+============================================================================
+Blade Bravo
+Prerequisite: Rogue
+
+"You think armor will protect you? Come here, and we’ll see about that."
+
+Most knaves are little more than ruffians who have a talent for
+swordplay. These individuals prowl city streets and pit their skills
+against each other, trying to prove themselves. Most of these
+so-called bravos have more courage than common sense. They have short
+life spans and usually wind up in shallow graves. You, however, have
+proved you’re different from them.
+
+You never had formal training or studied under a master. Instead, you
+developed a haphazard style born of necessity and emboldened by your
+grit. You quickly learned that survival demands toughness, so you
+cultivated the ability to keep scrapping even with your back pressed
+to the wall.
+
+In battle, your attacks lack the finesse and artfulness exhibited by
+other rogues, yet they are equally effective. Just because you don’t
+have a fancy flourish doesn’t make you any less dangerous.
+
+BLADE BRAVO PATH FEATURES
+
+    Cocksure Menace (11th level): Whenever you hit an enemy granting
+    combat advantage to you with a melee attack, you can mark that
+    enemy until the end of your next turn.
+
+    Riposte Action (11th level): When an enemy misses you with a melee
+    attack, you can spend an action point to make a melee basic attack
+    against that enemy. The enemy grants combat advantage to you for
+    this attack, and if you hit, the attack deals 1[W] extra
+    damage. If the enemy is marked by you, the attack instead deals
+    2[W] extra damage.
+
+    Back Alley Bravo (16th level): Whenever you shift, you gain a +1
+    bonus to AC and Reflex until the start of your next turn.
+
+Blade Bravo Attack 11: Taunting Barb
+
+Your taunt is as keen as the blade you thrust into your foe.
+Encounter        Martial, Weapon
+Standard Action      Ranged 3
+Requirement: You must be wielding a light blade.
+Target: One creature
+Attack: Dexterity vs. Will
+Hit: 3[W] + Dexterity modifier damage, and you pull the target to a
+  square adjacent to you and make a melee secondary attack against the
+  target. You have combat advantage for the attack.
+    Secondary Attack: Dexterity vs. AC
+    Hit: Strength modifier damage.
+
+Blade Bravo Utility 12: Threatening Flourish
+You perform a complex maneuver with your weapon, revealing your skill
+  and daring to your enemy.
+Encounter        Martial
+Minor Action      Personal
+Effect: Until the end of your next turn, your melee attacks gain the
+  rattling keyword.
+
+Blade Bravo Attack 20: Vicious Parry
+Batting aside your enemy’s attack, you drive your weapon home.
+Daily        Martial, Rattling, Weapon
+Immediate Interrupt      Melee weapon
+Requirement: You must be wielding a light blade.
+Trigger: An enemy hits you with a melee attack
+Target: The triggering enemy
+Effect: The target is weakened and grants combat advantage until the
+  end of its next turn.
+Attack: Dexterity vs. AC
+Hit: 3[W] + Dexterity modifier + Strength modifier damage.
+Miss: Half damage.
+
+============================================================================
+
+Jack-of-All-Trades
+Prerequisite: Rogue
+
+"Yeah . . . I can do that, and that . . . and that."
+
+You are a jack-of-all-trades; learning new skills comes naturally to
+you, and you enjoy pitting your abilities against any challenge. Your
+thirst for knowledge will drive you to learn new skills until the day
+you die.
+
+Since your youth, you have had an intense yearning to learn more than
+what books and teachers could provide. You understood from a young age
+that knowledge and skill can take you places that money and influence
+can’t. You hoard knowledge the way a dragon covets its treasure,
+though you are happy to share it with anyone you consider worthy, or
+when doing so suits your fancy.
+
+Folks might consider you a pack rat or a dabbler, but you know that
+the items you collect and the skills you acquire will help you in the
+future. And when you’re there to save the day, anyone who derided your
+habits will realize the mistake and thank you.
+
+Eladrin are a natural choice for this path because of their high
+Dexterity and Intelligence, as well as the fact that they gain an
+additional skill of their choice. Humans also excel as
+jacks-of-all-trades because of their vast variety of experiences and
+versatility of skill and knowledge.
+
+JACK-OF-ALL-TRADES PATH FEATURES
+
+    Dabbler (11th level): You gain a +2 bonus to all skill checks.
+
+    Expert Assault (11th level): When you spend an action point to
+    take an extra action, you gain a +5 bonus to skill checks until
+    the end of your turn.
+
+    Advanced Dabbler (16th level): You gain training in three skills.
+
+Jack-of-All-Trades Attack 11: Scoundrel's Philosophy
+You humble your foe with your fighting prowess, then befuddle it with
+  your vast knowledge of proper fighting techniques.
+Encounter        Martial, Weapon
+Standard Action      Melee weapon
+Target: One creature
+Primary Attack: Dexterity vs. AC
+Hit: 3[W] + Dexterity modifier damage, and make a secondary attack
+  against the target.
+    Secondary Attack: Dexterity vs. Will
+    Hit: The target is dazed until the end of your next turn.
+
+Jack-of-All-Trades Utility 12: Always a Natural
+You are a natural at everything you do.
+Encounter        Martial
+Free Action      Personal
+Trigger: You make a skill check and dislike the result
+Effect: You reroll the triggering check and use either result.
+
+Jack-of-All-Trades Attack 20: Every Trick in the Book
+You attack from all angles, using every technique and bit of knowledge
+  you have to defeat your foe.
+Daily        Martial, Reliable, Weapon
+Standard Action      Melee or Ranged weapon
+Target: One creature
+Attack: Dexterity vs. AC, Fortitude, Reflex, Will. You make one attack
+  roll and compare the result against all four defenses. A target
+  suffers the effect associated with each defense that the attack hits.
+Hit (AC): 2[W] damage.
+Hit (Fortitude): 1[W] damage, and the target is slowed (save ends).
+Hit (Reflex): 1[W] damage, and you knock the target prone.
+Hit (Will): 1[W] damage, and the target is dazed (save ends).
+Effect: You shift 3 squares + 1 square for each defense you hit.
+
+============================================================================
+Whisperknife
+Prerequisite: Rogue
+
+"Bring me vengeance, oh gods, and make my enemies pay in blood."
+
+You have been called different names—killer, murderer, assassin—but
+none fit as nicely as whisperknife does. You kill, but not for wealth
+and rarely for sport; you kill for vengeance. In a perfect world,
+everyone would die from old age, but this isn’t a perfect
+world. Accidents happen, and wars claim soldiers and innocents
+alike. Murderers snuff out lives on a whim or with cold calculation,
+and the world keeps on turning. Souls wriggle free from their meat to
+find whatever awaits them in the Raven Queen’s frigid embrace. And who
+stands for these victims? Who protects the people whom justice
+ignores? You.
+
+You’re a vigilante, taking up the cause of those who can’t find
+justice. You use your talents to hunt down anyone who perpetrates
+crimes. You offer no mercy or quarter, only the whispered name of the
+wronged party and the silent slash of your blade.
+
+Your preferred weapons are daggers, whether thrown or held. You can
+hide them on your person and retrieve them with ease. A dagger’s short
+blade allows you to be close enough to your prey to explain why it has
+to die. And when you’ve said what you need to say, you can watch as
+the life goes out of your victim’s eyes.
+
+WHISPERKNIFE PATH FEATURES
+
+    Dagger Threat (11th level): You don’t provoke opportunity attacks
+    when you make ranged attacks with a light blade.  In addition, you
+    gain Quick Draw as a bonus feat, even if you don’t meet the
+    prerequisites.  [quick draw lets you draw things like potions or
+    blades as free actions rather than minors]
+ 
+    Razor Action (11th level): When you spend an action point to
+    attack with a light blade, each enemy adjacent to you takes damage
+    equal to your Dexterity modifier.
+
+    Advantageous Positioning (16th level): While you are adjacent to a
+    Medium or larger enemy, you gain a +2 bonus to AC against ranged
+    attacks, and you don’t grant combat advantage to creatures
+    flanking you.
+
+Whisperknife Attack 11: Vengeance's Pursuit
+After slashing your foe, you flip the knife in your hand and prepare
+  to throw it. 
+Encounter        Martial, Rattling, Weapon
+Standard Action      Melee weapon
+Requirement: You must be wielding a dagger.
+Target: One creature
+Attack: Dexterity vs. AC
+Hit: 2[W] + Dexterity modifier damage.
+Effect: The first time the target moves or makes an attack that
+  doesn’t include you as a target before the start of your next turn,
+  you can make a ranged basic attack against the target as a free
+  action. The target grants combat advantage to you for this attack.
+
+Whisperknife Utility 12: Whispered Vengeance
+When an ally suffers from an enemy’s attack, your thirst for vengeance
+  impels you to close the distance and make your foe pay for the
+  transgression.
+Encounter        Martial
+Immediate Reaction      Personal
+Trigger: An enemy hits an ally you can see with a melee attack
+Effect: Until the end of your next turn, you gain a +2 power bonus to
+  speed and a +2 power bonus to attack rolls against the triggering
+  enemy.
+
+Whisperknife Attack 20: Hateful Knives
+Leaping at your foe, you slash it so badly that it stumbles back in fear.
+Daily        Fear, Martial, Weapon
+Standard Action      Melee or Ranged weapon
+Requirement: You must be wielding a dagger.
+Target: One creature
+Primary Attack: Dexterity vs. AC
+Hit: 4[W] + Dexterity modifier damage, and you push the target 3
+  squares. You then shift 3 squares to a square adjacent to the target
+  and make a secondary attack against it.
+    Secondary Attack: Dexterity vs. Will
+    Hit: The target grants combat advantage to you until the end of the
+      encounter.
+    Miss: The target grants combat advantage to you (save ends).
+Miss: Half damage.
+
+============================================================================
+Cat Burglar
+Prerequisite: Rogue
+
+As a master athlete, you become a rogue of a higher caliber who can
+surprise adversaries with unbelievable moves and amazing feats of
+physical stamina while remaining true to your roots as a thief or a
+scoundrel.
+
+CAT BURGLAR PATH FEATURES
+
+    Acrobatic Action (11th level): When you spend an action point to
+    take an extra action, you also gain an extra move action that you
+    must use this turn.
+
+    Body Control (11th level): Whenever you are affected by a pull, a
+    push, or a slide, you can move 1 less square than the effect
+    specifies.
+
+    Athletic Master (16th level): Roll twice whenever you make an
+    Athletics check. Use whichever result you prefer.
+
+Cat Burglar Attack 11: Cat Burglar's Gambit
+
+You spring into action, expertly strike, and then sidestep to position
+  yourself for either certain glory or imminent doom.
+Encounter        Martial, Weapon
+Standard Action      Melee weapon
+Requirement: You must be wielding a light blade.
+Effect: You shift up to 3 squares before making the attack.
+Target: One creature
+Attack: Dexterity vs. AC
+Hit: 3[W] + Dexterity modifier damage.
+Effect: You shift up to 5 squares to a square adjacent to the target.
+
+Cat Burglar Utility 12: Instant Escape
+With supreme effort, you escape.
+Encounter        Martial
+Immediate Reaction      Personal
+Trigger: An effect immobilizes, restrains, or slows you.
+Effect: The triggering effect ends on you. You then shift up to 2
+  squares.
+
+Cat Burglar Attack 20: Redirected Death
+Your enemy strikes out against you, but with a slight move and a
+  flourish of your own blade, you redirect the attack toward a different
+  target.
+Daily        Martial, Weapon
+Immediate Interrupt      Melee weapon
+Trigger: An enemy hits you with a melee attack, and it can reach
+  another enemy of yours.
+Requirement: You must be wielding a light blade.
+Target: The triggering enemy
+Attack: Dexterity vs. Reflex
+Hit: The target’s attack misses you and hits an enemy of your choice
+  within range of the target’s attack.
+Miss: 2[W] + Dexterity modifier damage.
+Effect: You can shift 1 square.
+
+
+============================================================================
+Master Infiltrator
+Prerequisite: Rogue
+
+You are unmatched in your ability to get into and out of places
+unseen. Furthermore, you have the skills and training you need to
+handle any infiltration mission that comes your way, from spying and
+scouting to sniper attacks and assassinations.
+
+MASTER INFILTRATOR PATH FEATURES
+
+    Infiltrator's Action (11th level): When you spend an action point
+    to take an extra action, you also gain an extra move action that
+    you must use this turn.
+
+    Skillful Infiltrator (11th level): You gain a +2 bonus to
+    Acrobatics checks, Athletics checks, and Stealth checks.
+
+    Invisible Infiltrator (16th level): When you reduce a target that
+    is your level or higher to 0 hit points or fewer, or when you
+    score a critical hit against a target that is your level or
+    higher, you become invisible until the end of your next turn.
+
+Master Infiltrator Attack 11: Distracting Wound
+You strike from the shadows, delivering a wound that distracts your
+  foe and makes him drop his guard.
+Encounter        Martial, Weapon
+Standard Action      Melee or Ranged weapon
+Requirement: You must be wielding a crossbow, a light blade, or a sling.
+Target: One creature granting combat advantage to you
+Attack: Dexterity vs. AC
+Hit: 2[W] + Dexterity modifier damage, and the target grants combat
+  advantage until the end of your next turn.
+
+Master Infiltrator Utility 12: Impossible to Catch
+With practiced ease, you step into the shadows and disappear from view.
+Encounter        Martial
+Minor Action      Personal
+Effect: You become invisible until the start of your next turn.
+
+Master Infiltrator Attack 20: Painful Puncture
+Your weapon bites deep, leaving your enemy with a lingering wound.
+Daily        Martial, Weapon
+Standard Action      Melee or Ranged weapon
+Requirement: You must be wielding a crossbow, a light blade, or a sling.
+Target: One creature
+Attack: Dexterity vs. AC
+Hit: 3[W] + Dexterity modifier damage, and ongoing 10 damage (save
+  ends).
+Miss: Half damage.
+
+============================================================================
+Shadow Assassin
+Prerequisite: Rogue
+
+You become a killing machine, striking from the shadows with deadly
+and bloody efficiency, and turning attacks against you into pain and
+suffering for your enemies. You believe in doing unto others before
+they can do unto you, and you know how to deliver punishment as only a
+striker can.
+
+SHADOW ASSASSIN PATH FEATURES
+
+    Shadow Assassin’s Action (11th level): When you spend an action
+    point to take an extra action, you also gain a +4 bonus to attack
+    rolls until the start of your next turn.
+
+    Shadow Assassin’s Riposte (11th level): When an enemy adjacent to
+    you misses you with a melee attack, you can take a free action to
+    deal damage to that enemy. The damage equals your Dexterity
+    modifier.
+
+    Bloody Evisceration (16th level): Your Sneak Attack damage
+    increases by 1d6 against a bloodied enemy.
+
+Shadow Assassin Attack 11: Killer's Eye
+You strike with a killer’s eye, seeking to take down your enemy as
+  quickly and efficiently as possible.
+Encounter        Martial, Weapon
+Standard Action      Melee or Ranged weapon
+Requirement: You must be wielding a crossbow, a light blade, or a
+  sling.
+Target: One creature
+Attack: Dexterity vs. Reflex
+Hit: 2[W] + Dexterity modifier damage, or 3[W] + Dexterity modifier
+  damage if the target hasn’t taken any actions during the encounter.
+
+Shadow Assassin Utility 12: Bad Idea, Friend
+The first time an enemy attacks you, that opponent discovers just how
+bad an idea that is.
+Daily        Martial
+Immediate Interrupt      Personal
+Trigger: An adjacent enemy makes a melee attack against you for the
+  first time during this encounter, and you are not granting combat
+  advantage.
+Effect: You gain a +10 power bonus to all defenses against the enemy’s
+  attack. If the attack misses, the enemy takes double your Shadow
+  Assassin’s Riposte damage.
+
+Shadow Assassin Attack 20: Final Blow
+Your enemy is seriously wounded. This shot will finish it off.
+Daily        Martial, Weapon
+Standard Action      Melee or Ranged weapon
+Requirement: You must be wielding a crossbow, a light blade, or a
+  sling.
+Target: One bloodied creature
+Attack: Dexterity vs. Reflex
+Hit: 5[W] + Dexterity modifier damage, and you shift a number of
+  squares up to your Charisma modifier. You must end this shift adjacent
+  to an enemy.
+Miss: Half damage.
+
+============================================================================
+Daring Acrobat
+Prerequisite: Rogue, trained in Acrobatics
+
+"Agile movement is as much offensive as it is defensive."
+
+Acrobatics is a widespread and popular talent. All people, from nobles
+to peasants, enjoy acrobatics shows, whether amid the finery of court
+or the debris of the street. A few venturesome religious rites,
+especially those that pay homage to Avandra or Kord, require the
+skill. Mastery of the body is part of numerous education philosophies,
+and acrobatics is unmatched in cultivating fitness and
+balance. Thieves and burglars use the skill to ply their
+trade. Training is easy to find and widely accepted. Some youngsters
+attain a level of mastery well before they reach adolescence.
+
+    Not to be underestimated is the value of such proficiency on the
+    battlefield. A combatant who is adept at acrobatics can maneuver
+    like no other. The adroit use of the skill opens up advantages
+    that other warriors can’t attain and allows the acrobat to avoid
+    being pinned down. Movement becomes quicker and smoother as the
+    acrobat uses the whole body as a tool, rather than just relying on
+    the feet and the legs. It’s obvious why some martial training
+    includes instruction in acrobatics.
+
+    It’s also clear that the adventurer has even more use for
+    acrobatics than a warrior or a soldier does. Explorers routinely
+    face perils that are best overcome with agility, poise, and a
+    sense of one’s body. More than one fortune seeker owes life and
+    limb to his dedicated schooling in acrobatics.
+
+    To say that of you is a gross understatement, however. It doesn’t
+    matter if you came by your skill in a formal academy, from family
+    tradition, or through the school of hard knocks. You have made
+    acrobatics not only an art form, but also a martial style all your
+    own.
+
+    You flabbergast friend and foe alike with your talent. Using it,
+    you routinely accomplish tricks that seem beyond mortal
+    capacity. With your flamboyant derring-do, you deliver terrible
+    attacks and deftly capitalize on the smallest openings.
+
+DARING ACROBAT PATH FEATURES
+
+    Acrobatic Action (11th level): When you spend an action point to
+    take an extra action, you also gain an extra move action that you
+    must use this turn.
+
+    Tumbling Positions (11th level): You do not grant combat advantage
+    to enemies when you are balancing, climbing, or prone.
+
+    Agile Charge (16th level): When you begin a charge, you gain a +1
+    bonus to AC and Reflex until the start of your next turn. Also,
+    after completing a charge, you can take further actions (if you
+    have any left).
+
+Daring Acrobat Attack 11: Wild Tumble Cut
+With acrobatic flair, you rush in to deliver a vicious cut but are
+  left momentarily off balance.
+Encounter        Martial, Weapon
+Standard Action      Melee weapon
+Requirement: You must be wielding a light blade, and you must charge
+  and use this power in place of a melee basic attack.
+Target: One creature
+Attack: Dexterity vs. AC
+Hit: 4[W] + Dexterity modifier damage, and the target gains combat
+  advantage against you until the start of your next turn.
+
+Daring Acrobat Utility 12: Flawless Stunt
+Your concentration and long hours of practice make all the difference
+  in pulling off a trick.
+Encounter        Martial
+Minor Action      Personal
+Effect: You gain a +5 bonus to Acrobatics and Athletics checks until
+  the end of your turn.
+
+Daring Acrobat Attack 20: Dramatic Finish
+You drive your blade deep into your wounded foe, knowing you have
+  something in reserve as a follow-up.
+Daily        Healing, Martial, Weapon
+Standard Action      Melee weapon
+Requirement: You must be wielding a light blade.
+Target: One creature
+Attack: Dexterity vs. AC
+Hit: 4[W] + Dexterity modifier damage, or 6[W] + Dexterity modifier
+  damage if either you or the target is bloodied.
+Effect: If this attack fails to reduce the target to 0 hit points, you
+  can either make a melee basic attack against the target with a +5
+  bonus to the attack roll or spend a healing surge.
+Special: When charging, you can use this power in place of a melee
+  basic attack.
+
+
+============================================================================
+Cloaked Sniper
+Prerequisite: Rogue, trained in Stealth
+
+"You tell me—is it better to win with a shot from the dark or to lose up close?"
+
+The advantage of getting the drop on an enemy is acknowledged far and
+wide. Equally prized is the benefit of taking out important targets
+with little risk. No one is better at accomplishing either task than a
+trained sharpshooter, and the sharpshooter’s weapon of choice is the
+crossbow.
+
+    Nations and mercenary groups train specialized soldiers to use
+    crossbows in this fashion. Underworld organizations do the
+    same. Any such soldier is essentially an assassin who knows how to
+    use a crossbow to slay from a distance without attracting
+    notice. Dwarves in particular prize this exception to their
+    normally straightforward battle tactics. That race produces fine
+    snipers.
+
+    Such shooters don’t shy away from a normal fight. They understand
+    that reconnaissance and a plan, along with the ability to strike
+    unseen from a great distance, are great advantages in a combat
+    situation. A good ambush leaves the enemy weakened and confused,
+    giving any follow-up assault a better chance of working.
+
+    You have chosen to hone your skills along these lines. You prefer
+    to strike from hiding with a wellplaced shot and to remain
+    unobserved during a confrontation, aiding your allies by picking
+    off foes without ever drawing notice. The hand crossbow is your
+    preferred weapon.
+
+    Sniping is the ultimate tactic for you. The sound of a bolt
+    finding its target is the sweet toll of victory. A bolt you fire
+    might take out a sentry in a single hit, as well as sending your
+    enemies scurrying for cover. If you miss, no matter. You can slink
+    back into the shadows until you have a chance to shoot again.
+
+CLOAKED SNIPER PATH FEATURES
+
+    Crossbow Savant (11th level): You add 5 squares to the normal
+    range of any crossbow you wield and 10 squares to the long
+    range. Treat a hand crossbow as an off-hand weapon, and treat any
+    crossbow that has the load minor property as having the load free
+    property instead.
+
+    Sniper Action (11th level): When you spend an action point to make
+    a ranged basic attack and you have combat advantage against the
+    target of the attack, you can add your Sneak Attack damage even if
+    you have already dealt Sneak Attack damage during this round. If
+    the attack hits, you can shift 1 square.
+
+    Versatile Combatant (16th level): When you are armed with a melee
+    weapon in your main hand and a hand crossbow in your off hand, you
+    do not provoke opportunity attacks when attacking with your hand
+    crossbow.
+
+Cloaked Sniper Attack 11: Sudden Bolt
+From the edge of sight, your well-placed bolt knocks your enemy silly.
+Encounter        Martial, Weapon
+Minor Action      Ranged weapon
+Requirement: You must be wielding a crossbow.
+Target: One creature
+Attack: Dexterity vs. Reflex
+Hit: 2[W] + Dexterity modifier damage. If you are hidden from the
+  target when you make this attack, the target is dazed until the end of
+  your turn.
+
+Cloaked Sniper Utility 12: Unseen Shot
+They saw your attack but have no idea where it came from.
+At-Will        Martial
+Free Action      Personal
+Trigger: You miss with a ranged attack while hidden
+Effect: You remain hidden if you have any cover or concealment. You
+  can also shift 1 square.
+
+Cloaked Sniper Attack 20: Bolt from Nowhere
+Your bolt sails across the battlefield and sends your enemies into a
+  panic.
+Daily        Martial, Weapon
+Standard Action      Ranged weapon
+Requirement: You must be wielding a crossbow.
+Primary Target: One creature
+Primary Attack: Dexterity vs. AC
+Hit: 4[W] + Dexterity modifier damage.
+Miss: Half damage.
+Effect: Make a secondary attack, which has the fear keyword.
+  Secondary Target: The primary target and each enemy you can see
+    within 3 squares of it
+  Secondary Attack: Dexterity vs. Will
+  Hit: Until the end of your next turn, the secondary target takes a
+    –2 penalty to attack rolls and grants combat advantage to you and
+    your allies.
+
+============================================================================
+Verdant Stalker
+Prerequisite: Rogue, trained in Stealth
+
+"My steps are as light as a leaf on the wind."
+
+You are a creature of stealth—a warrior who treads so lightly that
+even the autumn leaves remain silent beneath your step. For you,
+silence is a way of life and an art.
+
+You’re comfortable in the forest, where your abilities to move quietly
+and to camouflage your movements are at their best. You prefer to wear
+out your foe, dancing from shadow to shadow and from tree to tree,
+peppering your enemy with ranged attacks. No enemy has yet caught you
+standing still.
+
+You might have grown up among forest-dwelling elves or fey. It’s also
+possible that you were once a city dweller who has since become one
+with nature. You still know of and sometimes visit urban areas, but
+they have become foreign to you. The forest is your home now, and
+you’re as comfortable in it as a street urchin is in the dock ward of
+a city. When outsiders invade your territory, you strike back with a
+furious vengeance, assaulting them with rapid volleys of missiles that
+kill the intruders or drive them away.
+
+Elves and halflings are most likely to follow this path, but any
+character who favors stealth and silence, uses ranged attacks with
+great skill, and is an expert forester can succeed as a verdant
+stalker.
+
+VERDANT STALKER PATH FEATURES
+
+    Delicate Shot (11th level): Whenever you hit an enemy from which
+    you are hidden with a ranged attack and you then roll Sneak Attack
+    damage dice, you treat a roll of 1 or 2 as a roll of 3.
+
+    Vanishing Action (11th level): When you spend an action point to
+    take an extra action, you can make a Stealth check to become
+    hidden after the extra action. If you used the extra action to
+    take a move action, you gain a +5 bonus to the Stealth check.
+
+    Light-Footed (16th level): You ignore difficult terrain.
+
+Verdant Stalker Attack 11: Shadow to Shadow
+You slide behind cover, attack your foe from a distance, and then slip
+  back into the shadows again.
+Encounter        Martial, Weapon
+Standard Action      Ranged weapon
+Requirement: You must be using a hand crossbow, a repeating crossbow,
+  a shortbow, a shuriken, or a sling.
+Effect: Before and after the attack, you shift 3 squares. After each
+  shift, you can make a Stealth check to become hidden.
+Target: One creature
+Attack: Dexterity vs. AC
+Hit: 3[W] + Dexterity modifier damage.
+
+Verdant Stalker Utility 12: Forest Specter
+Moving among foliage or around a cavern wall, you blend into your
+  surroundings like a spirit of nature.
+Encounter        Martial
+Minor Action      Personal
+Requirement: You must have total concealment or superior cover.
+Effect: You become invisible until the end of your next turn, until
+  you attack, or until you no longer have any cover or any concealment.
+
+Verdant Stalker Attack 20: Leaves of Steel
+You slip out of the shadows, firing a volley of shots at your enemies.
+Daily        Martial, Weapon
+Standard Action      Area burst 2 within weapon range
+Requirement: You must be using a hand crossbow, a repeating crossbow,
+  a shortbow, a shuriken, or a sling.
+Effect: Before the attack, you shift 3 squares.
+Target: Each enemy in the burst you can see
+Attack: Dexterity vs. AC
+Hit: 4[W] + Dexterity modifier damage.
+Miss: Half damage.
+============================================================================
+Blizzard Mage
+Prerequisite: Sorcerer
+
+"Winter freezes flesh and scours the earth with icy winds that shriek
+through hedgerows and mountain passes alike. I can’t think of anything
+more poetic."
+
+In the frozen wastes, and in the frost-blasted fields of winter, you
+feel at home. You find the cold, harsh conditions hospitable, even
+comforting. You can pull winter storms from across the world, or even
+from the Elemental Chaos, and use them to ruin your enemies. When you
+attack, your body is covered with ice crystals, and your skin
+pales. Your spells fill the air around you with blowing snow or hail,
+and powerful winds whip up.
+
+The blizzard is your best friend and your most ferocious
+servitor. With its aid, you move creatures about inside killing blasts
+and knock them down with freezing vortexes of driving snow and ice.
+
+Is it any wonder that your heart has grown cold, too? It is up to you
+whether your nature grows more and more aloof like the bleak season
+you embody, or whether your heart yet shelters a warm hearth for those
+you name friend.
+
+BLIZZARD MAGE PATH FEATURES
+
+    Icy Action (11th level): Whenever you spend an action point to
+    make an attack, each creature you hit or miss with the attack is
+    slowed (save ends).
+
+    Walk through Winter (11th level): While you are immobilized, you
+    can shift 1 square. While you are slowed, your speed is 3 instead
+    of 2.
+
+    Chill Winds (16th level): Whenever you score a critical hit, you
+    can slide any single creature within 10 squares of you 1 square.
+
+Blizzard Mage Attack 11: Winter's Clutch
+Your hand is coated in frost as you sweep it in front of you, encasing
+  nearby creatures in chilling wind and sheets of ice.
+Encounter        Arcane, Cold, Implement
+Standard Action      Ranged 20
+Target: One creature
+Attack: Charisma vs. Reflex
+Hit: 3d8 + Charisma modifier cold damage. You slide the target 1
+  square, and the target is immobilized until the end of your next
+  turn. Also, you slide each ally within 20 squares of you 2 squares.
+
+Blizzard Mage Utility 12: Cloak of Freezing Wind
+The icy chill of winter surrounds you as cold, whipping wind protects
+  you from attacks.
+Daily        Arcane, Cold
+Minor Action      Personal
+Effect: Until the end of the encounter, each creature that hits you
+  with a melee attack takes 1d8 + your Charisma modifier cold damage,
+  and you push that creature 1d4 + 2 squares.
+
+Blizzard Mage Attack 20: Blizzard
+A chaotic swirl bursts out from you, buffeting everyone nearby with
+  wind and ice.
+Daily        Arcane, Cold, Implement
+Standard Action      Close burst 10
+Target: Each enemy in the burst
+Attack: Charisma vs. Reflex
+Hit: 4d10 + Charisma modifier cold damage, and you knock the target
+  prone.
+Effect: Each ally in the burst gains resist 10 cold until the end of
+  the encounter.  Until the end of the encounter, you are surrounded by
+  freezing wind and snow. At the start of each of your turns, each enemy
+  within 10 squares of you takes 2d6 cold damage, and you slide it 2
+  squares.
+
+============================================================================
+Essence Mage
+Prerequisite: Sorcerer
+
+"I am arcana incarnate, and I know magic’s true form."
+
+Your arcane power is innate. An essential part of your being is bound
+to the magic you use. You are capable of transforming yourself into
+spell energy and warping your body into versatile forms. By learning
+to see inside yourself and reshape your very soul, you transcend the
+limits of mortality.
+
+ESSENCE MAGE PATH FEATURES
+
+    Energy Essence (11th level): If you hit with an arcane attack
+    power that deals more than one type of damage, you deal 1d6 extra
+    damage.
+
+    Essential Action (11th level): When you spend an action point to
+    take an extra action, you gain a +4 bonus to attack rolls with
+    arcane powers until the start of your next turn.
+
+    Essential Resistance (16th level): Whenever you gain resistance,
+    increase that resistance by 3 (or by 4 at 21st level and higher).
+
+Essence Mage Attack 11: Essence of Arcane Blood
+The magic infused in your being bursts from your body, rending your
+  foe with chaotic destruction.
+Encounter        Arcane, Implement ; Varies
+Standard Action      Ranged 20
+Target: One creature
+Attack: Charisma vs. Reflex
+Hit: 3d8 + Charisma modifier damage. Choose two damage types from
+  among acid, cold, fire, force, lightning, necrotic, poison, psychic,
+  radiant, and thunder. The attack deals damage of these two
+  types. Until the end of your next turn, you gain combat advantage
+  against all targets of your arcane attacks.
+
+Essence Mage Utility 12: Essence Form
+Your body vanishes, leaving behind a miasma of rippling, sparking
+  arcane energy.
+Encounter        Arcane
+Minor Action      Personal
+Effect: You become insubstantial until the end of your next turn. If
+  you hit with an arcane power while you are insubstantial, you gain
+  temporary hit points equal to onehalf your level + your Charisma
+  modifier.
+
+Essence Mage Attack 20: Protective Essence
+As you strike out with an explosion of magical force, your body is
+  veiled in swirls of kaleidoscopic color that protect you from attacks.
+Daily        Arcane, Force, Implement
+Standard Action      Close burst 2
+Target: Each enemy in the burst
+Attack: Charisma vs. Reflex
+Hit: 4d6 + Charisma modifier force damage.
+Miss: Half damage.
+Effect: Until the end of the encounter, you gain resist 5 to all
+  damage. Until the end of the encounter, each time you use an arcane
+  power, each enemy adjacent to you takes damage equal to your Charisma
+  modifier.
+
+============================================================================
+
+Elemental Savant
+Prerequisite: Sorcerer (elementalist)
+
+You have grown confident in your ability to shape your chosen element
+to your will. Winds shift and swirl at your least gesture, and flames
+brighten and dance in your presence, eager to answer your call.
+
+    Having mastered the talent of manipulating your element in the
+    world around you, you now seek to understand its secret essence
+    and bind it to yourself.
+
+ELEMENTAL SAVANT PATH FEATURES
+
+    Elementalist Action (11th level): When you spend an action point
+    to take an extra action, the next sorcerer attack power you use
+    before the end of your next turn deals extra damage to one target
+    of the attack. The extra damage equals one-half your level.
+
+    Savant Focus (11th level): You gain a +1 power bonus to attack
+    rolls with powers granted by your Elemental Specialty class
+    feature.
+
+    Savant Power (11th level): You gain an additional sorcerer at-will
+    attack power of your choice.  [ these all pretty much suck ]
+
+    Confer Protection (16th level): While they are adjacent to you,
+    allies share the resistances you gain from your Elemental
+    Specialty class feature.
+
+    Elemental Nature (20th level): You gain a +2 bonus to saving
+    throws against ongoing damage and dazing or stunning effects. You
+    also gain an additional use of elemental form each day, but you
+    can use the power only once per encounter.
+
+Elemental Savant Utility 12: Elemental Form
+With a thought, you force open your connection to the primordial
+  forces. Enemies shrink back as your body disassociates, reforming as
+  an expression of your elemental nature.
+Daily        Arcane, Elemental, Polymorph
+Minor Action      Personal
+Effect: You assume the form of a living mass of your chosen element:
+  wind, flame, water, or loose earth and sand. This form lasts until the
+  end of the encounter or until you end it as a minor action. While in
+  this form, you are insubstantial, you do not need to breathe, and you
+  can’t take standard actions. You can squeeze through any opening at
+  least 1 inch in diameter. In addition, you gain the following benefits
+  based on your chosen element.
+    Air: You have partial concealment and a fly speed of 6.
+    Earth: You have tremorsense 5 and a burrow speed of 5.
+    Fire (Aura, Fire): You activate an aura 1. Any creature that ends
+      its turn in the aura takes 10 fire damage.
+    Water (Healing): You have regeneration 5 while bloodied, and you
+      have a swim speed of 6.
+
+And yup, dicked again --- nothing higher level other than the boosts
+above.
+
+============================================================================
+Speaker of Xaos
+Prerequisite: Training in Arcana
+
+The Speakers of Xaos are a society of sages, wizards, explorers, and
+priests who study the Elemental Chaos. You are a member in good
+standing of this fellowship. The Speakers maintain libraries, small
+colleges, and chapter houses in many elemental domains, including the
+City of Brass and Zerthadlun, and the organization has small chapters
+in various mortal worlds as well.
+
+    The Speakers have no great purpose beyond a shared interest in the
+    magic, secrets, and phenomena of the Elemental Chaos. Members
+    report interesting discoveries to their fellows, consult with each
+    other on difficult problems, and work together to collect and
+    preserve unusual knowledge or resources pertaining to the Plane
+    Below. Individual members are also free to follow their own
+    desires regarding whether to share information or respond to calls
+    for assistance from their fellows. The only rule is to treat your
+    colleagues as you would have them treat you.
+
+SPEAKER OF XAOS PATH FEATURES
+
+    Xaos Action (11th level): When you spend an action point to take
+    an extra action, you can widen the effect of the next cold, fire,
+    lightning, or thunder attack you make before the end of your next
+    turn. Choose to either add one target within range to a melee or
+    ranged attack or increase the size of a burst or a blast by 1.
+
+    Xaos Lore (11th level): You gain a +1 bonus to attack rolls
+    against creatures that have the elemental origin, and such
+    creatures take a -1 penalty to saving throws against effects you
+    create.
+
+    Power of Xaos (16th level): When you deal damage with a cold,
+    fire, lightning, thunder, or elemental attack, reroll any damage
+    die that results in 1 until you get a 2 or higher.
+
+Speaker of Xaos Attack 11: Elemental Durance
+You shape the elemental energy of an attack into a temporary prison.
+Encounter        Elemental, Varies
+Free Action      Special
+Trigger: You hit an enemy with a cold, fire, lightning, or thunder
+  attack.
+Effect: You push the enemy 1 square. If it moves before the end of its
+  next turn, it takes 3d10 damage of the type dealt by the triggering
+  attack.
+
+Speaker of Xaos Utility 12: Repel Elements
+Your mastery of the elements allows you to inscribe a ward against
+  energy of a particular type.
+Encounter        Elemental, Zone
+Minor Action      Close burst 1
+Target: Each elemental enemy in the burst
+Effect: You must push each target 1 square. The burst then creates a
+  zone that lasts until the end of your next turn. Elemental enemies
+  cannot willingly enter the zone, and you and each ally in the zone
+  gain a +2 power bonus to all defenses against attacks that deal cold,
+  fire, lightning, or thunder damage, as well as the attacks of
+  elemental enemies.
+
+Speaker of Xaos Attack 20: Elemental Chains
+The residue of your elemental attacks erupts in light and color,
+  forming chains that wrap around your foe.
+Daily        Elemental, Varies
+Free Action      Special
+Trigger: You hit one or more enemies with an attack dealing cold,
+  fire, lightning, or thunder damage.
+Effect: Each enemy you hit with the triggering attack is restrained
+  and takes ongoing 15 damage of the type dealt by the triggering attack
+  (save ends both). Each enemy you missed with the triggering attack is
+  immobilized until the end of your next turn.
+
+============================================================================
+Dusk Oracle
+Prerequisite: Training in Insight and Religion
+
+The spirits of the dead hold the accumulated lore of all creatures
+that once lived. Through the art of the dusk oracle, you have learned
+to call forth the ephemeral shades of the dead to answer questions and
+help you battle your foes. Whether you are a character capable of
+tapping into these endless memories or an empathic mortal called upon
+by the gods, your search for knowledge is guided by the whispers of
+the dead.
+
+DUSK ORACLE PATH FEATURES
+
+    Foreseen Hit (11th level): You gain the foreseen hit power.
+
+    Oracle's Insight (11th level): You can ask the corpse of any
+    intelligent creature a single question and receive an answer. The
+    corpse knows what the creature knew in life and what has occurred
+    near the area where its body fell. The corpse answers truthfully,
+    though sometimes cryptically.
+
+    Predicted Action (11th level): When you spend an action point to
+    make an attack, the attack is against the lowest of each target’s
+    Fortitude, Reflex, or Will. If you spend an action point to take
+    an action that grants an attack to an ally, you can apply this
+    benefit to the ally instead of to yourself.
+
+    Predicted Outcome (12th level): You gain the predicted outcome
+    power.
+
+    Oracular Insight (16th level): While you have combat advantage
+    against an enemy, any resistance it has against your attacks is
+    reduced by 10.
+
+    Foreseen Battle (20th level): You gain the foreseen battle power.
+
+Dusk Oracle Attack 11: Foreseen Hit
+The unseen dead point out the gaps in your opponent’s defenses, even
+  as they suffuse your attack with the dark energy of the Shadowfell.
+Encounter        Cold, Necrotic, Shadow
+No Action      Personal
+Trigger: You make a basic attack or use an at-will attack power
+  against an enemy.
+Effect: The triggering attack targets the lowest of the enemy’s
+  Fortitude, Reflex, or Will. On a hit, the attack deals extra necrotic
+  and cold damage equal to 3 + your Wisdom or Charisma modifier, and the
+  target is slowed until the end of your next turn.
+
+Dusk Oracle Utility 12Predicted Outcome
+Sifting through the whispering voices of the spirits that surround
+  you, you find one with expertise in the task at hand.
+Daily        Shadow
+Minor Action      Personal
+Effect: Until the end of your next turn, you gain a power bonus to
+  skill checks with one chosen skill. The bonus is equal to your Wisdom
+  or Charisma modifier.
+Sustain Minor: The effect persists until the end of your next turn.
+Sustain Standard: The effect persists until the end of your next turn,
+  and you can choose a new skill.
+
+Dusk Oracle Attack 20: Foreseen Battle
+A torrent of shadow pierces your opponent to the soul, feeding you
+  insight that you use to guide your allies.
+Daily        Implement, Necrotic, Shadow
+Standard Action      Ranged 10
+Target: One creature
+Attack: Wisdom or Charisma vs. Fortitude, Reflex, Will. You make one
+  attack roll. If it hits at least one of the three defenses, the attack
+  hits.
+
+Hit: 3d10 + Wisdom or Charisma modifier necrotic damage. If you hit at
+  least two defenses, the target takes a -2 penalty to attack rolls
+  (save ends). If you hit all three defenses, the target is also
+  weakened (save ends all).
+Miss: Half damage.
+

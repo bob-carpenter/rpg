@@ -1,0 +1,32 @@
+Aries Aristede
+------------------------------------------------------
+XP: 0
+
+Fight: 30 (remarkable)
+Agil:  20 (excellent)
+Str:   20 (excellent)
+Endur: 75 (monstrous)
+Reason: 10 (good)
+Intuit: 10 (good)
+Psyche: 20 (excellent)
+
+Height: 5'3", weight: 120lbs
+
+Health: 145
+Karma: 70
+Popularity: 10 (good) / 10 (good)
+Resources: 6 (typical)
+
+Powers
+  * Absorb Slugfest (body defense): 30 (remarkable)
+  * Energy Reflection (energy control): 30 (remarkable)
+  * Super Speed:  6 (typical -> 30, remarkable when absorbing slugfest)
+
+Talents
+  * physics
+  * computers
+
+Cooks/waits/buses at Placo's diner in Greektown
+
+
+Health: -50

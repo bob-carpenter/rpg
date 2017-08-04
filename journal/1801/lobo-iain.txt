@@ -1,0 +1,84 @@
+LOBO IAIN        Werewolf
+======================================================================
+(Walks with ...)
+
+DEX: 15 (+1)
+SPD: 18 (+3)
+STR: 15 (+1)
+CON: 14 (+1)
+MRK: 11
+PER:  9
+INT:  9
+WILL: 14 (+1)
+CHA: 14 (+1)
+ACU: 18 (+3)
+
+INIT: +2
+PDC: 1d8
+CM: 5
+ME: +5
+FI: 0
+MI: 0
+THR: 0
+
+HPS: 63 (32) (48)
+
+ACT: 4 (3)
+
+Abilities:
+* 9 phases to transform
+
+* 30' night vision
+
+* Blood-Curdling Howl:
+  The Beast's baleful cry freezes the marrow of
+  his victim's bone, paralyzing them with fear.
+  The victim is aware of his surroundings, but is
+  powerless to act.  Any attack will free the
+  victim from the grip of fear.  One CRR is made for
+  all potential victims, but multiple Duration rolls
+  can be made.  Once a victim has been affected by
+  the Beast's cry, they are rendered immune to future
+  use.  
+  CRR: CHA vs. WILL or freeze
+  Zone: CHR + LVL feet
+  Duration: 7 + 1d6 + level phases
+
+* Fury of the Beast
+  There's nothing more dangerous than a wounded animal and
+  so it is with the Beast.  Once Seriously Wounded his
+  PDC increases one class and he gains a Damage Bonus equal
+  to his Character Level.  In addition, he may continue fighting
+  until -CON hit points in damage, at which point the Beast
+  collapses and returns to his Human form with 0 HP.  If the
+  Beast goes below -CON HP, he returns to Human form with the negative
+  HP Plus his Beastial CON.  When Seriously Wounded, the Beast must
+  make a Will save to keep from attacking Friend and Foe alike.
+
+* Savage attack
+  After a bite, STR vs. STR roll for additional 1d8
+
+* Prone combat (fight on all 4s)
+
+Claws:  Flex: 4    Damage: 1d6 + 1d8 (wdc 1d6 + pdc 1d8)
+Fangs:  Flex: 4    Damage: 1d8 + 1d8 (wdc 1d8 + pdc 1d8)
+
+[charge attack & pounce]
+[speed attack]
+[strength-based attack]
+
+
+Weapon in Hand  |  Flex   Damage
+------------------------------------------------------
+CLAWS   (4)     |   5    d6+d8
+FANGS   (4)     |   5     2d8 (savage, +1d8, str vs. str)
+
+(flying attack?)
+
+Basic defense
+-------------
+AC: 8 (quality cloak: +2, wolf totem: +1, parasite beast: +3, fur: +2)
+Proof: 3
+
+HPS: 20 (lose 16 again when go back if over)
+
