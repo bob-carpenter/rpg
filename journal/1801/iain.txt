@@ -2,14 +2,14 @@ IAIN McKEWAN, Occultist (White Skinwalker)              LEVEL: III
 ==================================================================
 XP 22,260
    (bank 530)
-Karma 22
+KARMA 22
 
 STR: 11
 DEX: 13 (+1)
 CON: 9
 INT: 17 (+2)
 WILL: 14 (+1)
-CHR: 14 (+1)  
+CHR: 14 (+1)
 
 SPD: 17 (+3)
 MRK: 11
@@ -31,189 +31,150 @@ HEAL RATE: 1
 QI: 45 (22) (33)
 CAST BONUS: +3
 
-SURGERY: d4 + 5
+Training
+--------
+PISTOL  1
+SWORD  3
 
-Superior Broadsword     Flex:     6   (+2 superior; +3 level; +1 ME)
-                      Damage:   1d6 + 1d7 (WDC: 1d7 + PDC: 1d6)
-
-Superior Saracen blade     WDC 1d8; +2 avail
-
-Quality Pistol        Flex: 4 (+1 quality, +1 level, +2 FI) 
-                      Damage: 4d6
-
-Armor:  +2 quality cloak, +1 wolf totem, +3 parasite beast (+3 proof, too)
-        +1 ninjutsu due to elven mending
-
-Saves:  ALL: +2 (level)
-        dex +1 (wolf moccasins)
-        magic: +1 (wolf totem)
-        conceal: +1 (quality holster; also iajitsu+1)
-        cast: +1 (talisman)
-
-Trained
-----------
-Pistol: 1
-Sword: 3
-
-Knowledge (6: 800;  4: 700)
+Knowledge
 ---------
-Metaphysics: 5
-Medicine: 2 (level 1,  +1 authority)
-Chemistry: 1
-Natural Philosophy: 3
-Symbols/signs/rituals: 3
-Orders/societies: 3
+METAPHYSICS  5
+MEDICINE  1 (+1 authority = 2)
+CHEMISTRY  1
+NATURAL PHILOSOPHY  3
+SYMBOLS / SIGNS /RITUALS  3
+ORDERS / SOCIETIES  3
 
-
-Talent (2nd:800; 3rd:800; 5th: 900)
+Talent
 ------
-Espionage 4
-Ninjitsu 1  (silently and no trace)
-Mimicry 3
-Navigation (Seamanship): 1
+ESPIONAGE  4
+NINJITSU  1
+MIMICRY  3
+NAVIGATION (Seamanship) 1
 
-Skilled At (2: 800; 6: 1000)
-----------
-Surgery 5
-Mechanic 2
-Cunning Works 2
-Locksmithing 1 (Dr. Manticore's book)
+Skills
+------
+SURGERY 5
+MECHANIC  2
+CUNNING WORKS  2
+LOCKSMITHING  1
 
-Spells (2nd: 900; 5th: 2000)
-----------
-Deflection Field (1) : +4 (+5 w. Talisman)
-   +2 ward               
-Deform (2) : +2 (+3 w. talisman)
-   range: 9 squares
-Detect Magick (1) : +4 (+5 w. Talisman)
-   range: 9 squares
-Insinuate (1) : +1 (+2 w. talisman)
-Magick Missile (4) : +7 (+8 w. talisman)
-   range: 18 squares
-   damage: 6d6
-Recktify (1) : + 4 (+5 w. talisman)
-  range: 1 square
-Sonic Wave Manipulation (1) : +4 (+5 w. talisman)
-  range: 15 squares
-Sonic Flux (1) : +4 (+5 w. talisman)
-  zone: 1 square
-  range: 2 squares
-Shockwave (1) : +4 (+5 w. talisman)
-  zone: 3 squares
-  range: 4 squares
-
-[Ignex -- light or turn off]
-
-[Unrecognize: met you forget me for 24hours]
 
 Languages
 ---------
-English   Native/Lit
-Gaelic    Native/Lit
-French    Fluent/Lit
-Latin     Fluent/Lit
-Greek     Lit
-Arabic    Lit
-Proto-Algonquin Hand Signal  Basics
-Flash     Basic
+ENGLISH   Native/Lit
+GAELIC    Native/Lit
+FRENCH    Fluent/Lit
+LATIN     Fluent/Lit
+GREEK     Lit
+ARABIC    Lit
+PROTO-ALGONQUIN HAND SIGNALS  Basics
+FLASH     Basics
 
 Baggage Mundane
 ------------------------------------------------------
-[pocketwatch with compass was pickpocketed]
-[Brilliam's puzzle lock silver manacles, Kempf dwarven rune
- reinforcement]
-[Quality sword cane, ash shaft, short sword (+1 off);
- w. narrow stilleto/plug bayonet (+1 off), club (+1 off, 1d6 damage)]
-Superior Broadsword, basket hilt (from Cox's lair): WDC d7
-Spyglass -- Leonardo Semitecolo of Veneto, 8" collapsed, 22" extended
-Basic surgeon kit
-Small money purse
-Portable writing desk w. straps, paper, obfuscating sealing wax
-24 quick match/seal (acid)
-Quality cloak (+2 AC) w. (space for 4 gold sovereigns sewn in)
-Superior broadsword (from rack in Cox's hangout) (+2 off, 1d7 damage)
-Orc, orco-bugbear, bugbear ears from battles as the Ottawans do
-Quality Wolf moccasins from Black Wolf's Wife (+1 save dex/silent)
-jeweler's loup (quality)
-Small strong box from Q
-quality cloak, mitril insets (from Q), defnese 2
-  - 2 beads --- light and burn through lock
-
-
-Baggage Natural
-------------------------------------------------------
-Kobold poison (16 intensity paraylytic); pine tar or vaseline [3]
-Dragodile caustic sack juice (bile, 17 intensity; 3 instances)
-One quality AN IX Pistol (+1) & 1 quality holsters (extra +1 conceal)
-Second quality french pistol (+1)
-
+SYPGLASS
+  Leonardo Semitecolo of Veneto, 8" collapsed, 22" extended
+MONEY PURSE w. a dozen silvers and some copper
+PORTABLE WRITING DESK
+  w. straps, paper, obfuscating sealing wax
+LIBRARY
+  * Dr Manticore's Book of Voodo
+      symbolic loas, Haitian spirits, and locksmithing
+  * Polynesian Tatto Book
+      related to Jugdish's Northstar
+QUICK MATCH/SEAL
+  acid (24)
+QUALITY WOLF MOCCASINS
+  save dex +1
+  move silently +1
+  from Black Wolf's Wife
+QUALITY JEWELER'S LOUP
+STRONG BOX
+  small, from Q
+MEDICAL and SURGERY KIT
+  secret compartments
+    poultices --- dried moss in bundles (2d4 heal potions each)
+  silken embroidery thread & silk shirt bandages
+  medical sutures, surgical tubing, clamps
+  tongs, scalpels, bonesaw, lancets, needles
+  laudanum and leather bit
+QUALITY HOLSTER
+  conceal +1
+QULITY AN IX Pistol
+  quality +1
+QUALITY FRENCH PISTOL
+  quality +1
 
 Baggage Arcane
 ------------------------------------------------------
-Dr. Manticore's Voodoo Book (symbolic loas, Haitian spirits)
-Wolf totem -- single tooth on leather thong: AC +1, +1 save vs. magic
-Sabretooth tiger tooth pulled from history
-Elven talisman to soothe the savage beast (sleepwalk w/o it)
-Beast -- Grey metallic jumpsuit feels like fabric, conforms to body, living
-Gold Hibernian Buckle -- age before ours, gifr from Stands-on-Dry-Land
-   (+1 success casting for stored spell)
-Elemental pepperbox pistol (fire left; orcish knockoffs)
-test tube of man-thing swamp beast
+ELVEN TALISMAN
+  soothes savage beast --- sleepwalk without it
+GOLD HIBERNIAN BUCKLE
+  from past age, gift from Stands-on-Dry-Land
+  cast +1 (with stored spell)
+PEPPERBOX ELEMENTAL PISTOL
+  orc fire charge only one left
+TEST TUBES WITH SAMPLES
+  man-thing swamp beast
+  orc, orco-bugbear, and bugbear ears (Ottawa)
+  sabretooth tiger tooth (from past)
+  KOBOLD POISON (3)
+    16 intensity paraylytic
+    consistency of pine tar or vaseline
+  DRAGODILE SACK JUICE (3)
+    17 intensity bile
+  GYMSUM WEED
+    induces trance
 
-Ganesh gifted: +1 surgery, +1 medicine, + 1 nat. philosophy
+Spells
+------
+  [Ignex -- light or turn off]
+  [Unrecognize: met you forget me for 24hours]
 
-Notes
------
-* 1st level in signs/symbols from Polynesian tattoo book related to
-  guy who did Jugdish's Northstar tatoo
-* Skimmed Cox's "Secrets of Automata" and may recall later
-* Read history of crusades, Templars, etc. in Library of Congress 
-  for level in orders
-* Mordante Shroud, 1520 Koln -- Gieuseppe the tinkerer's boss
-* Black wolf tribe of Ottawa w. shapeshifters trained in wolf control,
-  and crash course in mysticism for +1 signs/symbols/rites, 
-  Stands-on-Dry-Land helped
-* Smoke gymsum weed and go into trance
-
-MAGIC
-											
+Deflection Field (1) : +4 (+5 w. Talisman)
+  +2 ward
 DEFLECTION FIELD	Vital Forces/Minor
-Level				
-Difficulty	14	
-Zone of Effect	Self			
-Cost	Effect +1 pt per phase			
-Casting Time	8 phases	
-Duration of Effect	Caster's Discretion	
-Manifestation	Instant	Range	Self	
+Level (1)
+Difficulty	14
+Zone of Effect	Self
+Cost	Effect +1 pt per phase
+Casting Time	8 phases
+Duration of Effect	Caster's Discretion
+Manifestation	Instant	Range	Self
 The Caster can create an energy field around his body that causes
 physical objects to deflect. Attackers suffer a -(1d4+lvl) modifier
 when using melee weapons or projectiles. The field does not protect
 against energy based attacks or Magick. The field travels with the
 Caster.
-											
+
+Deform (2) : +2 (+3 w. talisman)
+   range: 9 squares
 DEFORM		Material World/Minor
-Level				
+Level
 Difficulty	Resistance
-Zone of Effect	Single Object			
-Cost	Resistance			
-Casting Time	(Resist.)phases	
+Zone of Effect	Single Object
+Cost	Resistance
+Casting Time	(Resist.)phases
 Duration of Effect	Single Event
-Manifestation	1 Turn	
-Range	(1/2 Will)ft	
+Manifestation	1 Turn
+Range	(1/2 Will)ft
 The Caster has the power to deform matter. He has limited control over
 how the material alters it's shape, but can specify: bend left/right,
 toward/away, along vertical/horizonal axis, diagonally. If the Cast is
 a success a d20 is rolled, the higher the roll the closer the new form
 is to the Caster's intent.
-											
+
+Detect Magick (1) : +4 (+5 w. Talisman)
+   range: 9 squares
 DETECT MAGICK		Spiritual Realm/Minor
-Level				
+Level
 Difficulty	12
 Zone of Effect	See Description
-Cost	8			
+Cost	8
 Casting Time	12 phases
 Duration of Effect	Single Event
-Manifestation	Instant	
+Manifestation	Instant
 Range	(1/2 Will)ft
 The Caster can sense if an object or area produces an Occult
 emmination. The Caster has a limited ability to determin the strength
@@ -224,13 +185,14 @@ object or one hex per Lvl. Some objects or locations may have been the
 subject of spells meant to conceal their magical nature in which case
 the GM may increase the Difficulty.
 
-INSINUATE		Mortal Sphere/Minor			
-Level				
+Insinuate (1) : +1 (+2 w. talisman)
+INSINUATE		Mortal Sphere/Minor
+Level
 Difficulty	Subject's Will	Zone of Effect	Individual
-Cost	Subject's Will			
-Casting Time	2 Turns	
+Cost	Subject's Will
+Casting Time	2 Turns
 Duration of Effect	Single Event
-Manifestation	Instant	
+Manifestation	Instant
 Range	Conversation
 The Caster can influence or "nudge" a Subject to perform a specified
 action. The Subject will perform the act and remember doing so without
@@ -239,118 +201,105 @@ modify the Difficulty of the spell based on the Subject's resistance
 to the action or feelings toward the Caster. This modifier is added to
 cost of casting.
 
+Magick Missile (4) : +7 (+8 w. talisman)
+   range: 18 squares
+   damage: 6d6
 MAGICK MISSILE		Spiritual Realm/Minor
-Level				
-Difficulty		
-Zone of Effect	Individual			
-Cost	1/2 pt. per pt. of damage			
-Casting Time	7 Phases	
+Level
+Difficulty
+Zone of Effect	Individual
+Cost	1/2 pt. per pt. of damage
+Casting Time	7 Phases
 Duration of Effect	Single Event
-Manifestation	Instant	
+Manifestation	Instant
 Range	[Will+ Lvl] Hexes
 The Caster focuses a charge of Qi energy and projects it at a foe. To
 determine "To Hit" treat Will as Mrk and use Casting Bonus as a
 modifier. If the Caster hits 2d4 + 1d4 per Lvl is inflicted. If the
 Caster misses two Qi points are expended.
-									
+
+Recktify (1) : + 4 (+5 w. talisman)
+  range: 1 square
+RECKTIFY
+
 REVIVE		Mortal Sphere/Minor
-Level			
+Level
 Difficulty	13
 Zone of Effect	Individual
-Cost	10		
+Cost	10
 Casting Time	8 phases
-Duration of Effect	NA						
-Manifestation	Instant	
-Range	Touch	
+Duration of Effect	NA
+Manifestation	Instant
+Range	Touch
 The Caster can negate the effects of "Reeling", "Dazed", "Stunned",
 unconciousness, "Fatigued", and "Seriously Wounded".
 
+Sonic Wave Manipulation (1) : +4 (+5 w. talisman)
+  range: 15 squares
 SONIC WAVE MANIPULATION		Vital Forces/Minor
-Level			
-Difficulty	13	
+Level
+Difficulty	13
 Zone of Effect	1 Hex per Lvl
-Cost	5+1/2 pt per phase		
-Casting Time	14	
-Duration of Effect	Caster's Discretion						
+Cost	5+1/2 pt per phase
+Casting Time	14
+Duration of Effect	Caster's Discretion
 Manifestation	Instant
-Range	(Will)ft+1Hex per Lvl	
+Range	(Will)ft+1Hex per Lvl
 The Caster can alter the length of soundwaves as well as their
 direction. The Caster can focus sound creating a parabolic mic to
 eavesdrop or "throw" sounds to make them seem to come from another or
 multiple directions. The Caster can also raise or lower the pitch of
 sounds or distort sound waves to create various acoustic effects.
-									
+
+Sonic Flux (1) : +4 (+5 w. talisman)
+  zone: 1 square
+  range: 2 squares
 SOUND FLUX		Vital Forces/Minor
-Level			
+Level
 Difficulty	14
 Zone of Effect	1 Hex per Lvl
-Cost	See Discription		
+Cost	See Discription
 Casting Time	15 phases
-Duration of Effect	Caster's Discretion						
+Duration of Effect	Caster's Discretion
 Manifestation	Instant
-Range	(1/2 Will)ft	
+Range	(1/2 Will)ft
 The Caster can reduce/increase all sound within 1 Hex per Spell Lvl by
 one sound lvl per Spell Lvl.Cost: 1pt. per Hex affected+1pt. per sound
 lvl altered+1pt per phase maintained.
 
-SHOCKWAVE					
-									
-
-Armor:  +1 clothes, +2 quality cloak, +1 wolf fang totem, +3 parasite
-        beast (+3 beast proof, too)
-        7 AC, 3 Proof
-
-Weapon in Hand  |  FLEX     Damage 
------------------------------------
-BROADSWORD      |   6      d6+d7   (+5 to hit)
-Smite 2                    +4
-
-     ALLOCATION:  HIT:       5 + 0
-                  DAMAGE:    0 + d6 + d7 (+5 w. smite)
-                  AC:        2 + 7
-                  PROOF:     0 + 3
-
-PISTOL          |   2       4d6
-
-QI              HPs                       Beast-HPs
---------        ----------------          --------------------
--16              -7                            -4
+Shockwave (1) : +4 (+5 w. talisman)
+  zone: 3 squares
+  range: 4 squares
+SHOCKWAVE
 
 
-2* WILL + LVL + CAST_BONUS + SPELL_LEVELS
-QI (47):
-TALISMAN (QI - WILL = 33): 
-SCRATCH(14) 
-ARCANUM (dead pirate packing): 12
-        (primo stuff from San Domingo): 20
-        (Q): 10
-
-HPS: -4
-
-Med kit w. secret compartment: Bandages: 
-  2 poultices --- dried moss in bundles (2d4 heal potions each)
-  miscellaneous kit (lancet, needle) 
-  silken embroidery thread & silk shirt bandages: 13 pts
-  medical sutures, bandages, clamps: 25 pts
-
-ARMOR  defnese +7, proof +3
+ARMOR  defense +7, proof +3
 -------------------------------------------------------------
-QUALITY CLOAK w. ELVEN ALTERATIONS
-  defense +2 (mitril plates)
+QUALITY CLOAK w. ALTERATIONS
+  defense +2 (mitril plates sewn in)
   concealment +1 (elven alterations)
   elven cord tie
   4 gold sovereigns sewn into lining
+  decorative beads on drawstrings
+    wine color when blended --- keep hands away
+    1 x 1' sealer (seal door jamb, gum up lock)
+    can string together
 WOLF FANG TOTEM
-  +1 defense
+  single tooth on leather thong
+  defense +1
+  save vs. magic +1
 LIVING BEAST JUMPSUIT
   defense +3
   proof +3
   chameleon powers
   100 total proof and it dies, but also regenerates
+  Grey metallic jumpsuit feels like fabric
+  conforms to body
+  alive
 QUALITY CLOTHING
   defense +1
 
-Weapons
+WEAPONS
 -------------------------------------------------------------
 SUPERIOR SARACEN BLADE (flex +6, damage d6  + d8 + d4 + 3)
   flex: melee +1, level +3, quality +2
@@ -359,7 +308,7 @@ SUPERIOR SARACEN BLADE (flex +6, damage d6  + d8 + d4 + 3)
 QUALITY FRENCH PISTOL (avail +4, damage 4d6)
   avail: quality +1, level +1, firearms +2
   damage: 4d6 (5d6 w. dwarven powder)
-  
+
 
 IAIN LIVE
 =============================================================
@@ -370,21 +319,45 @@ HPS (47): 47
 QI(47)
   Talisman(33)  33
   Scratch(14)   14
-Arcanum         12  (dead pirate packing)
+  Arcanum(-)    12  (dead pirate packing)
                 20  (primo San Domingo)
 		10  (handler---Q)
+
+MED KIT
+  2d4 poultices     2 poultices
+  bandages         38 pts
+
+BASIC SURGERY: d4 + 5
 
 CAST BONUS: +3
 
 SMITES
   sword 6
 
-SAVES (wolf moccasins, wolf totem, quality holster, iajitsu for conceal, level)
-  ALL: +2,  dex +1,  magic +1, conceal +1, cast +1
+BONUSES
+  ALL saves: +2 (level)
+  dex +1 (wolf moccasins)
+  magic: +1 (wolf totem)
+  conceal: +1 (elven altered cloak; quality holster +1 for gun)
+  cast: +1 w. stored spell (Hibernian buckle)
+
+SAVES (level, wolf moccasins, wolf totem, quality holster,
+       elven-modified cloak, level)
+  ALL: +2,  dex +1, magic +1, conceal +2, cast +1
 
 SPELLS
+  Deflection Field, Deform, Detect Magick, Insinuate,
+  Magick Missile, Recktify, Revive, Sonic Wave Manipulation,
+  Sonic Flux, Shockwave
 
-MELEE STANCE (armor + saracen blade)
+BLADE STANCE DD (armor + saracen blade)
+  defense +13, proof +3, offense +0, damage d4 + d6 + d8 + 3
 
+BLADE STANCE D (armor + saracen blade)
+  defense +9, proof +3, offense +4, damage d4 + d6 + d8 + 3
 
-RANGED STANCE (armor + 2 quality pistols [French, AN IX])
+BLADE STANCE O (armor + saracen blade)
+  defense +7, proof +3, offense +6, damage d4 + d6 + d8 + 3
+
+PISTOL STANCE (armor + French and AN IX pistols)
+  defense +7, proof +3, offense +3, damage 4d6 (+1d6 dwarf powder)
