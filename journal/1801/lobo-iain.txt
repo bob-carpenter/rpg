@@ -8,7 +8,7 @@ STR: 15 (+1)
 CON: 14 (+1)
 MRK: 11
 PER:  9
-INT:  9
+REA:  9
 WILL: 14 (+1)
 CHA: 14 (+1)
 ACU: 18 (+3)
@@ -39,7 +39,7 @@ Abilities:
   all potential victims, but multiple Duration rolls
   can be made.  Once a victim has been affected by
   the Beast's cry, they are rendered immune to future
-  use.  
+  use.
   CRR: CHA vs. WILL or freeze
   Zone: CHR + LVL feet
   Duration: 7 + 1d6 + level phases
@@ -82,3 +82,30 @@ Proof: 3
 
 HPS: 20 (lose 16 again when go back if over)
 
+Attack: character level + ME = 8
+
+LOBO IAIN LIVE
+======================================================================
+INIT +2
+
+HPS (63):  63  -21
+  [lose 16 on return to Iain]
+
+BONUSES
+  ALL saves: +3 (level)
+  magic: +1 (wolf totem)
+
+SPECIAL
+  HOWL OF BEAST: bloodcurdling cry (cha 15(+1)  vs. will or freeze
+  SERIOUSLY WOUNDED: d10 +3 PDC, will save to avoid attack friend
+
+ATTACK STANCE
+  defense +8, proof +3 offense +8,
+  claws d6 + d8
+  bite 2d8 + (1d8 savage on STR save)
+
+  seriously wounded: d6 + d8 + 3
+
+
+DEFENSE STANCE
+  defense +13, proof +3, offense +3, damage 2d8 (+18 save on str vs. str)

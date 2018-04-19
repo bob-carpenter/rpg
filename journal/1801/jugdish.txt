@@ -1,22 +1,23 @@
 JUGDISH, Devotee of Ganesh
 LEVEL: III
 ==================================================================
-XP:  23,030   (to spend 1,930)
-KARMA: 19
+XP:  26,845  (bank 445)
+KARMA: 25
 
 STR:  15 (+1)
 DEX:  18 (+3)
 CON:  16 (+2)
-INT:  11
+REA:  11
 WIL:  18 (+3)
 CHR:  14 (+1)
 
 SPD:  14 (+1)
 MRK:   9
-PER:   9
+PERC:   9
 ACU:  12 (+1)
 
-ACT: 5 (2)
+ACT: 5
+MOVE: 2  (2 5' squares/phase)
 
 INIT: +1
 MELEE: +5
@@ -35,15 +36,16 @@ Abilities
 -----------------
 RITUAL HEALING: d4 + 3
 
+
 Training (2nd: 900, 3rd: 1K, 4th: 1200)
 -----------------
 MACE (ritual +1) : 4 (+1 = 5)
-AXE: 2
+AXE: 3
 FIREARMS, MUSKET: 1
-TWO-HANDED FIGHTING: 2  (lvl 3: 1K)
+TWO-HANDED FIGHTING: 3
+IAIJITSU: 1
 
   [thrown weapons]
-  [iajitsu pass through attack]
 
 Talents
 --------------------------------
@@ -51,18 +53,21 @@ ACROBATICS: 4
 ESCAPE: 1
 RIDING: 1
 SWIMMING: 1     (from Ganesh)
+CLIMBING: 1
+
+(NINJITSU: )
 
 Skills
 --------------------------------
 FORGERY: 1
 FARMING/LIVESTOCK: 1
-SEAMANSHIP (`foremast): 2
+SEAMANSHIP (`foremast): 3
 
 Knowledge
 -----------------
-THEOLOGY: 2
+THEOLOGY: 4
 SYMBOLS, SIGNS, RITUALS: 1
-ETIQUETTE: 1
+ETIQUETTE: 2
 
 Languages
 -----------------
@@ -77,6 +82,8 @@ Spells
 -----------------
 AWE (3) : +3 (mod?)
   cast time: 10 phases
+  crr: add proficiency (+3) to charisma
+       one roll vs. everyone
   cost: 5 + 1 per target + targets' will bonuses
   zone: 1 target/level
   range: will/2 + level
@@ -114,16 +121,19 @@ LEVITATE (2) : +6
   cost: small object: 2 (hover 1/2 per action)
         self: 5 + 1/2 pt / foot  (hover 1 per action)
          large:  10 + 1 pt / foot  (hover 2 per action)
-         very large: 20 + 2 pt / foot  (hover 4 per action)
+
+very large: 20 + 2 pt / foot  (hover 4 per action)
 
 REACH OF GANESH (1): +5
   range: 2 squares
   damage: d8
+  casting roll: d20 + cast bonus + proficiency >= 11
   cost: 5 + attacks * 2
+  [at end of attack, make second attack roll]
 
 SMITE (3) : uncontested
   range: touch
-  curation: caster's discretion
+  duration: caster's discretion
   difficulty: crit miss fizzles
   effect: add  d4 + level to damage class
   cost: 2 + 2 per attack
@@ -136,7 +146,7 @@ SUMMON BEAST (1) : +5
   effect: call animal at random or specific to him; beast only
           compelled to approach
 
-[future plans: DEFENSELESS; CLOAK; DIVINE LOCATION]
+[future plans: DEFENSELESS; CLOAK; DIVINE LOCATION; GANESH stuff]
 
 Baggage Mundane
 -------------------------------------------------------------
@@ -148,8 +158,26 @@ concealed money belt (50 spanish silver)
 Unused mundane baggage
   * Hand and a Half Axe (WDC: 1d7)
   * weapons --- scimitar Toledo steel
-  * Shawnee Tomahawk (+2 avail (hit/damage), WDC: 1d6); smoke out of it
+  * Dwarven handaxe
   * Quality Cloak cloaks: decorative beads on drawstrings
+Incendiary Cable, 3' (1' burns through 1.5" steel)
+Orcseeker (tear off end, pour into muzzle, drop rocket down barrel)
+  -- illuminate 50' area for 12 phases
+  -- orcish blood fluoresce for 12 phases
+Wraith (looks like cherry bomb) * 3
+  -- whooshing sound, black smoke, bright purple
+     flash (purple colored)
+  -- 15' radius
+  -- wraith comes out of eruption, wails and flies up
+Moonvision snuff box
+  -- rub on eyes for moonvision for 1 hour
+Flask in case with strap
+  -- 4 * beard stiffener (dwarven tonic---8 pts, continuing to temp HPs)
+Vitrifying agent
+  -- red flask and blue flask, swab on end
+  -- always apply red first, then blue
+  -- 1' x 1' cube
+
 
 Baggage Arcane
 -------------------------------------------------------------
@@ -161,6 +189,7 @@ MASTODON TUSK TALISMAN
   holds spells
 BOSUN'S WHISTLE
   calls Sugarfoot; 2 notes to call back, can swim
+
 
 ARMOR  defense +7, proof +3
 -------------------------------------------------------------
@@ -191,8 +220,10 @@ SHAWNEE CLUB (flex +11, damage d4 + d6 + d8 + 3)
   flex: melee +5,  level +5,  quality +1
   damage: wdc d6,  pdc d8,  smite d4 + 3
 
-DWARVEN HANDAXE (flex +9, damage d4 + 2d8 + 3)
-  flex:  melee +5,  level +2,   quality +2
+*** 2H brings CLUB down to +9
+
+SHAWNEE TOMAHAWK (flex +10, damage d4 + 2d8 + 3)
+  flex:  melee +5,  level +3,   quality +2
   damage: wdc d8,  pdc d8,  smite d4 + 3
 
 FOWLING MUSKET (hit +2, damage 5d6 [6d6 dwarven powder])
@@ -204,28 +235,39 @@ JUGDISH LIVE
 ====================================================================
 INIT +1
 
-HPS(54)  54
+HPS(54) -18
+* weapon arm impaired limb
 
 QI(56)
-  Talisman(38)  38
-  Scratch(18)   18
-Arcanum(0)      13
-
+  Talisman(38)   2
+  Scratch(18)    0
+Arcanum(0)       0
+   ogre nail     6
 SMITES
-  Axe 6,  club 5,  musket 6
+  Axe 4,  club, tomahawk
 
 SAVES (northstar plus level plus mammoth's coat)
   ALL +2,  perception: +1, will +1, con: +1, knowledge: +1, cold: +6 proof
 
 SPELLS (casting bonus +4)
-  awe, rectify, dispel magick, eyes of ganesh, heal, karmic blessing,
-  levitate, reach of ganesh, smite, summon beast
+  awe, rectify, dispel magick, eyes of ganesh, heal,
+  karmic blessing, levitate, reach of ganesh, smite,
+  summon beast
 
-MELEE STANCE (armor + shawnee club)
-  defense +11, proof +3, offense +7, damage d4+d6+d8+3
+AXE 1H or 2H (armor + shawnee tomahawk)
+  defense +8, proof +3, offense +7, damage d4 + 2d8 + 3
 
-2-HANDED MELEE STANCE (armor + shawnee club + dwarven handaxe)
-  defense +11, proof +3, offense +4, damage d4+d6+d8+3 / d4 + 2d8 + 3
+CLUB 1H (armor + shawnee club)
+  defense +9, proof +3, offense +9, damage d4 + d6 + d8 + 3
+
+CLUB 2H (armor + shawnee club [+3 / +4])
+  defense +8, proof +3, offense +8, damage d4 + d6 + d8 + 3
 
 RANGED STANCE (armor + fowling musket)
   defense +7, proof +3, offense +2, damage 5d6 (+1d6 w. dwarven powder)
+
+
++ 4 flex
++ +1 defense, they're -2 defense
++ 1-4 primary 5-6 secondary
+fight w. single weapon

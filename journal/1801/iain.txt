@@ -1,13 +1,13 @@
 IAIN McKEWAN, Occultist (White Skinwalker)              LEVEL: III
 ==================================================================
-XP 22,260
-   (bank 530)
-KARMA 22
+XP 26,300
+   (bank 1140)
+KARMA 28
 
 STR: 11
 DEX: 13 (+1)
 CON: 9
-INT: 17 (+2)
+REA: 17 (+2)
 WILL: 14 (+1)
 CHR: 14 (+1)
 
@@ -17,7 +17,6 @@ PERC: 9
 ACU: 17 (+2)
 
 ACT: 4 (3)
-
 INIT: +2
 MELEE: +2
 FIREARM: +2
@@ -38,19 +37,21 @@ SWORD  3
 
 Knowledge
 ---------
-METAPHYSICS  5
-MEDICINE  1 (+1 authority = 2)
+METAPHYSICS  5 (+1 authority = 6)
+MEDICINE  1
 CHEMISTRY  1
 NATURAL PHILOSOPHY  3
-SYMBOLS / SIGNS /RITUALS  3
+SYMBOLS / SIGNS / RITUALS  4
 ORDERS / SOCIETIES  3
+(LORE / LEGENDS / MYTHS)
+(SIGNALS / CIPHERS) 
 
 Talent
 ------
-ESPIONAGE  4
+ESPIONAGE  4 (+2 for reason)
 NINJITSU  1
 MIMICRY  3
-NAVIGATION (Seamanship) 1
+NAVIGATION (Seamanship) 2
 
 Skills
 ------
@@ -58,6 +59,7 @@ SURGERY 5
 MECHANIC  2
 CUNNING WORKS  2
 LOCKSMITHING  1
+TRACKING  1
 
 
 Languages
@@ -70,6 +72,10 @@ GREEK     Lit
 ARABIC    Lit
 PROTO-ALGONQUIN HAND SIGNALS  Basics
 FLASH     Basics
+MUSKEGEE  basic
+ORC       basic
+SPANISH   Fluent/literate
+
 
 Baggage Mundane
 ------------------------------------------------------
@@ -83,6 +89,12 @@ LIBRARY
       symbolic loas, Haitian spirits, and locksmithing
   * Polynesian Tatto Book
       related to Jugdish's Northstar
+  * Habits of the Natives of Florida
+      Jesuit father author
+  * Survey in 1760s of Southern Florida & waterways
+       + some outdated/abandoned Englishs settlements
+       author Roman
+
 QUICK MATCH/SEAL
   acid (24)
 QUALITY WOLF MOCCASINS
@@ -101,7 +113,7 @@ MEDICAL and SURGERY KIT
   laudanum and leather bit
 QUALITY HOLSTER
   conceal +1
-QULITY AN IX Pistol
+QULITY AN IX Pistole
   quality +1
 QUALITY FRENCH PISTOL
   quality +1
@@ -114,14 +126,11 @@ GOLD HIBERNIAN BUCKLE
   from past age, gift from Stands-on-Dry-Land
   cast +1 (with stored spell)
 PEPPERBOX ELEMENTAL PISTOL
-  orc fire charge only one left
+  orc wildcard? charge only one left
 TEST TUBES WITH SAMPLES
   man-thing swamp beast
   orc, orco-bugbear, and bugbear ears (Ottawa)
   sabretooth tiger tooth (from past)
-  KOBOLD POISON (3)
-    16 intensity paraylytic
-    consistency of pine tar or vaseline
   DRAGODILE SACK JUICE (3)
     17 intensity bile
   GYMSUM WEED
@@ -130,7 +139,7 @@ TEST TUBES WITH SAMPLES
 Spells
 ------
   [Ignex -- light or turn off]
-  [Unrecognize: met you forget me for 24hours]
+  [Unrecognize: forget me for 24hours]
 
 Deflection Field (1) : +4 (+5 w. Talisman)
   +2 ward
@@ -185,9 +194,9 @@ object or one hex per Lvl. Some objects or locations may have been the
 subject of spells meant to conceal their magical nature in which case
 the GM may increase the Difficulty.
 
-Insinuate (1) : +1 (+2 w. talisman)
+Insinuate (2) : +1 (+2 w. talisman)
 INSINUATE		Mortal Sphere/Minor
-Level
+Level 2
 Difficulty	Subject's Will	Zone of Effect	Individual
 Cost	Subject's Will
 Casting Time	2 Turns
@@ -201,12 +210,13 @@ modify the Difficulty of the spell based on the Subject's resistance
 to the action or feelings toward the Caster. This modifier is added to
 cost of casting.
 
-Magick Missile (4) : +7 (+8 w. talisman)
+Magick Missile (4) : +5 (+6 w. talisman)
    range: 18 squares
    damage: 6d6
 MAGICK MISSILE		Spiritual Realm/Minor
 Level
-Difficulty
+Difficulty: will save modified by proficiency level (level in the
+   spell) + 1 talisman (
 Zone of Effect	Individual
 Cost	1/2 pt. per pt. of damage
 Casting Time	7 Phases
@@ -221,6 +231,8 @@ Caster misses two Qi points are expended.
 Recktify (1) : + 4 (+5 w. talisman)
   range: 1 square
 RECKTIFY
+  remove one condition
+
 
 REVIVE		Mortal Sphere/Minor
 Level
@@ -309,33 +321,38 @@ QUALITY FRENCH PISTOL (avail +4, damage 4d6)
   avail: quality +1, level +1, firearms +2
   damage: 4d6 (5d6 w. dwarven powder)
 
+NEW LAND PATTERN CAVALRY PISTOL (avail +5, damage 4d6)
+  avail: quality +2, level +1, firearms +2
+  damage: 4d6 (5d6 w. dwarven powder)
 
 IAIN LIVE
 =============================================================
 INIT +2
 
-HPS (47): 47
+HPS (47): -16
 
 QI(47)
-  Talisman(33)  33
-  Scratch(14)   14
-  Arcanum(-)    12  (dead pirate packing)
-                20  (primo San Domingo)
-		10  (handler---Q)
+  Talisman(33)    0
+  Scratch(14)     0
+  Arcanum(5)      0
+     owlbear     10
 
 MED KIT
-  2d4 poultices     2 poultices
-  bandages         38 pts
+  2d4 poultices        0 poultices
+  bandages & sutures  12 pts
+
+SHIP BANDAGES
+  10 pts
 
 BASIC SURGERY: d4 + 5
 
 CAST BONUS: +3
 
 SMITES
-  sword 6
+  sword
 
 BONUSES
-  ALL saves: +2 (level)
+  ALL saves: +3 (level)
   dex +1 (wolf moccasins)
   magic: +1 (wolf totem)
   conceal: +1 (elven altered cloak; quality holster +1 for gun)
@@ -343,12 +360,14 @@ BONUSES
 
 SAVES (level, wolf moccasins, wolf totem, quality holster,
        elven-modified cloak, level)
-  ALL: +2,  dex +1, magic +1, conceal +2, cast +1
+  ALL: +3,  dex +1, magic +1, conceal +2, cast +1
 
 SPELLS
   Deflection Field, Deform, Detect Magick, Insinuate,
   Magick Missile, Recktify, Revive, Sonic Wave Manipulation,
   Sonic Flux, Shockwave
+
+PURE ARMOR: 6
 
 BLADE STANCE DD (armor + saracen blade)
   defense +13, proof +3, offense +0, damage d4 + d6 + d8 + 3
@@ -361,3 +380,10 @@ BLADE STANCE O (armor + saracen blade)
 
 PISTOL STANCE (armor + French and AN IX pistols)
   defense +7, proof +3, offense +3, damage 4d6 (+1d6 dwarf powder)
+
+Huerta's bible (New Testament only), rosary (???), and
+  * leather-bound volume (Spanish and arcane markings)
+    - Gave to Kolancha
+    - cabalistic runes, aztec, latin, spanish, incan
+    - some copies (numeric plus transposition)
+    - Ponce de Leon body of water
