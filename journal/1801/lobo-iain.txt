@@ -66,6 +66,7 @@ Fangs:  Flex: 4    Damage: 1d8 + 1d8 (wdc 1d8 + pdc 1d8)
 [charge attack & pounce]
 [speed attack]
 [strength-based attack]
+(flying attack?)
 
 
 Weapon in Hand  |  Flex   Damage
@@ -73,7 +74,6 @@ Weapon in Hand  |  Flex   Damage
 CLAWS   (4)     |   5    d6+d8
 FANGS   (4)     |   5     2d8 (savage, +1d8, str vs. str)
 
-(flying attack?)
 
 Basic defense
 -------------

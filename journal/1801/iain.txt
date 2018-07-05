@@ -1,8 +1,9 @@
 IAIN McKEWAN, Occultist (White Skinwalker)              LEVEL: III
 ==================================================================
-XP 26,300
-   (bank 1140)
-KARMA 28
+XP 27,130 (bank 260)                            KARMA 28
+
+STR  DEX   CON  REA  WIL  CHR  SPD  MRK  PERC  ACU  ACT  MOVE
+ 11   13     9   17   14   14   17   11
 
 STR: 11
 DEX: 13 (+1)
@@ -44,12 +45,12 @@ NATURAL PHILOSOPHY  3
 SYMBOLS / SIGNS / RITUALS  4
 ORDERS / SOCIETIES  3
 (LORE / LEGENDS / MYTHS)
-(SIGNALS / CIPHERS) 
-
+(SIGNALS / CIPHERS)
+melee
 Talent
 ------
 ESPIONAGE  4 (+2 for reason)
-NINJITSU  1
+NINJITSU  1 [=+dex]
 MIMICRY  3
 NAVIGATION (Seamanship) 2
 
@@ -113,10 +114,12 @@ MEDICAL and SURGERY KIT
   laudanum and leather bit
 QUALITY HOLSTER
   conceal +1
-QULITY AN IX Pistole
+QUALITY AN IX Pistole
   quality +1
 QUALITY FRENCH PISTOL
   quality +1
+
+
 
 Baggage Arcane
 ------------------------------------------------------
@@ -135,11 +138,16 @@ TEST TUBES WITH SAMPLES
     17 intensity bile
   GYMSUM WEED
     induces trance
+  GLUE FROM TREPANNED ORC GLUED TO WALL IN FLORIDA
+    brittle, unknown usages
+
+FLORIDA LIZARDMAN "AXE" BLADES (superior and weapon damage d4)
+
+Moonvision snuff box
+  -- 2 left
 
 Spells
 ------
-  [Ignex -- light or turn off]
-  [Unrecognize: forget me for 24hours]
 
 Deflection Field (1) : +4 (+5 w. Talisman)
   +2 ward
@@ -314,7 +322,7 @@ QUALITY CLOTHING
 WEAPONS
 -------------------------------------------------------------
 SUPERIOR SARACEN BLADE (flex +6, damage d6  + d8 + d4 + 3)
-  flex: melee +1, level +3, quality +2
+  flex: melee +2, level +3, quality +2
   damage: wdc d8, pdc d6, smite d4 + 3
 
 QUALITY FRENCH PISTOL (avail +4, damage 4d6)
@@ -329,17 +337,21 @@ IAIN LIVE
 =============================================================
 INIT +2
 
-HPS (47): -16
+HPS (47): 46
 
 QI(47)
-  Talisman(33)    0
-  Scratch(14)     0
-  Arcanum(5)      0
-     owlbear     10
+  Talisman(33)    33
+  Scratch(14)      4
+  Arcanum
+    distilled     1
+     owlbear      3
+     ogre nail    3
+     displacer beast
+     whiskers     4
 
 MED KIT
   2d4 poultices        0 poultices
-  bandages & sutures  12 pts
+  bandages & sutures  10 pts
 
 SHIP BANDAGES
   10 pts
@@ -349,7 +361,7 @@ BASIC SURGERY: d4 + 5
 CAST BONUS: +3
 
 SMITES
-  sword
+  sword 12
 
 BONUSES
   ALL saves: +3 (level)
@@ -387,3 +399,64 @@ Huerta's bible (New Testament only), rosary (???), and
     - cabalistic runes, aztec, latin, spanish, incan
     - some copies (numeric plus transposition)
     - Ponce de Leon body of water
+
+
+mirror image:  mystic, occult
+  dup image + proficiency; 10' spacing to next image
+  phonies vanish when attacked
+  launch attack vs. them, defense falls by how many copies
+  reshuffle
+
+rebuke: devotee
+  one std. action moving away (may still launch range)
+  modifier minus proficiency plus charisma ABM
+
+confound: occult
+  reason vs. reason ABM plus level to make attack
+  defense minus caster's proficiency level
+
+converse: any caster
+  hold full conversation within conversational distances
+
+miasma:  any caster
+  target make con save to stay within it
+  minuses equal to caster's proficiency
+
+concussive force:
+  project wave of energy and knocks back (or prone)
+
+projectile:
+  fly objects in vicinity at target
+
+blend:
+  chameleon
+
+arcane reversal
+  rebound back on caster
+
+morass
+  mire opponents, str save to move, raises terrain costs
+
+bounce
+  if hit, take 1/2 damage and bounce 10' away
+
+hamper
+  lose their flex points (vs. proficiency)
+
+revulsion
+  con save to attack
+
+envelop
+  membrane of ki to surround subject and weapon
+  extended action to free selves
+  resistance = will plus proficieincy
+  ally can save or cut open
+
+upheaval
+  seismic jolt to cause to fall prone
+
+arcane disarm
+  telekinesis disarm
+
+  [Ignex -- light or turn off]
+  [Unrecognize: forget me for 24hours]

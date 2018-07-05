@@ -1,0 +1,561 @@
+\documentclass[11pt]{article}
+\usepackage[scale=0.875, stdmathitalics=false, stdmathdigits=false]{lucimatx}
+\linespread{1.02}
+
+% alt to lucimatx
+% \usepackage{times}
+% \usepackage{amsmath}
+% \usepackage{amssymb}
+
+\usepackage{graphicx}
+
+\setlength{\paperwidth}{8.5in}
+\setlength{\paperheight}{11in}
+\pdfpagewidth=\paperwidth
+\pdfpageheight=\paperheight
+
+\setlength{\textwidth}{7.5in}
+\setlength{\textheight}{10.1in}
+\setlength{\oddsidemargin}{-0.5in}
+\setlength{\evensidemargin}{-0.5in}
+\setlength{\topmargin}{-0.8in}
+\setlength{\headsep}{0pt}
+
+\def\arraystretch{1.15}
+\raggedbottom
+\sloppy
+
+\newcommand{\proficient}[1]{{\slshape #1}}
+\newcommand{\expert}[1]{{\slshape\bfseries #1}}
+\newcommand{\heading}[1]{{\sc\bfseries #1}}
+\newcommand{\spell}[1]{{\sc\bfseries\large #1}}
+\newcommand{\available}{{\Large $\boxtimes$}\ }
+
+\newcommand{\mycheckbox}{{\Large $\Box$}}
+\newcommand{\checkboxTwo}{{\Large $\Box \, \Box$}}
+\newcommand{\checkboxThree}{{\Large $\Box \, \Box \, \Box$}}
+\newcommand{\checkboxFour}{{\Large $\Box \, \Box \, \Box \, \Box$}}
+\newcommand{\checkboxFive}{{\Large $\Box \, \Box \, \Box \, \Box \, \Box$}}
+\newcommand{\checkboxTen}{\checkboxFive \ \ \ \ \checkboxFive}
+
+\begin{document}
+\pagestyle{empty}
+\noindent
+{\huge\bfseries Iain McEwan, Occultist}
+\hfill
+{\Large Scotsman}
+\hfill
+{\Large Neutral-Good}
+\hfill
+{\Large Level 3}
+\\[-8pt]
+\hrule
+
+\mbox{ }
+\\[6pt]
+\heading{Sex}: Male
+\ \ \ \
+\heading{Height}: 5'\,9''
+\ \ \ \
+\heading{Weight}: 11 stone
+\ \ \ \
+\heading{Hair}: Black
+\ \ \ \
+\heading{Eyes}: Blue
+
+\noindent
+\begin{tabular}[t]{|r|c|l|c|}
+\hline
+\heading{Ability}
+& \heading{Score (Mod)}
+& \heading{Save}
+\\ \hline \hline
+\sc Strength & 11 \ (+0)
+& +3
+\\
+\sc Constitution & 9 \ (+0)
+& +3
+\\ \hline
+\sc Dexterity & 13 \ (+1)
+& +4
+\\
+\sc Speed & 17 \ (+2)
+& +5
+\\ \hline
+\sc Marksmanship & 11 \ (+0)
+& +3
+\\
+\sc Perception & 9 \ (+0)
+& +3
+\\
+\sc Acuity & 17 \ (+2)
+& +5
+\\ \hline
+\sc Reason & 17 \ (+2)
+& +5
+\\
+\sc Will & 14 \ (+1)
+& +4
+\\
+\sc Charisma & 14 \ (+1)
+& +4
+\\ \hline
+\end{tabular}
+\hfill
+\begin{tabular}[t]{|r|c|}
+\hline
+\sc Initiative & d10+2
+\\
+\sc ACT & 4 (3)
+\\  \hline
+\sc Melee & +2
+\\
+\sc Firearm & +2
+\\
+\sc Missile & +0
+\\ \hline
+\sc Melee DC & 1d6
+\\
+\sc Firearm DC & 1d6
+\\ \hline
+\sc Healing Rate & +2
+\\ \hline
+\sc Cast Bonus & +4d
+\\ \hline
+\sc Defense & +7
+\\
+\sc Proof & +3
+\\ \hline
+\end{tabular}
+%
+\hfill
+%
+\begin{tabular}[t]{|r|c|c|}
+\hline
+\sc Experience & \multicolumn{2}{|l|}{27,130}
+\\
+(bank) & \multicolumn{2}{|l|}{560}
+\\ \hline
+\sc Hit Points & 47 & \hspace*{8em}
+\\
+(wounded) & (-35) &
+\\[2pt] \hline
+\sc Qi &  45 &
+\\ (scratch) & (-31) &
+\\[2pt] \hline
+\sc Arcanum & 11 &
+\\[2pt] \hline
+\sc Bandages & 10 &
+\\[2pt] \hline
+\sc Smite, Blade & 15 &
+\\[2pt] \hline
+\sc Karma & 28 &
+\\ \hline
+\end{tabular}
+%
+\\[8pt]
+%
+\noindent
+\begin{tabular}[t]{|r|crl|c|l|}
+\hline
+\sc\bfseries Weapon
+& \sc\bfseries Avail
+& \sc\bfseries Damage
+& \sc\bfseries Type
+& \sc\bfseries Range
+& \sc\bfseries Properties
+\\ \hline\hline
++2 Saracen Blade & +7 & d6 + d8 & piercing & --- &
+\\
++2 New Land Cavalary Pistol & +5 & 5d6 & piercing & & ranged
+\\
++1 French Pistol & +4 & 5d6 & piercing &  & ranged
+\\ \hline
+\end{tabular}
+%
+\\[12pt]
+%
+\begin{tabular}[t]{|r|c|c|c|c|}
+\hline
+%
+\heading{Knowledge} & \heading{Level} & \heading{Mod} & \heading{Basis} & \heading{XP}
+\\ \hline \hline
+\sc Metaphysics & 6 & +3 & rea, auth & C
+\\
+\sc Medicine & 1 & +2 & reason & C
+\\
+\sc Chemistry & 1 & +2 & reason & C
+\\
+\sc Nat Philosophy & 3 & +2 & reason & D
+\\
+\sc Symbols \& Rituals & 4 & +2 & reason & D
+\\
+\sc Orders \& Socs & 3 & +2 & reason & D
+\\
+\sc Signals \& Ciphers & 1 & +2 & reason & D
+\\ \hline \hline
+%
+\heading{Skill} & \heading{Level} & \heading{Mod} & \heading{Basis} & \heading{XP}
+\\ \hline \hline
+\sc Surgery & 5 & +2 & acuity & B
+\\
+\sc Mechanic & 2 & +1 & dexterity & C
+\\
+\sc Cunning Works & 2 & +1 & dexterity & B
+\\
+\sc Locksmithing & 1 & +2 & acuity & B
+\\
+\sc Seamanship & 2 & +2 & reason & C
+\\
+\sc Tracking & 1 & +2 & acuity & B
+\\ \hline \hline
+%
+\heading{Talent} & \heading{Level} & \heading{Mod} & \heading{Basis} & \heading{XP}
+\\ \hline \hline
+\sc Espionage & 4 & +2 & reason & B
+\\
+\sc Guile & 1 & +1 & charisma & B
+\\
+\sc Mimicry & 1 & +0 & perception & B
+\\
+\sc Ninjutsu & 1 & +2 & acuity & B
+\\
+\sc Riding & 1 & +1 & dexterity & D
+\\
+\sc Swimming & 1 & +0 & strength & D
+\\
+\sc Visual Arts & 2 & +1 & dexterity & D
+\\ \hline
+\end{tabular}
+%
+\ \ \ \ \
+%
+\begin{tabular}[t]{|r|c|c|c|c|c|}
+\hline
+%
+%
+\heading{Martial Art} & \heading{Level} & \heading{Mod} & \heading{Basis} & \heading{XP}
+\\ \hline \hline
+\sc Pistol & 3 & +2 & firearm & A
+\\
+\sc Sword & 1 & +2 & melee & A
+\\[12pt] \hline \hline
+%
+\heading{Language} & \heading{Level} & \heading{Speak} & \heading{Write} & \heading{XP}
+\\ \hline \hline
+\sc English & 3 & yes & yes & D
+\\
+\sc Gaelic & 3 & yes & yes & D
+\\
+\sc French & 2 & yes & yes & D
+\\
+\sc Spanish & 2 & yes & yes & D
+\\
+\sc Latin & 2 & yes & yes & D
+\\
+\sc Greek & 1 & no & yes & D
+\\
+\sc Arabic & 1 & no & yes & D
+\\
+\sc Prot-Algonq & 1 & gesture & no & D
+\\
+\sc Orc & 1 & yes & no & D
+\\
+\sc Muskegee & 1 & yes & no & D
+\\
+\sc Flash & 1 & yes & no & D
+\\ \hline
+\end{tabular}
+
+\clearpage
+\noindent
+{\sc\bfseries\Large Spells}
+\vspace*{4pt}
+\hrule
+% \mbox{ }
+% \\
+% \noindent
+% \begin{tabular}[t]{|r||c|c|}
+% \hline
+% \heading{Spell} & \heading{Cast Bonus}
+% \\ \hline \hline
+% \heading{Occultist} & +1 (+2 through buckle)
+% \\ \hline
+% \end{tabular}
+%
+\mbox{ }
+\\[12pt]
+%
+\spell{Deflection Field} 1;
+\ \textsc{Cost} 1 pt/phase;
+\ \textsc{Casting time} 8 phases;
+\ \textsc{Difficulty} 14;
+\ \textsc{Range} self;
+\ \textsc{Zone of Effect} Self;
+\ \textsc{Duration} caster's discretion;
+\ \textsc{Manifestation} instant;
+\ \textsc{Type} vital forces / minor;
+\\
+\noindent\textsl{The Caster can create an energy field around his body
+  that causes physical objects to deflect. Attackers suffer a
+  $- (\mathrm{d4} + \mathrm{lvl})$ modifier when using melee weapons
+  or projectiles. The field does not protect against energy based
+  attacks or Magick. The field travels with the Caster.}
+%
+\\[6pt]
+%
+\spell{Deform} 2;
+\ \textsc{Cost} resistance;
+\ \textsc{Casting Time} resistance phases;
+\ \textsc{Difficulty} resistance;
+\ \textsc{Range} 9 squares;
+\ \textsc{Zone of Effect} single object;
+\ \textsc{Manifestation} Instant;
+\ \textsc{Type} material world / minor;
+
+\noindent\textsl{The Caster has the power to deform matter. He has
+  limited control over how the material alters it's shape, but can
+  specify: bend left/right, toward/away, along vertical/horizonal
+  axis, diagonally. If the Cast is a success a d20 is rolled, the
+  higher the roll the closer the new form is to the Caster's intent.}
+%
+\\[6pt]
+%
+\spell{Detect Magick} 1;
+\ \textsc{Cost}	8;
+\ \textsc{Casting Time}	12 phases;
+\ \textsc{Difficulty} 12;
+\ \textsc{Range} 9 squares;
+\ \textsc{Manifestation} Instant;
+\ \textsc{Duration of Effect} Single Event;
+
+\noindent\textsl{The Caster can sense if an object or area produces an Occult
+  emmination. The Caster has a limited ability to determine the
+  strength of the aura. The presence of an aura does not mean the
+  object posses magical powers, the object may have been constructed
+  using magic or have been the subject of a spell. The Caster can
+  detect magic on one object or one hex per Lvl. Some objects or
+  locations may have been the subject of spells meant to conceal their
+  magical nature in which case the GM may increase the Difficulty.}
+%
+\\[6pt]
+%
+\spell{Insinuate} 2;
+\ \textsc{Cost} Subject's Will;
+\ \textsc{Casting Time} 2 Turns
+\ \textsc{Difficulty} Subject's Will;
+\ \textsc{Range} Conversation;
+\ \textsc{Zone of Effect} Individual;
+\ \textsc{Manifestation} Instant;
+\ \textsc{Duration of Effect} Single Event;
+\ \textsc{Type} Mortal Sphere/Minor;
+
+\noindent\textsl{The Caster can influence or "nudge" a Subject to
+  perform a specified action. The Subject will perform the act and
+  remember doing so without reflection until questioned about the
+  action by another. The GM may modify the Difficulty of the spell
+  based on the Subject's resistance to the action or feelings toward
+  the Caster. This modifier is added to cost of casting.}
+%
+\\[6pt]
+%
+\spell{Magick Missile} 4;
+\ \textsc{Range} 18 squares;
+\ \textsc{Damage} 6d6;
+\ \textsc{Type} Spiritual Realm/Minor;
+\ \textsc{Difficulty} Will save modified by proficiency level;
+\ \textsc{Zone of Effect} Individual;
+\ \textsc{Cost} 1/2 pt. per pt. of damage;
+\ \textsc{Casting Time} 7 Phases;
+\ \textsc{Duration of Effect} Single Event;
+\ \textsc{Manifestation} Instant;
+\ \textsc{Range} [Will+ Lvl] Hexes;
+
+\noindent\textsl{The Caster focuses a charge of Qi energy and projects
+  it at a foe. To determine "To Hit" treat Will as Mrk and use Casting
+  Bonus as a modifier. If the Caster hits 2d4 + 1d4 per Lvl is
+  inflicted. If the Caster misses two Qi points are expended.}
+%
+\\[6pt]
+%
+\spell{Recktify} 1;
+\ \textsc{Range} 1 square;
+
+\noindent\textsl{Remove one condition.}
+%
+\\[6pt]
+%
+\spell{Revive} 1
+\ \textsc{Type} Mortal Sphere/Minor;
+\ \textsc{Difficulty} 13;
+\ \textsc{Zone of Effect} Individual;
+\ \textsc{Cost} 10;
+\ \textsc{Casting Time} 8 phases;
+\ \textsc{Duration of Effect} n/a;
+\ \textsc{Manifestation} Instant;
+\ \textsc{Range} Touch
+
+\noindent\textsl{The Caster can negate the effects of "Reeling",
+  "Dazed", "Stunned", unconciousness, "Fatigued", and "Seriously
+  Wounded".}
+%
+\\[6pt]
+%
+\spell{Sonic Wave Manipulation} 1;
+\ \textsc{Range} 15 squares;
+\ \textsc{Type} Vital Forces/Minor;
+\ \textsc{Difficulty} 13;
+\ \textsc{Zone of Effect} 1 Hex per Lvl;
+\ \textsc{Cost} 5+1/2 pt per phase;
+\ \textsc{Casting Time}	14;
+\ \textsc{Duration of Effect} Caster's Discretion;
+\ \textsc{Manifestation} Instant;
+\ \textsc{Range} Will feet + 1 hex / lvl
+
+\noindent\textsl{The Caster can alter the length of soundwaves as well as their
+direction. The Caster can focus sound creating a parabolic mic to
+eavesdrop or "throw" sounds to make them seem to come from another or
+multiple directions. The Caster can also raise or lower the pitch of
+sounds or distort sound waves to create various acoustic effects.}
+%
+\\[6pt]
+%
+\spell{Sonic Flux} 1;
+\ \textsc{Zone} 1 square;
+\ \textsc{Range} 2 squares;
+\ \textsc{Type} Vital Forces/Minor;
+\ \textsc{Difficulty} 14;
+\ \textsc{Zone of Effect} 1 Hex per Lvl;
+\ \textsc{Cost} See Discription;
+\ \textsc{Casting Time} 15 phases;
+\ \textsc{Duration of Effect} Caster's Discretion;
+\ \textsc{Manifestation} Instant;
+\ \textsc{Range} 1/2 Will ft;
+
+\noindent\textsl{The Caster can reduce/increase all sound within 1 Hex per Spell Lvl by
+one sound lvl per Spell Lvl.Cost: 1pt. per Hex affected+1pt. per sound
+lvl altered+1pt per phase maintained.}
+
+% \spell{Shockwave} 1;
+% \ \textsc{Zone of Effect} 3 squares;
+% \ \textsc{Range} 4 squares
+
+\clearpage
+\noindent
+{\sc\bfseries\Large Baggage}
+\vspace*{4pt}
+\hrule
+\mbox{ }
+\\[4pt]
+%
+\heading{Weapons:}
+\ Superior (+2) Saracen Blade (scimitar) d8;
+\ Superior (+2) New Land Cavalry Pistol 4d6;
+\ Quality (+1) French Pistol 4d6;
+\ Quality (+1) AN IX Pistol 4d6;
+\ +1 Holster;
+%
+\\[6pt]
+%
+\heading{Armor:}
+\ \textsc{Elven Cloak with Mitrhil Plates and Elven Belt} +3 defense (quality cloak
++1, mithril plates +2), +1 concealment;
+\ \textsc{Wolf Fang Totem} +1 defense, +1 save vs. magic (on leather thong);
+\ \textsc{Living Beast Jumpsuit} +3 defense, +3 proof, grey metallic,
+jumpsuit feels like fabric, chameleon powers
+%
+\\[6pt]
+%
+\heading{Baggage Extraordinaire:}
+\ \textsc{Spyglass} by Leonoardo Semitecolo of Veneto (8" collapsed, 22" extended);
+\ \textsc{Holster} Quality (+1) (conceal +1);
+\ \textsc{Wolf Moccasins} Quality (+1) from Black Wolf's wife (dex
+save +1; move silently +1);
+\ \textsc{Jeweler's Loup} Quality (+1);
+\ \textsc{Lizardman ``Axe'' Blades} d4 damage, from past age;
+\ \textsc{Moonvision Snuff Box} (2) doses moonvision
+%
+\\[6pt]
+%
+\heading{Baggage Pecuniary:}
+\ 4 gold sovereigns sewn into cloak;
+\ money purse with silvers and coppers;
+\ small strongbox from contact in DC;
+%
+\\[6pt]
+%
+\heading{Baggage Mundane:}
+\ quick match/seal acid (24 pts);
+\ decorative beads on drawstrings on cloak create 1' x 1' sealer when
+blended to bum up locks, seal doors, etc;
+\ portable writing desk with straps, papers, obfuscating sealing wax;
+%
+\\[6pt]
+%
+\heading{Surgery Kit:}
+\ secret compartments;
+\ poultices --- dried moss in bundles (2d4 heal potions each);
+\ silken embroidery thread and silk shirt bandages;
+\ medical sutures, surgical tubing, clamps
+\ tongs, scalpels, bonesaw, lancets, needles;
+\ laudanum and leather bit
+%
+\\[6pt]
+%
+\heading{Spell Focus:}
+\ \textsc{Hibernian Buckle}
+\ +1 saves;
+\ +1 cast bonus;
+\ from past age given by Stands-on-Dry-Land
+%
+\\[6pt]
+%
+\heading{Baggage Arcane:}
+\ \textsc{Elven Talisman} soothes savage beast to avoid sleepwalking
+as wolf;
+\ \textsc{Pepper Box Elemental Pistol:} one orc wildcard charge left
+%
+\\[6pt]
+%
+\heading{Baggage Natural:}
+\ \textsc{Man-Thing Swamp Beast Blood};
+\ \textsc{Orc, Orco-Bugbear, Bugbear Ears} from Ottawa;
+\ \textsc{Sabretooth Tiger tooth} from past;
+\ \textsc{Dragodile Sack Juice} (3) 17-intensity bile;
+\ \textsc{Kobold Fungus} (2) 14-intensity poison;
+\ \textsc{Gymsum Weed} induces trance---from Ottawans;
+\ \textsc{Wall Glue} held trepanned orc to wall in FL;
+%
+\\[6pt]
+%
+\heading{Baggage Grimoire:}
+\
+\textsc{Huerta's Bible} {\it gave to Kolancha}, leather-bound with
+Spanish and arcane markings, cabalistic runes with Aztec, Latin,
+Spanish, Incan, some copies with numbers/transposition, Ponce de Leon,
+and a body of water;
+\ \
+\textsc{James Cox's Manual of Automata} {\it only skimmed};
+\ \
+\textsc{History of Crusades} {\it skimmed Library of congress to learn
+  of crusades, templars, etc.};
+\ \
+\textsc{Dr.\ Manticore's Book of Voodo} symbolic loas, Haitian
+spirits, and locksmithing (!);
+\ \
+\textsc{Polynesian Tattoos and Markings} from tradition of Jugdish's
+Northstar tatoo;
+\ \
+\textsc{Habits of Natives of Florida} Jesuitical father authored;
+\ \
+\textsc{Survey Southern Florida Coasts and Waterways} 1760s, some
+outdated/bandoned English settlements, author;
+\ \
+\textsc{A Physician's Guide to the Occult} Iain's own sketches and
+notes on fantastic beasts, items, rituals, and locations
+\\[6pt]
+\heading{Aliases:} \ White Skinwalker; \ White Wolf; \ Isaac Hayes; \
+Rodney Allen Rippey
+%
+
+\end{document}

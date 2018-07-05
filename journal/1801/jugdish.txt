@@ -1,82 +1,49 @@
-JUGDISH, Devotee of Ganesh
-LEVEL: III
+JUGDISH, Devotee of Ganesh                             LEVEL: III
 ==================================================================
-XP:  26,845  (bank 445)
-KARMA: 25
+XP:  27,510  (bank 310)      KARMA: 25
 
-STR:  15 (+1)
-DEX:  18 (+3)
-CON:  16 (+2)
-REA:  11
-WIL:  18 (+3)
-CHR:  14 (+1)
+STR  DEX   CON  REA  WIL  CHR  SPD  MRK  PERC  ACU  ACT  MOVE
+ 15   18    16   11   18   14   14    9     9   12    5     2
+ +1   +3    +2        +3   +1   +1              +1
 
-SPD:  14 (+1)
-MRK:   9
-PERC:   9
-ACU:  12 (+1)
+INIT  MELEE  FIREARM  MISSILE  MDC  FDC
+  +1     +5        0       +3   d8   d6
 
-ACT: 5
-MOVE: 2  (2 5' squares/phase)
+HPS: 54 (26) (39)        HEALING RATE: 2
 
-INIT: +1
-MELEE: +5
-FIREARM: 0
-MISSILE: +3
-MDC: 1d8
-FDC: 1d6
+QI:  58                  CASTING BONUS: +4        RITUAL HEALING: d4+3
 
-HPS: 54 (26) (39)
-HEALING RATE: 2
+MUSKET: 1                IAIJITSU: 1              MACE ritual+1: 5(+1)
 
-QI:  56 (28) (42)
-CASTING BONUS: +4
+ACROBATICS: 4(+3)        CLIMBING: 2(+3)          ESCAPE: 1(+3)
+RIDING: 1(+3)            SWIMMING: 1(+2)
+CONCEAL: 1(+3)           NINJUTSU: 1(+3)
 
-Abilities
------------------
-RITUAL HEALING: d4 + 3
+FORGERY: 1(+3)           FARM/LIVESTOCK: 1(+1)    SEAMANSHIP: 3(+3)
+
+THEOLOGY: 5              SYMBOL/RITUALS: 1(+0)    ETIQUETTE: 2(+1)
+
+HINDI: native/lit        SANSKRIT: fluent/lit     ARABIC: basic/lit
+FRENCH: conversant       ENGLISH: conversant      SPANISH: basic
+PROTO-ALGONQUIN: hand signals
+--------------------------------------------------------------------------
+HPS(56): 5               QI(39/19) Talisman  38   Scratch 18
+
+AC: +7 defense, +3 proof
+SHAWNEE CLUB: +11 flex, d6 + d8 damage + 4 (smite)
+FOWLING MUSKET: +2 hit, 5d6 (6d6 w. dwarven) damage
+
+SMITES(@4): 3     BEARD STIFFENERS: 2
+
+SAVES ALL +2, perception: +1, will +1, con: +1, knowledge: +1,
+cold: +6 proof
+
+SPELLS (casting bonus +4)
+  Awe: 3,  Rectify: 1,  Dispel Magick: 1,  Eyes Of Ganesh: 2,  Heal: 2,
+  Levitate: 2,  Reach Of Ganesh: 1,  Smite: 3,  Summon Beast: 1
 
 
-Training (2nd: 900, 3rd: 1K, 4th: 1200)
------------------
-MACE (ritual +1) : 4 (+1 = 5)
-AXE: 3
-FIREARMS, MUSKET: 1
-TWO-HANDED FIGHTING: 3
-IAIJITSU: 1
-
-  [thrown weapons]
-
-Talents
---------------------------------
-ACROBATICS: 4
-ESCAPE: 1
-RIDING: 1
-SWIMMING: 1     (from Ganesh)
-CLIMBING: 1
-
-(NINJITSU: )
-
-Skills
---------------------------------
-FORGERY: 1
-FARMING/LIVESTOCK: 1
-SEAMANSHIP (`foremast): 3
-
-Knowledge
------------------
-THEOLOGY: 4
-SYMBOLS, SIGNS, RITUALS: 1
-ETIQUETTE: 2
-
-Languages
------------------
-HINDI:  native/literate
-SANSKRIT:  fluent/literate
-ARABIC:  literate
-FRENCH:  conversant
-ENGLISH:  conversant
-PROTO-ALGONQUIN: hand signals (hand signals)
+================================================================
 
 Spells
 -----------------
@@ -101,9 +68,11 @@ DISPEL MAGICK (1) : +1
   range: will + level
   effect: ends spell
 
-EYES OF GANESH (1) : +1
+EYES OF GANESH (2) : +1
+[at 3rd level, see magical darkness, illusions, etc.]
+6 qi/hour  or 1 qi/hour
 
-HEAL (1) : uncontested
+HEAL (2) : uncontested
   casting time: 8 phases
   range: touch
   cost: 1/2 per HP
@@ -121,8 +90,7 @@ LEVITATE (2) : +6
   cost: small object: 2 (hover 1/2 per action)
         self: 5 + 1/2 pt / foot  (hover 1 per action)
          large:  10 + 1 pt / foot  (hover 2 per action)
-
-very large: 20 + 2 pt / foot  (hover 4 per action)
+         very large: 20 + 2 pt / foot  (hover 4 per action)
 
 REACH OF GANESH (1): +5
   range: 2 squares
@@ -148,6 +116,7 @@ SUMMON BEAST (1) : +5
 
 [future plans: DEFENSELESS; CLOAK; DIVINE LOCATION; GANESH stuff]
 
+
 Baggage Mundane
 -------------------------------------------------------------
 candles, tinder, flints
@@ -158,7 +127,7 @@ concealed money belt (50 spanish silver)
 Unused mundane baggage
   * Hand and a Half Axe (WDC: 1d7)
   * weapons --- scimitar Toledo steel
-  * Dwarven handaxe
+  * Quality Dwarven handaxe
   * Quality Cloak cloaks: decorative beads on drawstrings
 Incendiary Cable, 3' (1' burns through 1.5" steel)
 Orcseeker (tear off end, pour into muzzle, drop rocket down barrel)
@@ -170,6 +139,7 @@ Wraith (looks like cherry bomb) * 3
   -- 15' radius
   -- wraith comes out of eruption, wails and flies up
 Moonvision snuff box
+  -- 2 left
   -- rub on eyes for moonvision for 1 hour
 Flask in case with strap
   -- 4 * beard stiffener (dwarven tonic---8 pts, continuing to temp HPs)
@@ -217,12 +187,12 @@ QUALITY CLOTHING
 WEAPONS
 -------------------------------------------------------------
 SHAWNEE CLUB (flex +11, damage d4 + d6 + d8 + 3)
-  flex: melee +5,  level +5,  quality +1
+save  flex: melee +5,  level +5,  quality +1
   damage: wdc d6,  pdc d8,  smite d4 + 3
 
 *** 2H brings CLUB down to +9
 
-SHAWNEE TOMAHAWK (flex +10, damage d4 + 2d8 + 3)
+DWARVEN AXE (flex +10, damage d4 + 2d8 + 3)
   flex:  melee +5,  level +3,   quality +2
   damage: wdc d8,  pdc d8,  smite d4 + 3
 
@@ -235,16 +205,16 @@ JUGDISH LIVE
 ====================================================================
 INIT +1
 
-HPS(54) -18
-* weapon arm impaired limb
+HPS(54): 54
 
 QI(56)
-  Talisman(38)   2
-  Scratch(18)    0
+  Talisman(38)   38
+  Scratch(18)    18
 Arcanum(0)       0
-   ogre nail     6
 SMITES
-  Axe 4,  club, tomahawk
+  Dwarven Axe 14,  club 1
+beard stiffener *2 :
+
 
 SAVES (northstar plus level plus mammoth's coat)
   ALL +2,  perception: +1, will +1, con: +1, knowledge: +1, cold: +6 proof
