@@ -1,240 +1,177 @@
-al-Foobati, Dwarf Mechanic (Pioneer)                     Level: 2
-==================================================================
-XPS: 11980 (to spend: 2110)
+al-Foobati, Dwarf Mechanic (Pioneer)           Level: 2
+======================================================================
+XPS: 13615 (to spend: 975)                     KARMA: 1
 
-DEX:  16 (+2)
-SPD:  15 (+1)
-STR:  11
-CON:  16 (+2)
-MRK:  14 (+1)
-ACU:  12
-PERC: 14 (+1)
-REA:  14 (+1)
-WILL: 14 (+1)
-CHR:   9
+DEX:  16 (+2)         INIR:    +1              CaRT:  0
+SPD:  15 (+1)         MOVE:     2              CAST:  0
+STR:  11              ACT:      5
+CON:  16 (+2)         MELEE:   +3              HPS: 61
+MRK:  14 (+1)         MDC:     1d6             QI: n/a
+ACU:  12              FIREARM: d6+2FDC
+PERC: 14 (+1)         MISSILE: +2              40' moonsight
+REA:  14 (+1)         THROWN:  +1
+WILL: 14 (+1)         PDC:     d6
+CHR:   9              HEAL: 3
 
-ACT:      5
-MOVE:     2
-INIT:    +1
-MELEE:   +3
-MDC:     1d6
-FIREARM: +2FDC:  1d6
-MISSILE: +2
-THROWN:  +1
-PDC:     d6
-HEAL: 3
-CaRT:  0
-CAST:  0
+Hammers & Picks (martial): 4(5)          Gunnery (martial): 2
+Thrown Weapon (martial): 1               Special Attacks (martial): 2
 
+Military Engineering (knowledge): 1      Acrobatics (talent): 1
+Warfare (knowledge): 2                   Climbing (talent): 4
+Construction (skill): 1(3)               Aeronautics (talent): 1
+Mechanic (skill): 1(2)                   Scrounging (talent): 3
+Cunning Works (skill): 2(3)              Riding (talent) 1
+
+Jack of All Trades: 2
+
+Dwarvish (native/lit), English (fluent/lit), Arabic (convers/not lit)
+
+Combat
+----------------------------------------------------------------------
+Armor: +8 AC, +3 proof (+8 AC, +2 ward, +1 proof)
+
+Firemouth Pick:  +12 hit;   d9 + d10 damage
+Firemouth Canon:  +6 hit;   damage template (6d6, 3d6, 1d6) +d6 dwarven rounds
+Trip Attack: +2 dex vs. dex knock CRR to knock prone
+Flying Attack: +2 wdc and +1 pdc, 1 pt avail/square (max 3)
+Dwarven Javelin:  +5 hit; d8 + d10 damage
+Dwarven Javelin w. Lightning (2+3 more uses): +5 hit; 5d6 damage
+Superior Damask Dagger: +6 hit; d4 + d6 damage
+
+Baggage
+----------------------------------------------------------------------
+* cable, 50' (matchless +3) dwarven snake link
+* pitons (9) (matchless + 3) w. toggle-catch
+* dyptich, ivory (@serious wound, reset to 1/4 HPs + 6; +1 ward mundane/arcane)
+* St geordi silver medal (+1 flex attack)
+* blessed qu'ran, scavenged (+1 ward)
+* discarded god figurine (+1 all skill rolls; mend spell)
+* Albanian climbing shoes (+1 climb)
+* Firemouth (superior +2): special canon, DC 1d9 melee (3 dwarven rounds)
+* powder measure on mithril neck chain; pouch w. silver chasing; powder horn
+* flash-bangs (2) on bandolier (golf ball attached to tee; light + 3 phases)
+* bowling pin with film canister-sized ampule (1 blue; 1 purple/black);
+  can be repurposed to arrow tip
+* gem-encrusted netsuke toad w. onyx eyes, amber warts and purifying salt
+* dwarven miner hat (40' radius)
+* Serket's measure (?)
+* spell to inscribe weapon with mark of Serket
+* fez, apron, codpiece, shoes, half-gloves (+3 ac)
+* Mameluke charmed mail (+4 ac)
+* new uniform from El Aruch
+* tool chest (loup, tweezers, clamps, blades, bob, chisel, mallet, chalk line)
+* Bedouin upgraded tent
+* superior (+2) damask dagger WDC d4
+* two dwarven javelins (superior +2, WDC d8)
+* mithril dwarven belt with scattergun charge w. silver chasings
+
+
+======================================================================
+
+
+
+SHOW YOUR WORK
+=========================================================================
 KARMA: 1
    freeing damned soul from white beast
 
-HPS: 61
+LEVEL 1 MECHANIC:  +1 proof (defense avail; jack of all trades)
+LEVEL 2 MECHANIC:  +1 avail (skill avail; jack of all trades)
+RACIAL DWARF: +1 shift in hammers & picks
+RACIAL DWARF: +1 AC tinkering bump
+RACIAL DWARF: 40' moonsight
+MINING TRADE: +1 to hit and shift in hammers & picks
 
-QI: n/a
+ARMOR (+8 AC, +2 ward, +1 proof)
+  +3 AC     fez + apron + codpiece + shoes + half gloves
+  +4 AC     mameluke charmed mail
+  +1 AC     dwarven racial tinkering bump
+  +1 ward   blessed qu'ran (ward)
+  +1 ward   diptych (arcane & mundane)
+  +1 proof  Mechanic Level 1
 
-LEVEL 1:  +1 proof (defense avail; jack of all trades)
-LEVEL 2:  +1 avail (skill avail; jack of all trades)
+Firemouth as Pick
+  hit +12  (+4 level, +1 trade, +2 superior, +3 ME, +1 level 2 mech,
+            +1 st geordi)
+  damage: d9 + d10   (WDC (d9) + PDC (d6) << race << trade)
 
-MARTIAL:
-  special juju: 2
-    trip attack: 2 (dex vs. dex CRR, knocks prone)
-    flying attack: 2 shift wdc and pdc +1, 1 pt square avail (max 3)
-  Gunnery: 1
-  Hammers & Picks: 3 (+1 trade weapon = +4)
-  Thrown Weapon: 1 
+Firemouth as Canon (60' cone)
+  hit +6:  +2 level, +2 superior, +0 firearm, +1 level 2 mech, +1 st geordi
+  damage: 6d6 | 3d6 | 1d6 depending on distance
 
-  (Brute / Deft / Swift : ARMED / UNARMED) 
-  [charging, bash attacks,  disarms] : 1000
+Dwarven Javelin WDC 1d8 (thrown, thrown)
+  hit +5:             +1 level, +2 superior, +1 tinker, +1 st geo
+  damage: 1d8 + 1d10  (<< trade << dwarf)
+  damage: 5d6 (lightning bolt with 2 + 3 more uses in two javelins)
 
-KNOWLEDGE:
-  Military Engineering: 1 (+1 REA = +2)
-  Warfare: 2 (+1 REA = +3)
+Dagger, WDC 1d4
+  hit +6:           0 level, +2 superior, +1 tinker, +3 ME
+  damage: d4 + d6:  WDC + PDC
 
-SKILLS:
-  Construction: 1 (+1 speciality; +2 DEX = +4)
-  Mechanic: 1 (+2 DEX == +3)
-  * Cunning Works: 2 (+2 DEX == +4)
-
-TALENTS:
-  Acrobatics: 1 (dex/spd +2 = +3) 
-  * Climbing: 3 (+2 DEX = +4; dwarven cable +3)
-  Aeronautics: 1 (+0 ACU = +1)
-  * Scrounging: 2 (+1 PRC = +3)
-  Riding: 1
-
-LANGUAGES:
-  Dwarvish (native / literate)
-  English (fluent / literate)
-  Arabic (conversant / not literate)
-
-MELEE WEAPON: HAND AND A HALF PICK
-  slung over shoulder 
-    super hand and a half hammer/pick (better off 2-handed) WDC d9
-  Superior hand and a half hammer/pick (found in dwarven caves)
-  - (left in caves) Quality hand and a half hammer/pick (family heirloom)
-  WDC: d8
-  DC: d10+d8 (pdc 1d6 + dwarf bump + trade bump = d10; wdc d8)
-  FLEX: 11 (level: +3, trade weapon: +1, ME: +3, superior: +2,
-            st. geordi medal: +1;  tinkerer skill avail: +1)
-  
-
-MELEE WEAPON:  DAGGER
-  superior dagger
-  WDC: d4
-  DC: d6+d4
-  FLEX: 6 (ME: +3, superior: +2, st. geordi medal: +1)
-
-MISSILE WEAPON: dwarven javelin (x 3)
-  - superior quality (+2 avail)
-  - thrown WDC 1d8
-  - bludgeon WDC 1d6
-  - PDC: +1d10 (trade and dwarven)
-  - **with white fiend** #1: 2 more uses as lightning bolt (5d6 if hits)
-  - #2: 2 more uses
-        3 more uses
-        2 more uses
-  
-MISSILE WEAPON: pencil-sized bowling pin
-  - ampules size of film cannister
-  - weighted thrown weapon, lands glass bulb down
-  x 1. amber liquid (burning)
-  - 2. blue?
-  - 3. dark purple, nearly black (?)
-  - can be repurposed to arrow tip
-
-DWARVEN CABLE & PITONS: 50'
-  - peerless (+3) snake link cable (slick one way; rough the other)
-  - 9 pitons (+3) with toggle catches 
-
-MITHRIL DWARVEN BELT w. powder HORN
-  -- 1 scattergun charge w. silver chasings
-
-CONTAINER w. ANIMAL HORN
-
-DWARVEN FIREMOUTH HAND PICK HAND CANNON
-  -- 
-  -- superior quality (+2): DC 1d9 + PDC
-  -- canon: 4d6 + FDC // 3 x 3 cone of blast
-  -- thread on cap (plunger like french press)
-  -- gold plated touch port cover
-  -- fire like mortar
-  -- pouch with silver fill  
-  -- rams horn with powder
-  -- powder measure on mithril chain to wear around neck and measure
-     base metal
-  -- reddish color wood with strange grain and odd look 
-  -- inscribed mark of Serket in Hieroglyphics with lamp black
-      : provides ability to will vs. con attack and succeed a d6
-        where all they can do is defend themselves (paralyzed)
-
-  DWARVEN ROUNDS: 6
-  AS PICK:
-    WDC: d9
-    DC: d10+d9 (pdc 1d6 + dwarf bump + trade bump = d10; wdc d9)
-    FLEX: 10 (level: +2, trade weapon: +1, ME: +3, superior: +2,
-              st. geordi medal: +1;  tinkerer skill avail: +1)
-  AS CANNON:
-    PDC: d6
-    WDC: 5d6--2d6
-    AVAIL: 6 (level: +1, MI: +2, superior: +2, tinkerer skill avail: +1)
-
-BANDOLIER of grenades
-  -- tarred leather envelope size of golf ball attached to stick (like
-     tee)
-  -- remnants of fuse
-  -- 2 of these in bandolier like old timex watch
-  -- flash bangs
-  -- took 3 phases to go off  
-
-GEM-ENCRUSTED TOAD w. SALT POUCH
-  -- Ren & Kel --- first dwarves;  in their tale helped by a toad
-     to escape imprisonment & toad teaches them about earth and 
-     gems  
-  -- Netsuke-style toad (eyes onyx, back studded with red/amber stones
-     to mimic warts of toad)
-  -- salt used for ritual purification (toad figures in)
-
-ARMOR:
-  AC: 10 
-    fez + apron + codpiece + shoes + half gloves: +3
-    mail, mameluke charmed: +4
-    skill bump due to dwarven tinkering: +1
-    ward: +1 (proof or AC) scavenged holy book -- blessed qu'ran
-    +1 arcane and mundane from dyptich
-
-BAGGAGE MUNDANE
-  TOOL CHEST (canvas reinforced with leather)
-    jewelers loup, magnifying glass, cheap small telescope
-    tweezers, clamps
-    rollable saw blade with attachable handles
-    plumb bob, chalk and line; small level
-    small and medium knifes, picks, and chisels
-    mallet
-    hook for climbing
-
-  BEDOUIN UPGRADED TENT 
-    fashioned on road to Damascus
-    cooler fabric, acaica poles
-    second version human-sized
-
-  (useless, tar-coated Albanian climbing shoes (formerly +1 climb))
-  new Albanian climbing shoes
-
-  cache of superior damask scimitars
-
-  weapons
-    hand and a half hammer/pick
-    curved dagger (superior) damask: 
-
-  armor
-    hard-hat fez
-    mail half-shirt
-    boiled leather apron, tool belt and codpiece
-    steel toed shoes
-    bone-reinforced thin leather fingerless gloves
-
-RACIAL
-40' moonsight (see like day in moonlight)
-+1 shift in picks/hammers
-+1 skill as dwarf
-
-BAGGAGE ARCANE
-  ivory icon, dyptich; once seriously wounded, reset to 1/4 HPs + 6;
-    +1 ward vs mundane and arcane attacks
-  st. geordi medal: high purity silver (+1 flex)
-  dwarven miner soda can size, belt clip, firestone light
-     40' radius
-     (green-blue one is high quality;  white highest, red lowest)
-
-  * tonic blue glass bottle, brass protective covering, hardened leather
-    over that (aka goblins blood) --- cap also acts as a cup; aromatic
-    of cedar (of Lebanon --- Jean R knows its used for mummification);
-    blue glass has cobalt (not prevalent here --- Egyptians imported
-    it); bottle is involved in distilling it / preserving it
-    : heal 4 HPs, CON in temp HPs per dose
-      (2 doses)   
-
-BAGGAGE MUNDANE
-  cotton sleeping bag
-
-BAGGAGE ARCANE
-  DISCARDED GOD FIGURINE - 4" tall man holding tongs & scale
-  kothar wa khasis --- ancient canaanite god affiliated
-    with Egyptian P'tah (great creator god)
-    centered out of memphis and built palaces for Egyptians
-    building and creating
-  +1 on all skill rolls
-  MEND spell
-
- * Serket's Measure
+Construction +1 speciality
 
 
-ditty bag: scrap of paper from real modern papyrus
-           from Habesha---spell to inscribe a weapon
-           with mark of Serket in Hieroglyphics
+HISTORY/DETAIL
+=========================================================================
+* Firemouth: gold-plated touch-port coer; pouch with silver fill;
+rams horn with powder; powder measure on mithril chain; reddish wood
+with strange grain and odd look; inscribed with mark of Serket
+in hieroglyphics with lamp black: provides ability to will
+vs. con attack and succeed a d6 where all they can do is defend
+themselves (paralyzed)
+
+* Bandolier of grenades: tarred leather envelope size of golf
+ball attached to stick; remnants of fuse; flash banks; 3 phases;
+2 in bandolier like old timex watch
+
+* Gem-encrusted Toad w. Salt Pouch: Ren & Kel first dwarves helped
+to escape imprisonment by toad in their tale that teaches them about
+earth and gems;  Netsuke-style toad (eyes onyx, back studded with
+red/amber stones to mimic warts of toad); salt used for ritual
+purification (toad figures in)
+
+* Tool Chest (canvas reinforced with leather): jewelers loup,
+magnifying glass, cheap small telescope, tweezers, clamps, rollable
+saw blade with attachable handles; plumb bob, chalk and line;
+small level; small and medium knifes, picks, and chisels; mallet;
+
+* Upgraded Bedouin tent: fashioned on road to Damascus; cooler fabric,
+acaica poles; second version human-sized
+
+* Boiled leather apron, tool belt, cod piece, mail half-shirt, hard-hat
+fexz, steel-toed shoes, bone-reinforced thin-leather fingerless gloves
+
+* Dwarven miner soda can size, belt clip, firestone light;
+40' radius; green-blue one is high quality, white highest, red lowest
+
+* Discarded god figurine: 4" tall man holding tongs & scale; kothar
+wa khasis --- ancient canaanite god affiliated with Egyptian P'tah
+(great creator god);  centered out of Memphis and built palaces for
+Egyptians;  +1 on all skill rolls;  Mend spell
+
+* Ditty bag: scrap of paper from real modern papyrus; from Habesha---spell
+to inscribe a weapon with mark of Serket in Hieroglyphics
+
+* Ivory Icon Dyptich; once seriously wounded, reset to 1/4 HPs + 6;
++1 ward vs mundane and arcane attacks
+
+
+
+NOT CARRIED
+=========================================================================
+* superior hand and a haf pick (replaced quality family heirloom)
+* superior dagger
+* cache of superior damask scimitars/curved dagger
+* tonic blue glass bottle, brass protective covering, hardened leather
+over that (aka goblins blood) --- cap also acts as a cup; aromatic
+of cedar (of Lebanon --- Jean R knows its used for mummification);
+blue glass has cobalt (not prevalent here --- Egyptians imported
+it); bottle is involved in distilling it / preserving it
+: heal 4 HPs, CON in temp HPs per dose
+
 
 HISTORY
+=========================================================================
 poor, kicked to Cyprus, then to Malta
 dwarves poor on Malta
 mother's side: Azure-brows
@@ -245,7 +182,7 @@ French Army stranded in Egypt
 Battle of Pyramids (sighting, placing artillery)
 Headed East vs. Mamelukes into Syria
 Caught in Jaffa; mass execution by Bonaparte
-  --- stiffened community 
+  --- stiffened community
 Acre --- stronghold of Knight Hospitalers
   -- used shipment of French guns against French
       after captured by Brits
@@ -281,19 +218,3 @@ Rakmini --- played goddess Net, protector of jackal-headed god
 al melgali and al rash ha-ood --- beware of both tribes;  melgali
 invited 150 members for feast and killed them;  tell apart by
 women (hair melgali 2 small braids in front of ears + 2 large plaits)
-
-LIVE
-================
-HPs (61/30/15): -44
-QI: 16  taken: 
-
-ARCANUM / HEALING
-
-
-AC: 9 (2 could be proof)
-
-Firemouth:
-  Hand and Half Pick  hit: +9 (2 flex)   damage: d10 + d9
-  Canon:              hit: +6 (2 flex)   damage: d6 + (5d6 to 2d6)   
-
-                    
