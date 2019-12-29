@@ -71,60 +71,60 @@
 & \heading{Save}
 \\ \hline \hline
 \sc Strength & 15 \ (+1)
-& +6
+& +4
 \\
 \sc Constitution & 16 \ (+2)
-& +7
+& +6
 \\ \hline
 \sc Dexterity & 18 \ (+3)
-& +8
+& +6
 \\
 \sc Speed & 14 \ (+1)
-& +6
+& +4
 \\ \hline
 \sc Marksmanship & 9 \ (+0)
-& +5
+& +3
 \\
 \sc Perception & 9 \ (+0)
-& +5
+& +4
 \\
 \sc Acuity & 12 \ (+1)
-& +6
+& +4
 \\ \hline
 \sc Reason & 11 \ (+0)
-& +5
+& +4
 \\
 \sc Will & 18 \ (+3)
-& +8
+& +9
 \\
 \sc Charisma & 14 \ (+1)
-& +6
+& +4
 \\ \hline
 \end{tabular}
 \hfill
 \begin{tabular}[t]{|r|c|}
 \hline
-\sc Initiative & d10 + 1
+\sc Defense & +7
 \\
-\sc ACT & 5 (2)
+\sc Proof & +3
+\\ \hline
+\sc Initiative & +1
+\\
+\sc Act (Move) & 5 (2)
 \\  \hline
+\sc Cast Bonus & +4
+\\ \hline
 \sc Melee & +5
 \\
 \sc Firearm & +0
 \\
 \sc Missile & +3
 \\ \hline
-\sc Melee DC & 1d8
+\sc Melee DC & d8
 \\
-\sc Firearms DC & 1d6
+\sc Firearms DC & d6
 \\ \hline
 \sc Healing Rate & +1
-\\ \hline
-\sc Cast Bonus & +4
-\\ \hline
-\sc Defense & +7
-\\
-\sc Proof & +3
 \\ \hline
 \end{tabular}
 %
@@ -134,7 +134,7 @@
 \hline
 \sc Experience & \multicolumn{2}{|l|}{27,510}
 \\
-(bank) & \multicolumn{2}{|l|}{310}
+(bank) & \multicolumn{2}{|l|}{10}
 \\ \hline
 \sc Hit Points & 56 & \hspace*{8em}
 \\
@@ -147,9 +147,9 @@
 \\[2pt] \hline
 \sc Ritual Heal & d4 + 3 &
 \\[2pt] \hline
-\sc Smite, Club & 15 &
+\sc Smite, Club & 16 &
 \\[2pt] \hline
-\sc Karma & 25 &
+\sc Karma & 26 &
 \\ \hline
 \end{tabular}
 %
@@ -161,11 +161,10 @@
 \sc\bfseries Weapon & \sc\bfseries Avail & \sc\bfseries Damage
 & \sc\bfseries Type & \sc\bfseries Range & \sc\bfseries Properties
 \\ \hline\hline
-Superior (+2) Dwarven Axe & +7 & 2d8 & slashing & --- &
-\\
-Quality (+1) Shawnee Club & +12 & d6 + d8 & bludgeoning & --- &
-\\
-Fowling Musket & +2 & 5d6 & piercing & & ranged
+Quality (+1) Shawnee Club & +11 & d6 + d8 & bludgeoning & ---
+& +4 smite damage
+\\ \hline
+Typical (+0) Fowling Musket & +1 & 5d6 & piercing & & ranged
 \\ \hline
 \end{tabular}
 %
@@ -174,31 +173,35 @@ Fowling Musket & +2 & 5d6 & piercing & & ranged
 \begin{tabular}[t]{|r|c|c|c|c|}
 \hline
 %
-\heading{Knowledge} & \heading{Level} & \heading{Mod} & \heading{Basis} & \heading{XP}
+\heading{Knowledge} & \heading{Level} & \heading{Tot} & \heading{Basis} & \heading{XP}
 \\ \hline \hline
-\sc Etiquette & 2 & +2 & reason & D
+\sc Etiquette & 2 & +2 & rea & D
 \\
-\sc Theology & 5 & +5 & reason & C
+\sc Theology & 5 & +5 & rea & C
 \\
-\sc Symbols \& Rituals & 1 & +1 & reason & D
-\\ \hline \hline
+\sc Symbols \& Rituals & 1 & +1 & rea & D
+\\[12pt] \hline \hline
 %
-\heading{Skill} & \heading{Level} & \heading{Mod} & \heading{Basis} & \heading{XP}
+\heading{Skill} & \heading{Level} & \heading{Tot} & \heading{Basis} & \heading{XP}
 \\ \hline \hline
 \sc Forgery & 1 & +4 & dex & C
 \\
-\sc Farm / Livestock & 1 & +2 & acuity & D
+\sc Farming / Livestock & 1 & +2 & acuity & D
+\\
+\sc Gunnery & 1 & +2 & acuity & D
+\\
+\sc Observation & 1 & +2 & acuity & D
 \\
 \sc Seamanship & 3 & +6 & dex & C
-\\ \hline \hline
+\\[12pt] \hline \hline
 %
-\heading{Talent} & \heading{Level} & \heading{Mod} & \heading{Basis} & \heading{XP}
+\heading{Talent} & \heading{Level} & \heading{Tot} & \heading{Basis} & \heading{XP}
 \\ \hline \hline
 \sc Acrobatics & 4 & +7 & dex & B
 \\
 \sc Climbing & 2 & +5 & dex & B
 \\
-\sc Concealment & 2 & +2 & per & B
+\sc Concealment & 1 & +1 & per & B
 \\
 \sc Escape & 1 & +4 & dex & B
 \\
@@ -206,7 +209,9 @@ Fowling Musket & +2 & 5d6 & piercing & & ranged
 \\
 \sc Riding & 1 & +4 & dex & D
 \\
-\sc Swimming & 1 & +3 & con & D
+\sc Scrounging & 1 & +1 & per & C
+\\
+\sc Swimming & 2 & +4 & con & D
 \\ \hline
 \end{tabular}
 %
@@ -216,13 +221,13 @@ Fowling Musket & +2 & 5d6 & piercing & & ranged
 \hline
 %
 %
-\heading{Martial Art} & \heading{Level} & \heading{Mod} & \heading{Basis} & \heading{XP}
+\heading{Martial Art} & \heading{Level} & \heading{Tot} & \heading{Basis} & \heading{XP}
 \\ \hline \hline
-\sc Clubs \& Maces & 5 & +6 & ritual +1 & A
+\sc Clubs \& Maces & 4 & +10 & melee, ritual +1 & A
 \\
 \sc Shoulder Arm & 1 & +1 & firearm & A
 \\
-\sc Iajutsu & 1 & +1 & --- & A
+\sc Iaijutsu & 1 & +6 & melee & A
 \\[12pt] \hline \hline
 %
 \heading{Language} & \heading{Level} & \heading{Speak} & \heading{Write} & \heading{XP}
@@ -233,9 +238,9 @@ Fowling Musket & +2 & 5d6 & piercing & & ranged
 \\
 \sc English & fluent & yes & yes & D
 \\
-\sc French & conversant & yes & no & D
+\sc French & conv. & yes & no & D
 \\
-\sc Spanish & conversant & yes & no & D
+\sc Spanish & conv. & yes & no & D
 \\
 \sc Arabic & basic & yes & yes & D
 \\
@@ -308,7 +313,7 @@ other Action.  Attacking the victim breaks the spell.}
 \textsl{Devotee feat;  add karma to any roll.}
 %
 \\[4pt]
-\spell{Levitate} 2; \ \textsc{Difficulty} 12; \ \textsc{Range} 5
+\spell{Levitate} 3; \ \textsc{Difficulty} 12; \ \textsc{Range} 5
 squares;
 \\
 \textsl{The Caster can move himself or an object up to will + 5'/level
@@ -332,11 +337,28 @@ squares;
 %
 \spell{Smite} 3;
 \ \textsc{Range} touch;
-\ \textsc{Duration} permanent;
+\ \textsc{Resolution} uncontested;
+\ \textsc{Duration} sustained;
 \ \textsc{Difficulty} critical miss fizzles;
-\ \textsc{Cost} 2 + 2 per attack;
+\ \textsc{Cost} divine power invested / 2;
+\ \textsc{Cast Time} 2 extended actions;
+\ \textsc{Type} lesser pious devotion
 \\
-\textsl{Add d4 + level to damage.}
+\textsl{The Devotee can invest a weapon with divine power, increasing
+the damage inflicted in battle.  Each time the wielder wounds an
+Opponent a Damage Avail equal to the Caster's Charisma Modifier plus proficiency
+level is added and the value of the smite deducted from Divine Power
+Amount.
+\\[2pt]
+The amount of power a weapon can contain: inferior 10 pts, standard 14
+pts; quality 16 pts; superior 18 pts; matchless 20 pts; arcane
+25 pts;
+\\[2pt]
+A weapon invested with Smite is treated as an Arcane Weapon when used
+against creatures immune to Mundane attackes.
+\\[2pt]
+If the devotee fails his cast roll, there is a 50\% chance the weapon
+will be destroyed.}
 %
 \\[4pt]
 %
@@ -360,8 +382,8 @@ contact);
 \heading{Weapons:}
 \ Superior (+2) Dwarven Handaxe d8;
 \ Quality (+1) Shawnee Club d6;
-\ Fowling Musket 5d6;
 \ Quality (+1) Scimitar of Toledo Steel d8;
+\ Fowling Musket 5d6;
 %
 \\[6pt]
 %
@@ -376,7 +398,7 @@ jumpsuit feels like fabric, chameleon powers
 %
 \heading{Baggage Extraordinaire:}
 \ \textsc{Moonvision Snuff Box} (2) doses moonvision;
-\ \textsc{Dwarven Beard Stiffener} (4) doses, 8 hps continuing to temp
+\ \textsc{Dwarven Beard Stiffener} (3) doses, 8 hps continuing to temp
 HPs
 \ \textsc{Wraith} (3), whoosh, black smoke, purple flash, 15' radius,
 wraith comes out wails, and flies up;

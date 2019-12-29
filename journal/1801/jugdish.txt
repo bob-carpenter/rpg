@@ -1,6 +1,6 @@
 JUGDISH, Devotee of Ganesh                             LEVEL: III
 ==================================================================
-XP:  27,510  (bank 310)      KARMA: 25
+XP:  28,990  (bank 1790)      KARMA: 25
 
 STR  DEX   CON  REA  WIL  CHR  SPD  MRK  PERC  ACU  ACT  MOVE
  15   18    16   11   18   14   14    9     9   12    5     2
@@ -11,7 +11,7 @@ INIT  MELEE  FIREARM  MISSILE  MDC  FDC
 
 HPS: 54 (26) (39)        HEALING RATE: 2
 
-QI:  58                  CASTING BONUS: +4        RITUAL HEALING: d4+3
+QI:  58 (14)             CASTING BONUS: +4        RITUAL HEALING: d4+3
 
 MUSKET: 1                IAIJITSU: 1              MACE ritual+1: 5(+1)
 
@@ -26,14 +26,16 @@ THEOLOGY: 5              SYMBOL/RITUALS: 1(+0)    ETIQUETTE: 2(+1)
 HINDI: native/lit        SANSKRIT: fluent/lit     ARABIC: basic/lit
 FRENCH: conversant       ENGLISH: conversant      SPANISH: basic
 PROTO-ALGONQUIN: hand signals
+
+LIVE
 --------------------------------------------------------------------------
-HPS(56): 5               QI(39/19) Talisman  38   Scratch 18
+HPS(56): 56              QI(58): 58
 
 AC: +7 defense, +3 proof
 SHAWNEE CLUB: +11 flex, d6 + d8 damage + 4 (smite)
 FOWLING MUSKET: +2 hit, 5d6 (6d6 w. dwarven) damage
 
-SMITES(@4): 3     BEARD STIFFENERS: 2
+SMITES(@4): 2     BEARD STIFFENERS: 2
 
 SAVES ALL +2, perception: +1, will +1, con: +1, knowledge: +1,
 cold: +6 proof
@@ -43,9 +45,56 @@ SPELLS (casting bonus +4)
   Levitate: 2,  Reach Of Ganesh: 1,  Smite: 3,  Summon Beast: 1
 
 
-================================================================
+WEAPONS
+-------------------------------------------------------------
++5 MELEE, +5 MACE, +1 QUALITY
+SHAWNEE CLUB quality +1, wdc d6
+DWARVEN AXE superior +2, wdc d8
+FOWLING MUSKET quality +1, wdc 5d6 (+1d6 dwarven)
+SCIMITAR, TOLEDO superior +2, wdc?
+* HAND AND HALF AXE, wdc d7 (given to lizard men)
 
-Spells
+ARMOR  (+7 defense, +3 proof, +6 proof v. cold, +1 conceal)
+-------------------------------------------------------------
+MITHRIL ELVEN CLOAK (+2 defense, +1 concealment)
+  quality cloak, mitril plates from Q, Elven alterations
+  4 gold sovereigns sewn into lining
+  elven cord tie with 1' sealant beads
+MAMMOTH'S COAT (+2 defense, +6 proof vs. cold)
+  mammoth hair braded into chain;  neverending rope
+LIVING BEAST JUMPSUIT (+3 defnese, +3 proof)
+  melded with skin; chameleon powers
+
+BAGGAGE MUNDANE
+-------------------------------------------------------------
+MUNDANE candles, tinder, flints; sewing kit; towel and soap
+DC SAFE HOUSE KEYS [Dahlia is housekeeper; inside/out alarms]
+MONEY BELT, CONCEALED (50 spanish silver)
+ORCSEEKER (tear off end, pour into muzzle, drop rocket down barrel)
+  illuminate 50' area for 12 phases
+  orcish blood fluoresce for 12 phases
+WRAITH (looks like cherry bomb) * 3
+  whooshing sound, black smoke, bright purple flash
+  -- 15' radius; wraith comes out, wails and flies up
+MOONVISION SNUFF *2
+  rub on eyes for moonvision for 1 hour
+BEARD STIFFENER * 2
+  flask in case with strap
+VITRIFYING AGENT
+  red flask and blue flask, swab on end;  red first; 1' cube
+
+BAGGAGE ARCANE
+-------------------------------------------------------------
+NORTHSTAR TATOO
+  +1 boon: will, con, perception, knowledge
+  on right shoulder symbolizes; special navigation power
+  from Austria sailor on ship;
+MASTODON TUSK TALISMAN
+  holds spells
+BOSUN'S WHISTLE
+  calls Sugarfoot; 2 notes to call back, can swim
+
+SPELLS
 -----------------
 AWE (3) : +3 (mod?)
   cast time: 10 phases
@@ -115,129 +164,3 @@ SUMMON BEAST (1) : +5
           compelled to approach
 
 [future plans: DEFENSELESS; CLOAK; DIVINE LOCATION; GANESH stuff]
-
-
-Baggage Mundane
--------------------------------------------------------------
-candles, tinder, flints
-sewing kit
-soap and towel
-keys to DC safe house [Dahlia is housekeeper; inside/out alarms]
-concealed money belt (50 spanish silver)
-Unused mundane baggage
-  * Hand and a Half Axe (WDC: 1d7)
-  * weapons --- scimitar Toledo steel
-  * Quality Dwarven handaxe
-  * Quality Cloak cloaks: decorative beads on drawstrings
-Incendiary Cable, 3' (1' burns through 1.5" steel)
-Orcseeker (tear off end, pour into muzzle, drop rocket down barrel)
-  -- illuminate 50' area for 12 phases
-  -- orcish blood fluoresce for 12 phases
-Wraith (looks like cherry bomb) * 3
-  -- whooshing sound, black smoke, bright purple
-     flash (purple colored)
-  -- 15' radius
-  -- wraith comes out of eruption, wails and flies up
-Moonvision snuff box
-  -- 2 left
-  -- rub on eyes for moonvision for 1 hour
-Flask in case with strap
-  -- 4 * beard stiffener (dwarven tonic---8 pts, continuing to temp HPs)
-Vitrifying agent
-  -- red flask and blue flask, swab on end
-  -- always apply red first, then blue
-  -- 1' x 1' cube
-
-
-Baggage Arcane
--------------------------------------------------------------
-NORTHSTAR TATOO
-  from Austria sailor on ship;
-  on right shoulder symbolizes; special navigation power
-  +1 boon: will, con, perception, knowledge
-MASTODON TUSK TALISMAN
-  holds spells
-BOSUN'S WHISTLE
-  calls Sugarfoot; 2 notes to call back, can swim
-
-
-ARMOR  defense +7, proof +3
--------------------------------------------------------------
-QUALITY CLOAK w. ALTERATIONS
-  defense +2      (mithril plates from Q)
-  concealment +1  (Elven alterations)
-  elven cord tie
-  4 gold sovereigns sewn into lining
-  decorative beads on drawstrings
-    wine color when blended --- keep hands away
-    1 x 1' sealer (seal door jamb, gum up lock)
-    can string together
-MAMMOTH'S COAT (mammoth hair braded into chain)
-  defense +1
-  proof vs. cold +6
-  spool of neverending rope
-LIVING BEAST JUMPSUIT (melded with skin)
-  defense +3
-  proof +3
-  chameleon powers
-  100 total proof and it dies, but also regenerates
-QUALITY CLOTHING
-  defense +1
-
-WEAPONS
--------------------------------------------------------------
-SHAWNEE CLUB (flex +11, damage d4 + d6 + d8 + 3)
-save  flex: melee +5,  level +5,  quality +1
-  damage: wdc d6,  pdc d8,  smite d4 + 3
-
-*** 2H brings CLUB down to +9
-
-DWARVEN AXE (flex +10, damage d4 + 2d8 + 3)
-  flex:  melee +5,  level +3,   quality +2
-  damage: wdc d8,  pdc d8,  smite d4 + 3
-
-FOWLING MUSKET (hit +2, damage 5d6 [6d6 dwarven powder])
-  offense: firearm +0,  level +1,  quality +1
-  damage: 5d6,  dwarven powder: +1d6
-
-
-JUGDISH LIVE
-====================================================================
-INIT +1
-
-HPS(54): 54
-
-QI(56)
-  Talisman(38)   38
-  Scratch(18)    18
-Arcanum(0)       0
-SMITES
-  Dwarven Axe 14,  club 1
-beard stiffener *2 :
-
-
-SAVES (northstar plus level plus mammoth's coat)
-  ALL +2,  perception: +1, will +1, con: +1, knowledge: +1, cold: +6 proof
-
-SPELLS (casting bonus +4)
-  awe, rectify, dispel magick, eyes of ganesh, heal,
-  karmic blessing, levitate, reach of ganesh, smite,
-  summon beast
-
-AXE 1H or 2H (armor + shawnee tomahawk)
-  defense +8, proof +3, offense +7, damage d4 + 2d8 + 3
-
-CLUB 1H (armor + shawnee club)
-  defense +9, proof +3, offense +9, damage d4 + d6 + d8 + 3
-
-CLUB 2H (armor + shawnee club [+3 / +4])
-  defense +8, proof +3, offense +8, damage d4 + d6 + d8 + 3
-
-RANGED STANCE (armor + fowling musket)
-  defense +7, proof +3, offense +2, damage 5d6 (+1d6 w. dwarven powder)
-
-
-+ 4 flex
-+ +1 defense, they're -2 defense
-+ 1-4 primary 5-6 secondary
-fight w. single weapon

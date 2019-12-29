@@ -66,7 +66,16 @@ Baggage
 * mithril dwarven belt with scattergun charge w. silver chasings
 
 
-======================================================================
+NOT CARRIED
+=========================================================================
+* superior hand and a haf pick (replaced quality family heirloom)
+* cache of superior damask scimitars/curved dagger
+* tonic blue glass bottle, brass protective covering, hardened leather
+over that (aka goblins blood) --- cap also acts as a cup; aromatic
+of cedar (of Lebanon --- Jean R knows its used for mummification);
+blue glass has cobalt (not prevalent here --- Egyptians imported
+it); bottle is involved in distilling it / preserving it
+: heal 4 HPs, CON in temp HPs per dose
 
 
 
@@ -111,7 +120,7 @@ Dagger, WDC 1d4
 Construction +1 speciality
 
 
-HISTORY/DETAIL
+DETAILED ITEM DESCRIPTIONS
 =========================================================================
 * Firemouth: gold-plated touch-port coer; pouch with silver fill;
 rams horn with powder; powder measure on mithril chain; reddish wood
@@ -156,18 +165,6 @@ to inscribe a weapon with mark of Serket in Hieroglyphics
 +1 ward vs mundane and arcane attacks
 
 
-
-NOT CARRIED
-=========================================================================
-* superior hand and a haf pick (replaced quality family heirloom)
-* superior dagger
-* cache of superior damask scimitars/curved dagger
-* tonic blue glass bottle, brass protective covering, hardened leather
-over that (aka goblins blood) --- cap also acts as a cup; aromatic
-of cedar (of Lebanon --- Jean R knows its used for mummification);
-blue glass has cobalt (not prevalent here --- Egyptians imported
-it); bottle is involved in distilling it / preserving it
-: heal 4 HPs, CON in temp HPs per dose
 
 
 HISTORY

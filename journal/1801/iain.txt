@@ -1,84 +1,83 @@
 IAIN McKEWAN, Occultist (White Skinwalker)              LEVEL: III
 ==================================================================
-XP 27,130 (bank 260)                            KARMA 28
+XP 28,615 (bank 1750)                            KARMA 28
 
 STR  DEX   CON  REA  WIL  CHR  SPD  MRK  PERC  ACU  ACT  MOVE
- 11   13     9   17   14   14   17   11
+ 11   13     9   17   14   14   17   11     9   17    4     3
+      +1         +3   +1   +1   +3              +3
 
-STR: 11
-DEX: 13 (+1)
-CON: 9
-REA: 17 (+2)
-WILL: 14 (+1)
-CHR: 14 (+1)
+INIT  MELEE  FIREARM  MISSILE  MDC  FDC
+  +2     +2       +2        0   d6   d6
 
-SPD: 17 (+3)
-MRK: 11
-PERC: 9
-ACU: 17 (+2)
+HPS: 47 (11)    HEAL RATE: 1    SURGERY: d4 + 5
 
-ACT: 4 (3)
-INIT: +2
-MELEE: +2
-FIREARM: +2
-MISSILE: 0
-MDC: 1d6
-PDC: 1d6
+QI: 45 (11)     CAST BONUS: +3 (+1 = 4 buckle)
 
-HPS: 47 (24) (36)
-HEAL RATE: 1
+PISTOL: 1       SWORD: 3
 
-QI: 45 (22) (33)
-CAST BONUS: +3
+METAPHYSICS: 5          MEDICINE: 1          CHEMISTRY: 1
+NATURAL PHILOSOPHY: 3   SYMBOL/RITUAL: 4     ORDERS/SOCIETIES: 3
+LORE/LEGENDS/MYTH: 0    SIGNALS/CYPHERS: 0
 
-Training
---------
-PISTOL  1
-SWORD  3
+ESPIONAGE: 4            NINJITSU: 1          MIMICRY  3
+SEAMANSHIP: 2
 
-Knowledge
----------
-METAPHYSICS  5 (+1 authority = 6)
-MEDICINE  1
-CHEMISTRY  1
-NATURAL PHILOSOPHY  3
-SYMBOLS / SIGNS / RITUALS  4
-ORDERS / SOCIETIES  3
-(LORE / LEGENDS / MYTHS)
-(SIGNALS / CIPHERS)
-melee
-Talent
-------
-ESPIONAGE  4 (+2 for reason)
-NINJITSU  1 [=+dex]
-MIMICRY  3
-NAVIGATION (Seamanship) 2
-
-Skills
-------
-SURGERY 5
-MECHANIC  2
-CUNNING WORKS  2
-LOCKSMITHING  1
-TRACKING  1
-
+SURGERY: 5              MECHANIC: 2          CUNNING WORKS: 2
+LOCKSMITHING: 1         TRACKING: 1
 
 Languages
 ---------
-ENGLISH   Native/Lit
-GAELIC    Native/Lit
-FRENCH    Fluent/Lit
-LATIN     Fluent/Lit
-GREEK     Lit
-ARABIC    Lit
-PROTO-ALGONQUIN HAND SIGNALS  Basics
-FLASH     Basics
-MUSKEGEE  basic
-ORC       basic
-SPANISH   Fluent/literate
+ENGLISH: native/Lit     GAELIC: native/Lit   FRENCH: fluent/lit
+ARABIC: lit             ORC: basic           SPANISH: fluent/lit
+LATIN: fluent/lit       GREEK: lit           FLASH: basic
+MUSKEGEE: basic         PROTO-ALGONQUIN HAND SIGNALS: basic
 
+LIVE
+------------------------------------------------------
+HPS(47):                QI(47): -33        INIT: +2
 
-Baggage Mundane
+SAVES:   ALL: +3,  dex +1, magic +1, conceal +2, cast +1
+
+SMITES: 8                    BANDAGES: 10
+ARCANUM: displacer beast whiskers 2
+
+ARMOR  defense +6, proof +3 (+1 conceal)
+
+WEAPONS
+---------------
++2 MELEE +3 SWORD;  +1 PISTOL +2 FIREARM
+SARACEN BLADE: +2; flex +7, d6 + d8 + 4 (smite)
+LAND PISTOL: hit +5, 5d6
+FRENCH PISTOL: hit +4, 5d6
+HOLSTER: +1 draw
+
+Deflection Field 2, Deform 2, Detect Magick 1,
+Insinuate 2, Magick Missile 4, Recktify 1,
+Revive 1, Sonic Wave Manipulation 1, Sonic Flux 1,
+Shockwave 1
+
+ARMOR
+-------------------------------------------------------------
+MITRIL, ELVEN-ALTERED CLOAK (+2 defense, +1 conceal)
+  4 gold sovereigns sewn into lining
+  elven cord tie decorative beads on drawstrings
+    wine color when blended --- keep hands away
+    1 x 1' sealer (seal door jamb, gum up lock)
+WOLF FANG TOTEM (+1 defense, +1 save vs. magick)
+  single tooth on leather thong
+LIVING BEAST JUMPSUIT (+3 defense, +3 proof, chameleon)
+  Grey metallic jumpsuit feels like fabric, alive
+
+WEAPONS
+-------------------------------------------------------------
+MELEE: +2, SWORD: +3, PISTOL: +1
+SARACEN BLADE: superior +2, wdc d8
+NEW LAND PATTERN CAVALRY PISTOL: superior +2, wdc 4d6 (+1d6 powder)
+HOLSTER: quality +1, conceal +1
+FRENCH PISTOL: quality +1, wdc 4d6 (+1d6 dwarf powder)
+(used) PEPPERBOX ELEMENTAL PISTOL, one orcish shot
+
+BAGGAGE MUNDANE
 ------------------------------------------------------
 SYPGLASS
   Leonardo Semitecolo of Veneto, 8" collapsed, 22" extended
@@ -95,61 +94,59 @@ LIBRARY
   * Survey in 1760s of Southern Florida & waterways
        + some outdated/abandoned Englishs settlements
        author Roman
-
+  x Huerta's bible (New Testament only), rosary (???), and
+    - Gave to Kolancha
+    - leather-bound volume (Spanish and arcane markings)
+    - cabalistic runes, aztec, latin, spanish, incan
+    - some copies (numeric plus transposition)
+    - Ponce de Leon body of water
 QUICK MATCH/SEAL
   acid (24)
 QUALITY WOLF MOCCASINS
-  save dex +1
-  move silently +1
-  from Black Wolf's Wife
+  save dex +1; move silently +1; from Black Wolf's Wife
 QUALITY JEWELER'S LOUP
-STRONG BOX
-  small, from Q
-MEDICAL and SURGERY KIT
-  secret compartments
-    poultices --- dried moss in bundles (2d4 heal potions each)
+STRONG BOX,  small, from Q
+POULTICES * 0
+  2d4 healing in dried moss bundle
+MEDICAL and SURGERY KIT (secrete comparments)
   silken embroidery thread & silk shirt bandages
-  medical sutures, surgical tubing, clamps
-  tongs, scalpels, bonesaw, lancets, needles
-  laudanum and leather bit
-QUALITY HOLSTER
-  conceal +1
-QUALITY AN IX Pistole
-  quality +1
-QUALITY FRENCH PISTOL
-  quality +1
+  medical sutures, surgical tubing, clamps, tongs, scalpels,
+  bonesaw, lancets, needles, laudanum, and leather bit
 
-
-
-Baggage Arcane
+BAGGAGE ARCANE
 ------------------------------------------------------
 ELVEN TALISMAN
   soothes savage beast --- sleepwalk without it
-GOLD HIBERNIAN BUCKLE
+GOLD HIBERNIAN BUCKLE (+1 cast)
   from past age, gift from Stands-on-Dry-Land
-  cast +1 (with stored spell)
-PEPPERBOX ELEMENTAL PISTOL
-  orc wildcard? charge only one left
 TEST TUBES WITH SAMPLES
-  man-thing swamp beast
-  orc, orco-bugbear, and bugbear ears (Ottawa)
-  sabretooth tiger tooth (from past)
-  DRAGODILE SACK JUICE (3)
+  * man-thing swamp beast
+  * orc, orco-bugbear, and bugbear ears (Ottawa)
+  * sabretooth tiger tooth (from past)
+  * DRAGODILE SACK JUICE (3)
     17 intensity bile
-  GYMSUM WEED
+  * GYMSUM WEED
     induces trance
-  GLUE FROM TREPANNED ORC GLUED TO WALL IN FLORIDA
+  * GLUE FROM TREPANNED ORC GLUED TO WALL IN FLORIDA
     brittle, unknown usages
+  * BEHOLDER HARVESTED ANTI-QI
+    lead foil envelope; anti-arcanum; black
+EYE OF BEHOLDER
+  * might be a crafted artifact
+  * retrieved in Florida alien caves
+  * can see in dark with it
+  * can see through it as an eye (held in hand or rolled)
+    --- after perception save
+BEHOLDER SCALES
+  X (burned off in beholder) black qi --- yin to qi's yang
+FLORIDA LIZARDMAN "AXE" BLADES
+  superior +2, wdc +4
+MOONVISION SNUFF BOX * 2
+  moonvision for 1 hour
 
-FLORIDA LIZARDMAN "AXE" BLADES (superior and weapon damage d4)
-
-Moonvision snuff box
-  -- 2 left
-
-Spells
-------
-
-Deflection Field (1) : +4 (+5 w. Talisman)
+SPELLS
+------------------------------------------------------
+DEFLECTION FIELD (1) : +4 (+5 w. Talisman)
   +2 ward
 DEFLECTION FIELD	Vital Forces/Minor
 Level (1)
@@ -283,123 +280,13 @@ Casting Time	15 phases
 Duration of Effect	Caster's Discretion
 Manifestation	Instant
 Range	(1/2 Will)ft
-The Caster can reduce/increase all sound within 1 Hex per Spell Lvl by
-one sound lvl per Spell Lvl.Cost: 1pt. per Hex affected+1pt. per sound
-lvl altered+1pt per phase maintained.
+1 pt/square + 1 pt/sound level
 
 Shockwave (1) : +4 (+5 w. talisman)
   zone: 3 squares
   range: 4 squares
-SHOCKWAVE
-
-
-ARMOR  defense +7, proof +3
--------------------------------------------------------------
-QUALITY CLOAK w. ALTERATIONS
-  defense +2 (mitril plates sewn in)
-  concealment +1 (elven alterations)
-  elven cord tie
-  4 gold sovereigns sewn into lining
-  decorative beads on drawstrings
-    wine color when blended --- keep hands away
-    1 x 1' sealer (seal door jamb, gum up lock)
-    can string together
-WOLF FANG TOTEM
-  single tooth on leather thong
-  defense +1
-  save vs. magic +1
-LIVING BEAST JUMPSUIT
-  defense +3
-  proof +3
-  chameleon powers
-  100 total proof and it dies, but also regenerates
-  Grey metallic jumpsuit feels like fabric
-  conforms to body
-  alive
-QUALITY CLOTHING
-  defense +1
-
-WEAPONS
--------------------------------------------------------------
-SUPERIOR SARACEN BLADE (flex +6, damage d6  + d8 + d4 + 3)
-  flex: melee +2, level +3, quality +2
-  damage: wdc d8, pdc d6, smite d4 + 3
-
-QUALITY FRENCH PISTOL (avail +4, damage 4d6)
-  avail: quality +1, level +1, firearms +2
-  damage: 4d6 (5d6 w. dwarven powder)
-
-NEW LAND PATTERN CAVALRY PISTOL (avail +5, damage 4d6)
-  avail: quality +2, level +1, firearms +2
-  damage: 4d6 (5d6 w. dwarven powder)
-
-IAIN LIVE
-=============================================================
-INIT +2
-
-HPS (47): 46
-
-QI(47)
-  Talisman(33)    33
-  Scratch(14)      4
-  Arcanum
-    distilled     1
-     owlbear      3
-     ogre nail    3
-     displacer beast
-     whiskers     4
-
-MED KIT
-  2d4 poultices        0 poultices
-  bandages & sutures  10 pts
-
-SHIP BANDAGES
-  10 pts
-
-BASIC SURGERY: d4 + 5
-
-CAST BONUS: +3
-
-SMITES
-  sword 12
-
-BONUSES
-  ALL saves: +3 (level)
-  dex +1 (wolf moccasins)
-  magic: +1 (wolf totem)
-  conceal: +1 (elven altered cloak; quality holster +1 for gun)
-  cast: +1 w. stored spell (Hibernian buckle)
-
-SAVES (level, wolf moccasins, wolf totem, quality holster,
-       elven-modified cloak, level)
-  ALL: +3,  dex +1, magic +1, conceal +2, cast +1
-
-SPELLS
-  Deflection Field, Deform, Detect Magick, Insinuate,
-  Magick Missile, Recktify, Revive, Sonic Wave Manipulation,
-  Sonic Flux, Shockwave
-
-PURE ARMOR: 6
-
-BLADE STANCE DD (armor + saracen blade)
-  defense +13, proof +3, offense +0, damage d4 + d6 + d8 + 3
-
-BLADE STANCE D (armor + saracen blade)
-  defense +9, proof +3, offense +4, damage d4 + d6 + d8 + 3
-
-BLADE STANCE O (armor + saracen blade)
-  defense +7, proof +3, offense +6, damage d4 + d6 + d8 + 3
-
-PISTOL STANCE (armor + French and AN IX pistols)
-  defense +7, proof +3, offense +3, damage 4d6 (+1d6 dwarf powder)
-
-Huerta's bible (New Testament only), rosary (???), and
-  * leather-bound volume (Spanish and arcane markings)
-    - Gave to Kolancha
-    - cabalistic runes, aztec, latin, spanish, incan
-    - some copies (numeric plus transposition)
-    - Ponce de Leon body of water
-
+  if greater than con
+  d10 + proficiency
 
 mirror image:  mystic, occult
   dup image + proficiency; 10' spacing to next image
